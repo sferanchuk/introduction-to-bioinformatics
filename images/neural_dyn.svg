@@ -1,0 +1,2280 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="neural_dyn.svg"
+   inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn.png"
+   inkscape:export-xdpi="200"
+   inkscape:export-ydpi="200">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mend"
+       style="overflow:visible;">
+      <path
+         id="path4730"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-939"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5118-08"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker3373"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3375"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DotM"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5155"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker3379"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3381"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5118"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DotM-3"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5155-6"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-5"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5118-3"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-6"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5118-2"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4510"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4512"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DotM-9"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5155-1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4516"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4518"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-62"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5118-6"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4571"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4573"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DotM-1"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5155-8"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4577"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4579"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-7"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5118-5"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4636"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4638"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DotM-92"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5155-2"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4642"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4644"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-3"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5118-1"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-4"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5118-7"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-43"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5118-0"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-8"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5118-68"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-431"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5118-4"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-2"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5118-06"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-9"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4730-2"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-6"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4730-4"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-5"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4730-0"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-8"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4730-7"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-7"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4730-27"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-26"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5118-10"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-1"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5118-59"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-9"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5118-09"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-77"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5118-11"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-97"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5118-76"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5872"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5874"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5876"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5878"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5880"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5882"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-73"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4730-6"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5886"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5888"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5890"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5892"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5894"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5896"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5898"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5900"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5902"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5904"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5906"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5908"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5910"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5912"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5914"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5916"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5918"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5920"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-21"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5118-78"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-74"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4730-1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-96"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5118-43"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker6247"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6249"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DotM-33"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5155-86"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker6253"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6255"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker6247-3"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6249-6"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker6247-5"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6249-3"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker6247-6"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6249-2"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="682.6737"
+     inkscape:cy="920"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="977"
+     inkscape:window-x="-3"
+     inkscape:window-y="-3"
+     inkscape:window-maximized="1"
+     showborder="false"
+     inkscape:showpageshadow="false"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid5219"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="arc"
+       style="fill:#aaccff;fill-opacity:1;stroke:#000000;stroke-width:2.61750388;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path4236-3-6-7"
+       sodipodi:cx="291"
+       sodipodi:cy="322.36218"
+       sodipodi:rx="41"
+       sodipodi:ry="72"
+       d="m 332,322.36218 a 41,72 0 1 1 -82,0 41,72 0 1 1 82,0 z"
+       transform="matrix(1.0004295,0,0,0.58357791,-418.70009,97.771309)"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#aaccff;fill-opacity:1;stroke:#000000;stroke-width:2.61750388;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path4236-3-6-7-2"
+       sodipodi:cx="291"
+       sodipodi:cy="322.36218"
+       sodipodi:rx="41"
+       sodipodi:ry="72"
+       d="m 332,322.36218 a 41,72 0 1 1 -82,0 41,72 0 1 1 82,0 z"
+       transform="matrix(1.0004295,0,0,0.58357791,-279.40006,99.528679)"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#DotM);marker-end:none"
+       d="m -90.971997,296.38424 c -1.12994,-0.2599 64.65181,-0.9462 64.65181,-0.9462"
+       id="path5899-6-9-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#DotM)"
+       d="m -90.864807,271.62615 c 0.2599,-1.12994 60.3432,-0.40202 60.3432,-0.40202"
+       id="path5899-6-9-2-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:12, 12;stroke-dashoffset:0;marker-end:url(#Arrow2Mend)"
+       d="m -73.516717,135.23122 c 0.2599,-1.12994 -55.656803,107.59799 -55.656803,107.59799"
+       id="path5899-6-9-2-6-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:12, 12;stroke-dashoffset:0;marker-end:url(#Arrow2Mend)"
+       d="m -43.902857,139.66835 c 0.2599,-1.12994 56.3432,105.598 56.3432,105.598"
+       id="path5899-6-9-2-6-7-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#003380;fill-opacity:1;stroke:#000000;stroke-width:2.61750388;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path4236-3-6-7-27"
+       sodipodi:cx="291"
+       sodipodi:cy="322.36218"
+       sodipodi:rx="41"
+       sodipodi:ry="72"
+       d="m 332,322.36218 a 41,72 0 1 1 -82,0 41,72 0 1 1 82,0 z"
+       transform="matrix(1.0004295,0,0,0.58357791,-73.30314,99.531149)"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#aaccff;fill-opacity:1;stroke:#000000;stroke-width:2.61750388;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path4236-3-6-7-2-0"
+       sodipodi:cx="291"
+       sodipodi:cy="322.36218"
+       sodipodi:rx="41"
+       sodipodi:ry="72"
+       d="m 332,322.36218 a 41,72 0 1 1 -82,0 41,72 0 1 1 82,0 z"
+       transform="matrix(1.0004295,0,0,0.58357791,65.996893,103.28852)"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#DotM);marker-end:none"
+       d="m 254.42496,298.14409 c -1.1299,-0.2599 64.6518,-0.9462 64.6518,-0.9462"
+       id="path5899-6-9-2-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#DotM)"
+       d="m 254.53216,273.386 c 0.2599,-1.12994 60.3432,-0.40202 60.3432,-0.40202"
+       id="path5899-6-9-2-6-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)"
+       d="m 259.88026,130.99106 c 0.2599,-1.12994 -43.6568,113.598 -43.6568,113.598"
+       id="path5899-6-9-2-6-7-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)"
+       d="m 301.49406,133.42819 c 0.2599,-1.12994 46.3432,111.59801 46.3432,111.59801"
+       id="path5899-6-9-2-6-7-5-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#aaccff;fill-opacity:1;stroke:#000000;stroke-width:2.61750388;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path4236-3-6-7-7"
+       sodipodi:cx="291"
+       sodipodi:cy="322.36218"
+       sodipodi:rx="41"
+       sodipodi:ry="72"
+       d="m 332,322.36218 a 41,72 0 1 1 -82,0 41,72 0 1 1 82,0 z"
+       transform="matrix(1.0004295,0,0,0.58357791,321.51937,2.6726714)"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#80b3ff;fill-opacity:1;stroke:#000000;stroke-width:2.61750388;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path4236-3-6-7-2-9"
+       sodipodi:cx="291"
+       sodipodi:cy="322.36218"
+       sodipodi:rx="41"
+       sodipodi:ry="72"
+       d="m 332,322.36218 a 41,72 0 1 1 -82,0 41,72 0 1 1 82,0 z"
+       transform="matrix(1.0004295,0,0,0.58357791,460.8194,4.4300414)"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#DotM);marker-end:none"
+       d="m 649.24746,201.28559 c -1.12994,-0.2599 64.65181,-0.9462 64.65181,-0.9462"
+       id="path5899-6-9-2-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#DotM)"
+       d="m 649.35465,176.5275 c 0.2599,-1.12994 60.3432,-0.40202 60.3432,-0.40202"
+       id="path5899-6-9-2-6-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:12, 12;stroke-dashoffset:0;marker-end:url(#Arrow2Mend)"
+       d="m 666.70274,40.132581 c 0.2599,-1.12994 -55.6568,107.597979 -55.6568,107.597979"
+       id="path5899-6-9-2-6-7-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:12, 12;stroke-dashoffset:0;marker-end:url(#Arrow2Mend)"
+       d="m 696.3166,44.569711 c 0.2599,-1.12994 56.3432,105.597989 56.3432,105.597989"
+       id="path5899-6-9-2-6-7-5-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <text
+       xml:space="preserve"
+       style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#d40000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="758.29437"
+       y="74.847466"
+       id="text4620"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan4622"
+         x="758.29437"
+         y="74.847466">?</tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="fill:#aaccff;fill-opacity:1;stroke:#000000;stroke-width:2.61750388;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path4236-3-6-7-7-8"
+       sodipodi:cx="291"
+       sodipodi:cy="322.36218"
+       sodipodi:rx="41"
+       sodipodi:ry="72"
+       d="m 332,322.36218 a 41,72 0 1 1 -82,0 41,72 0 1 1 82,0 z"
+       transform="matrix(1.0004295,0,0,0.58357791,607.51937,7.0921014)"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#80b3ff;fill-opacity:1;stroke:#000000;stroke-width:2.61750388;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path4236-3-6-7-2-9-9"
+       sodipodi:cx="291"
+       sodipodi:cy="322.36218"
+       sodipodi:rx="41"
+       sodipodi:ry="72"
+       d="m 332,322.36218 a 41,72 0 1 1 -82,0 41,72 0 1 1 82,0 z"
+       transform="matrix(1.0004295,0,0,0.58357791,746.8194,8.8494714)"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#DotM);marker-end:none"
+       d="m 935.24747,205.70502 c -1.1299,-0.2599 64.6518,-0.94619 64.6518,-0.94619"
+       id="path5899-6-9-2-2-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#DotM)"
+       d="m 935.35467,180.94693 c 0.2599,-1.12994 60.3432,-0.40201 60.3432,-0.40201"
+       id="path5899-6-9-2-6-0-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:12, 12;stroke-dashoffset:0;marker-end:url(#Arrow2Mend)"
+       d="m 952.70277,44.552011 c 0.2599,-1.12994 -55.6568,107.597979 -55.6568,107.597979"
+       id="path5899-6-9-2-6-7-2-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:12, 12;stroke-dashoffset:0;marker-end:url(#Arrow2Mend)"
+       d="m 982.31657,48.989141 c 0.2599,-1.12994 56.34323,105.597989 56.34323,105.597989"
+       id="path5899-6-9-2-6-7-5-3-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <text
+       xml:space="preserve"
+       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#44aa00;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="1044.2944"
+       y="79.266899"
+       id="text4620-2"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan4715"
+         x="1044.2944"
+         y="79.266899">!</tspan></text>
+    <path
+       style="fill:none;stroke:#646464;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.99609375;stroke-dasharray:6, 3;stroke-dashoffset:0;marker-end:url(#Arrow1Mend)"
+       d="m 1040.3167,341.68855 c 0.2599,-1.12994 0.3432,-102.40201 0.3432,-102.40201"
+       id="path5899-6-9-2-6-7-2-6-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#003380;fill-opacity:1;stroke:#000000;stroke-width:2.61750388;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path4236-3-6-7-27-4"
+       sodipodi:cx="291"
+       sodipodi:cy="322.36218"
+       sodipodi:rx="41"
+       sodipodi:ry="72"
+       d="m 332,322.36218 a 41,72 0 1 1 -82,0 41,72 0 1 1 82,0 z"
+       transform="matrix(1.0004295,0,0,0.58357791,746.8194,200.72401)"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#aaccff;fill-opacity:1;stroke:#000000;stroke-width:2.61750388;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path4236-3-6-7-78"
+       sodipodi:cx="291"
+       sodipodi:cy="322.36218"
+       sodipodi:rx="41"
+       sodipodi:ry="72"
+       d="m 332,322.36218 a 41,72 0 1 1 -82,0 41,72 0 1 1 82,0 z"
+       transform="matrix(0.53530393,0,0,0.31225744,1631.7616,-234.29781)"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn_layers.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#80b3ff;fill-opacity:1;stroke:#000000;stroke-width:2.61750388;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path4236-3-6-7-78-4"
+       sodipodi:cx="291"
+       sodipodi:cy="322.36218"
+       sodipodi:rx="41"
+       sodipodi:ry="72"
+       d="m 332,322.36218 a 41,72 0 1 1 -82,0 41,72 0 1 1 82,0 z"
+       transform="matrix(0.53530393,0,0,0.31225744,1696.5833,-234.29781)"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn_layers.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#2a7fff;fill-opacity:1;stroke:#000000;stroke-width:2.61750388;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path4236-3-6-7-78-5"
+       sodipodi:cx="291"
+       sodipodi:cy="322.36218"
+       sodipodi:rx="41"
+       sodipodi:ry="72"
+       d="m 332,322.36218 a 41,72 0 1 1 -82,0 41,72 0 1 1 82,0 z"
+       transform="matrix(0.53530393,0,0,0.31225744,1761.4049,-234.29781)"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn_layers.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#aaccff;fill-opacity:1;stroke:#000000;stroke-width:2.61750388;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path4236-3-6-7-78-0"
+       sodipodi:cx="291"
+       sodipodi:cy="322.36218"
+       sodipodi:rx="41"
+       sodipodi:ry="72"
+       d="m 332,322.36218 a 41,72 0 1 1 -82,0 41,72 0 1 1 82,0 z"
+       transform="matrix(0.53530393,0,0,0.31225744,1826.2266,-234.29781)"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn_layers.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <rect
+       style="fill:none;stroke:#616161;stroke-width:3;stroke-miterlimit:4;stroke-opacity:0.99609375;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect5271"
+       width="241.17117"
+       height="48.100605"
+       x="1764"
+       y="-157.39517"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn_layers.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <g
+       id="g5340"
+       transform="translate(194,43)"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn_layers.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200">
+      <path
+         transform="matrix(0.53530393,0,0,0.31225744,1275.176,-92.59076)"
+         d="m 332,322.36218 c 0,39.7645 -18.35633,72 -41,72 -22.64367,0 -41,-32.2355 -41,-72 0,-39.7645 18.35633,-72 41,-72 22.64367,0 41,32.2355 41,72 z"
+         sodipodi:ry="72"
+         sodipodi:rx="41"
+         sodipodi:cy="322.36218"
+         sodipodi:cx="291"
+         id="path4236-3-6-7-78-3"
+         style="fill:#aaccff;fill-opacity:1;stroke:#000000;stroke-width:2.61750388;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+      <path
+         transform="matrix(0.53530393,0,0,0.31225744,1339.9977,-92.59076)"
+         d="m 332,322.36218 c 0,39.7645 -18.35633,72 -41,72 -22.64367,0 -41,-32.2355 -41,-72 0,-39.7645 18.35633,-72 41,-72 22.64367,0 41,32.2355 41,72 z"
+         sodipodi:ry="72"
+         sodipodi:rx="41"
+         sodipodi:cy="322.36218"
+         sodipodi:cx="291"
+         id="path4236-3-6-7-78-4-6"
+         style="fill:#aaccff;fill-opacity:1;stroke:#000000;stroke-width:2.61750388;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+      <path
+         transform="matrix(0.53530393,0,0,0.31225744,1404.8193,-92.59076)"
+         d="m 332,322.36218 c 0,39.7645 -18.35633,72 -41,72 -22.64367,0 -41,-32.2355 -41,-72 0,-39.7645 18.35633,-72 41,-72 22.64367,0 41,32.2355 41,72 z"
+         sodipodi:ry="72"
+         sodipodi:rx="41"
+         sodipodi:cy="322.36218"
+         sodipodi:cx="291"
+         id="path4236-3-6-7-78-5-1"
+         style="fill:#aaccff;fill-opacity:1;stroke:#000000;stroke-width:2.61750388;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+      <path
+         transform="matrix(0.53530393,0,0,0.31225744,1469.641,-92.59076)"
+         d="m 332,322.36218 c 0,39.7645 -18.35633,72 -41,72 -22.64367,0 -41,-32.2355 -41,-72 0,-39.7645 18.35633,-72 41,-72 22.64367,0 41,32.2355 41,72 z"
+         sodipodi:ry="72"
+         sodipodi:rx="41"
+         sodipodi:cy="322.36218"
+         sodipodi:cx="291"
+         id="path4236-3-6-7-78-0-0"
+         style="fill:#aaccff;fill-opacity:1;stroke:#000000;stroke-width:2.61750388;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+      <rect
+         y="-15.68811"
+         x="1407.4144"
+         height="48.100605"
+         width="241.17117"
+         id="rect5271-6"
+         style="fill:none;stroke:#616161;stroke-width:3;stroke-miterlimit:4;stroke-opacity:0.99609375;stroke-dasharray:none;stroke-dashoffset:0" />
+    </g>
+    <path
+       sodipodi:type="arc"
+       style="fill:#5599ff;fill-opacity:1;stroke:#000000;stroke-width:2.61750388000000012;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path4236-3-6-7-78-32"
+       sodipodi:cx="291"
+       sodipodi:cy="322.36218"
+       sodipodi:rx="41"
+       sodipodi:ry="72"
+       d="m 332,322.36218 a 41,72 0 1 1 -82,0 41,72 0 1 1 82,0 z"
+       transform="matrix(0.53530393,0,0,0.31225744,1793.176,-49.59076)"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn_layers.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#aaccff;fill-opacity:1;stroke:#000000;stroke-width:2.61750388;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path4236-3-6-7-78-4-0"
+       sodipodi:cx="291"
+       sodipodi:cy="322.36218"
+       sodipodi:rx="41"
+       sodipodi:ry="72"
+       d="m 332,322.36218 a 41,72 0 1 1 -82,0 41,72 0 1 1 82,0 z"
+       transform="matrix(0.53530393,0,0,0.31225744,1857.9977,-49.59076)"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn_layers.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#aaccff;fill-opacity:1;stroke:#000000;stroke-width:2.61750388;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path4236-3-6-7-78-5-6"
+       sodipodi:cx="291"
+       sodipodi:cy="322.36218"
+       sodipodi:rx="41"
+       sodipodi:ry="72"
+       d="m 332,322.36218 a 41,72 0 1 1 -82,0 41,72 0 1 1 82,0 z"
+       transform="matrix(0.53530393,0,0,0.31225744,1922.8193,-49.59076)"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn_layers.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#aaccff;fill-opacity:1;stroke:#000000;stroke-width:2.61750388;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path4236-3-6-7-78-0-1"
+       sodipodi:cx="291"
+       sodipodi:cy="322.36218"
+       sodipodi:rx="41"
+       sodipodi:ry="72"
+       d="m 332,322.36218 a 41,72 0 1 1 -82,0 41,72 0 1 1 82,0 z"
+       transform="matrix(0.53530393,0,0,0.31225744,1987.641,-49.59076)"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn_layers.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <rect
+       style="fill:none;stroke:#616161;stroke-width:3;stroke-miterlimit:4;stroke-opacity:0.99609375;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect5271-5"
+       width="241.17117"
+       height="48.100605"
+       x="1925.4144"
+       y="27.31189"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn_layers.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#003380;fill-opacity:1;stroke:#000000;stroke-width:2.61750388;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path4236-3-6-7-78-54"
+       sodipodi:cx="291"
+       sodipodi:cy="322.36218"
+       sodipodi:rx="41"
+       sodipodi:ry="72"
+       d="m 332,322.36218 a 41,72 0 1 1 -82,0 41,72 0 1 1 82,0 z"
+       transform="matrix(-9.692213e-4,-0.53530305,0.31225693,-5.6537332e-4,2005.5049,117.36859)"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn_layers.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#aaccff;fill-opacity:1;stroke:#000000;stroke-width:2.61750388;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path4236-3-6-7-78-4-7"
+       sodipodi:cx="291"
+       sodipodi:cy="322.36218"
+       sodipodi:rx="41"
+       sodipodi:ry="72"
+       d="m 332,322.36218 a 41,72 0 1 1 -82,0 41,72 0 1 1 82,0 z"
+       transform="matrix(-9.692213e-4,-0.53530305,0.31225693,-5.6537332e-4,2005.3876,52.546996)"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn_layers.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#aaccff;fill-opacity:1;stroke:#000000;stroke-width:2.61750388;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path4236-3-6-7-78-5-65"
+       sodipodi:cx="291"
+       sodipodi:cy="322.36218"
+       sodipodi:rx="41"
+       sodipodi:ry="72"
+       d="m 332,322.36218 a 41,72 0 1 1 -82,0 41,72 0 1 1 82,0 z"
+       transform="matrix(-9.692213e-4,-0.53530305,0.31225693,-5.6537332e-4,2005.2702,-12.274498)"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn_layers.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#aaccff;fill-opacity:1;stroke:#000000;stroke-width:2.61750388;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path4236-3-6-7-78-0-6"
+       sodipodi:cx="291"
+       sodipodi:cy="322.36218"
+       sodipodi:rx="41"
+       sodipodi:ry="72"
+       d="m 332,322.36218 a 41,72 0 1 1 -82,0 41,72 0 1 1 82,0 z"
+       transform="matrix(-9.692213e-4,-0.53530305,0.31225693,-5.6537332e-4,2005.1528,-77.096091)"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn_layers.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <rect
+       style="fill:none;stroke:#616161;stroke-width:3;stroke-miterlimit:4;stroke-opacity:0.99609375;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect5271-9"
+       width="241.17117"
+       height="48.100605"
+       x="11.238864"
+       y="2082.1919"
+       transform="matrix(-0.0018106,-0.99999836,0.99999836,-0.0018106,0,0)"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn_layers.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#003380;fill-opacity:1;stroke:#000000;stroke-width:2.61750388;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path4236-3-6-7-78-54-7"
+       sodipodi:cx="291"
+       sodipodi:cy="322.36218"
+       sodipodi:rx="41"
+       sodipodi:ry="72"
+       d="m 332,322.36218 a 41,72 0 1 1 -82,0 41,72 0 1 1 82,0 z"
+       transform="matrix(-9.692213e-4,-0.53530305,0.31225693,-5.6537332e-4,1561.5049,113.36859)"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn_layers.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#aaccff;fill-opacity:1;stroke:#000000;stroke-width:2.61750388;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path4236-3-6-7-78-4-7-4"
+       sodipodi:cx="291"
+       sodipodi:cy="322.36218"
+       sodipodi:rx="41"
+       sodipodi:ry="72"
+       d="m 332,322.36218 a 41,72 0 1 1 -82,0 41,72 0 1 1 82,0 z"
+       transform="matrix(-9.692213e-4,-0.53530305,0.31225693,-5.6537332e-4,1561.3876,48.546996)"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn_layers.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#aaccff;fill-opacity:1;stroke:#000000;stroke-width:2.61750388;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path4236-3-6-7-78-5-65-5"
+       sodipodi:cx="291"
+       sodipodi:cy="322.36218"
+       sodipodi:rx="41"
+       sodipodi:ry="72"
+       d="m 332,322.36218 a 41,72 0 1 1 -82,0 41,72 0 1 1 82,0 z"
+       transform="matrix(-9.692213e-4,-0.53530305,0.31225693,-5.6537332e-4,1561.2702,-16.274498)"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn_layers.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#aaccff;fill-opacity:1;stroke:#000000;stroke-width:2.61750388;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path4236-3-6-7-78-0-6-2"
+       sodipodi:cx="291"
+       sodipodi:cy="322.36218"
+       sodipodi:rx="41"
+       sodipodi:ry="72"
+       d="m 332,322.36218 a 41,72 0 1 1 -82,0 41,72 0 1 1 82,0 z"
+       transform="matrix(-9.692213e-4,-0.53530305,0.31225693,-5.6537332e-4,1561.1528,-81.096091)"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn_layers.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <rect
+       style="fill:none;stroke:#616161;stroke-width:3;stroke-miterlimit:4;stroke-opacity:0.99609375;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect5271-9-5"
+       width="241.17117"
+       height="48.100605"
+       x="16.042765"
+       y="1638.1998"
+       transform="matrix(-0.0018106,-0.99999836,0.99999836,-0.0018106,0,0)"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn_layers.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:12, 3;stroke-dashoffset:0;marker-end:url(#Arrow2Mend)"
+       d="m 1789.8278,-253.29004 c 0.2599,-1.12994 0.3432,71.59799 0.3432,71.59799"
+       id="path5899-6-9-2-6-7-6-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn_layers.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:12, 3;stroke-dashoffset:0;marker-end:url(#Arrow2Mend)"
+       d="m 1853.646,-253.29004 c 0.2599,-1.12994 0.3432,71.59799 0.3432,71.59799"
+       id="path5899-6-9-2-6-7-6-4-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn_layers.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:12, 3;stroke-dashoffset:0;marker-end:url(#Arrow2Mend)"
+       d="m 1925.646,-253.29004 c 0.2599,-1.12994 0.3432,71.59799 0.3432,71.59799"
+       id="path5899-6-9-2-6-7-6-4-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn_layers.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:12, 3;stroke-dashoffset:0;marker-end:url(#Arrow2Mend)"
+       d="m 1979.646,-253.29004 c 0.2599,-1.12994 0.3432,71.59799 0.3432,71.59799"
+       id="path5899-6-9-2-6-7-6-4-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn_layers.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#646464;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6, 2;stroke-dashoffset:0;marker-end:url(#Arrow1Mend)"
+       d="m 2081.646,-40.66684 c 0.2599,-1.12994 -163.6568,-70.40201 -163.6568,-70.40201"
+       id="path5899-6-9-2-6-7-6-4-9-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn_layers.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#646464;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6, 2;stroke-dashoffset:0;marker-end:url(#Arrow1Mend)"
+       d="m 1684.3403,-33.03947 c 0.2599,-1.12994 222.3432,-74.40201 222.3432,-74.40201"
+       id="path5899-6-9-2-6-7-6-4-9-8-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn_layers.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#646464;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6, 2;stroke-dashoffset:0;marker-end:url(#Arrow1Mend)"
+       d="m 1690.3403,-239.03947 c 0.2599,-1.12994 78.3432,83.59799 78.3432,83.59799"
+       id="path5899-6-9-2-6-7-6-4-9-8-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn_layers.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#646464;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6, 2;stroke-dashoffset:0;marker-end:url(#Arrow1Mend)"
+       d="m 2082.3403,-167.03947 c 0.2599,-1.12994 -79.6568,27.59799 -79.6568,27.59799"
+       id="path5899-6-9-2-6-7-6-4-9-8-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn_layers.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#646464;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6, 2;stroke-dashoffset:0;marker-end:url(#Arrow1Mend)"
+       d="m 1688.3403,-51.03947 c 0.2599,-1.12994 150.3432,-56.40201 150.3432,-56.40201"
+       id="path5899-6-9-2-6-7-6-4-9-8-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn_layers.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#646464;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6, 2;stroke-dashoffset:0;marker-end:url(#Arrow1Mend)"
+       d="m 2084.3403,-103.03947 c 0.2599,-1.12994 -81.6568,-16.40201 -81.6568,-16.40201"
+       id="path5899-6-9-2-6-7-6-4-9-8-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn_layers.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:12, 3;stroke-dashoffset:0;marker-end:url(#Arrow2Mend)"
+       d="m 1851.646,-108.66684 c 0.2599,-1.12994 -93.6568,137.59799 -93.6568,137.59799"
+       id="path5899-6-9-2-6-7-6-4-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn_layers.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:12, 3;stroke-dashoffset:0;marker-end:url(#Arrow2Mend)"
+       d="m 1917.646,-106.66684 c 0.2599,-1.12994 34.3432,131.59799 34.3432,131.59799"
+       id="path5899-6-9-2-6-7-6-4-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn_layers.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:12, 3;stroke-dashoffset:0;marker-end:url(#Arrow2Mend)"
+       d="m 1923.646,-104.66684 c 0.2599,-1.12994 90.3432,129.59799 90.3432,129.59799"
+       id="path5899-6-9-2-6-7-6-4-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn_layers.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:12, 3;stroke-dashoffset:0;marker-end:url(#Arrow2Mend)"
+       d="m 1849.646,-104.66684 c 0.2599,-1.12994 -21.6568,125.59799 -21.6568,125.59799"
+       id="path5899-6-9-2-6-7-6-4-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn_layers.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#aaccff;fill-opacity:1;stroke:#000000;stroke-width:2.61750388;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path4236-3-6-7-78-56"
+       sodipodi:cx="291"
+       sodipodi:cy="322.36218"
+       sodipodi:rx="41"
+       sodipodi:ry="72"
+       d="m 332,322.36218 a 41,72 0 1 1 -82,0 41,72 0 1 1 82,0 z"
+       transform="matrix(0.53530393,0,0,0.31225744,2406.7507,-228.76752)"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn_layers.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#aaccff;fill-opacity:1;stroke:#000000;stroke-width:2.61750388;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path4236-3-6-7-78-4-3"
+       sodipodi:cx="291"
+       sodipodi:cy="322.36218"
+       sodipodi:rx="41"
+       sodipodi:ry="72"
+       d="m 332,322.36218 a 41,72 0 1 1 -82,0 41,72 0 1 1 82,0 z"
+       transform="matrix(0.53530393,0,0,0.31225744,2471.5724,-228.76752)"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn_layers.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#003380;fill-opacity:1;stroke:#000000;stroke-width:2.61750388;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path4236-3-6-7-78-5-9"
+       sodipodi:cx="291"
+       sodipodi:cy="322.36218"
+       sodipodi:rx="41"
+       sodipodi:ry="72"
+       d="m 332,322.36218 a 41,72 0 1 1 -82,0 41,72 0 1 1 82,0 z"
+       transform="matrix(0.53530393,0,0,0.31225744,2536.394,-228.76752)"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn_layers.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#aaccff;fill-opacity:1;stroke:#000000;stroke-width:2.61750388;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path4236-3-6-7-78-0-4"
+       sodipodi:cx="291"
+       sodipodi:cy="322.36218"
+       sodipodi:rx="41"
+       sodipodi:ry="72"
+       d="m 332,322.36218 a 41,72 0 1 1 -82,0 41,72 0 1 1 82,0 z"
+       transform="matrix(0.53530393,0,0,0.31225744,2601.2157,-228.76752)"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn_layers.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <rect
+       style="fill:none;stroke:#616161;stroke-width:3;stroke-miterlimit:4;stroke-opacity:0.99609375;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect5271-8"
+       width="241.17117"
+       height="48.100605"
+       x="2538.989"
+       y="-151.86488"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn_layers.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <g
+       id="g5340-1"
+       transform="translate(968.98901,48.530282)"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn_layers.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200">
+      <path
+         transform="matrix(0.53530393,0,0,0.31225744,1275.176,-92.59076)"
+         d="m 332,322.36218 c 0,39.7645 -18.35633,72 -41,72 -22.64367,0 -41,-32.2355 -41,-72 0,-39.7645 18.35633,-72 41,-72 22.64367,0 41,32.2355 41,72 z"
+         sodipodi:ry="72"
+         sodipodi:rx="41"
+         sodipodi:cy="322.36218"
+         sodipodi:cx="291"
+         id="path4236-3-6-7-78-3-2"
+         style="fill:#aaccff;fill-opacity:1;stroke:#000000;stroke-width:2.61750388;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+      <path
+         transform="matrix(0.53530393,0,0,0.31225744,1339.9977,-92.59076)"
+         d="m 332,322.36218 c 0,39.7645 -18.35633,72 -41,72 -22.64367,0 -41,-32.2355 -41,-72 0,-39.7645 18.35633,-72 41,-72 22.64367,0 41,32.2355 41,72 z"
+         sodipodi:ry="72"
+         sodipodi:rx="41"
+         sodipodi:cy="322.36218"
+         sodipodi:cx="291"
+         id="path4236-3-6-7-78-4-6-9"
+         style="fill:#aaccff;fill-opacity:1;stroke:#000000;stroke-width:2.61750388;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+      <path
+         transform="matrix(0.53530393,0,0,0.31225744,1404.8193,-92.59076)"
+         d="m 332,322.36218 c 0,39.7645 -18.35633,72 -41,72 -22.64367,0 -41,-32.2355 -41,-72 0,-39.7645 18.35633,-72 41,-72 22.64367,0 41,32.2355 41,72 z"
+         sodipodi:ry="72"
+         sodipodi:rx="41"
+         sodipodi:cy="322.36218"
+         sodipodi:cx="291"
+         id="path4236-3-6-7-78-5-1-3"
+         style="fill:#aaccff;fill-opacity:1;stroke:#000000;stroke-width:2.61750388;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+      <path
+         transform="matrix(0.53530393,0,0,0.31225744,1469.641,-92.59076)"
+         d="m 332,322.36218 c 0,39.7645 -18.35633,72 -41,72 -22.64367,0 -41,-32.2355 -41,-72 0,-39.7645 18.35633,-72 41,-72 22.64367,0 41,32.2355 41,72 z"
+         sodipodi:ry="72"
+         sodipodi:rx="41"
+         sodipodi:cy="322.36218"
+         sodipodi:cx="291"
+         id="path4236-3-6-7-78-0-0-9"
+         style="fill:#aaccff;fill-opacity:1;stroke:#000000;stroke-width:2.61750388;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+      <rect
+         y="-15.68811"
+         x="1407.4144"
+         height="48.100605"
+         width="241.17117"
+         id="rect5271-6-0"
+         style="fill:none;stroke:#616161;stroke-width:3;stroke-miterlimit:4;stroke-opacity:0.99609375;stroke-dasharray:none;stroke-dashoffset:0" />
+    </g>
+    <path
+       sodipodi:type="arc"
+       style="fill:#003380;fill-opacity:1;stroke:#000000;stroke-width:2.61750388;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path4236-3-6-7-78-32-8"
+       sodipodi:cx="291"
+       sodipodi:cy="322.36218"
+       sodipodi:rx="41"
+       sodipodi:ry="72"
+       d="m 332,322.36218 a 41,72 0 1 1 -82,0 41,72 0 1 1 82,0 z"
+       transform="matrix(0.53530393,0,0,0.31225744,2568.1651,-44.060478)"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn_layers.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#aaccff;fill-opacity:1;stroke:#000000;stroke-width:2.61750388;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path4236-3-6-7-78-4-0-5"
+       sodipodi:cx="291"
+       sodipodi:cy="322.36218"
+       sodipodi:rx="41"
+       sodipodi:ry="72"
+       d="m 332,322.36218 a 41,72 0 1 1 -82,0 41,72 0 1 1 82,0 z"
+       transform="matrix(0.53530393,0,0,0.31225744,2632.9868,-44.060478)"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn_layers.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#aaccff;fill-opacity:1;stroke:#000000;stroke-width:2.61750388;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path4236-3-6-7-78-5-6-0"
+       sodipodi:cx="291"
+       sodipodi:cy="322.36218"
+       sodipodi:rx="41"
+       sodipodi:ry="72"
+       d="m 332,322.36218 a 41,72 0 1 1 -82,0 41,72 0 1 1 82,0 z"
+       transform="matrix(0.53530393,0,0,0.31225744,2697.8084,-44.060478)"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn_layers.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#aaccff;fill-opacity:1;stroke:#000000;stroke-width:2.61750388;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path4236-3-6-7-78-0-1-9"
+       sodipodi:cx="291"
+       sodipodi:cy="322.36218"
+       sodipodi:rx="41"
+       sodipodi:ry="72"
+       d="m 332,322.36218 a 41,72 0 1 1 -82,0 41,72 0 1 1 82,0 z"
+       transform="matrix(0.53530393,0,0,0.31225744,2762.6301,-44.060478)"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn_layers.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <rect
+       style="fill:none;stroke:#616161;stroke-width:3;stroke-miterlimit:4;stroke-opacity:0.99609375;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect5271-5-6"
+       width="241.17117"
+       height="48.100605"
+       x="2700.4036"
+       y="32.842178"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn_layers.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#003380;fill-opacity:1;stroke:#000000;stroke-width:2.61750388;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path4236-3-6-7-78-54-3"
+       sodipodi:cx="291"
+       sodipodi:cy="322.36218"
+       sodipodi:rx="41"
+       sodipodi:ry="72"
+       d="m 332,322.36218 a 41,72 0 1 1 -82,0 41,72 0 1 1 82,0 z"
+       transform="matrix(-9.692213e-4,-0.53530305,0.31225693,-5.6537332e-4,2780.494,122.89888)"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn_layers.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#aaccff;fill-opacity:1;stroke:#000000;stroke-width:2.61750388;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path4236-3-6-7-78-4-7-8"
+       sodipodi:cx="291"
+       sodipodi:cy="322.36218"
+       sodipodi:rx="41"
+       sodipodi:ry="72"
+       d="m 332,322.36218 a 41,72 0 1 1 -82,0 41,72 0 1 1 82,0 z"
+       transform="matrix(-9.692213e-4,-0.53530305,0.31225693,-5.6537332e-4,2780.3767,58.077282)"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn_layers.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#aaccff;fill-opacity:1;stroke:#000000;stroke-width:2.61750388;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path4236-3-6-7-78-5-65-56"
+       sodipodi:cx="291"
+       sodipodi:cy="322.36218"
+       sodipodi:rx="41"
+       sodipodi:ry="72"
+       d="m 332,322.36218 a 41,72 0 1 1 -82,0 41,72 0 1 1 82,0 z"
+       transform="matrix(-9.692213e-4,-0.53530305,0.31225693,-5.6537332e-4,2780.2593,-6.7442184)"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn_layers.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#aaccff;fill-opacity:1;stroke:#000000;stroke-width:2.61750388;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path4236-3-6-7-78-0-6-1"
+       sodipodi:cx="291"
+       sodipodi:cy="322.36218"
+       sodipodi:rx="41"
+       sodipodi:ry="72"
+       d="m 332,322.36218 a 41,72 0 1 1 -82,0 41,72 0 1 1 82,0 z"
+       transform="matrix(-9.692213e-4,-0.53530305,0.31225693,-5.6537332e-4,2780.1419,-71.565808)"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn_layers.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <rect
+       style="fill:none;stroke:#616161;stroke-width:3;stroke-miterlimit:4;stroke-opacity:0.99609375;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect5271-9-1"
+       width="241.17117"
+       height="48.100605"
+       x="4.3054047"
+       y="2857.1694"
+       transform="matrix(-0.0018106,-0.99999836,0.99999836,-0.0018106,0,0)"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn_layers.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#003380;fill-opacity:1;stroke:#000000;stroke-width:2.61750388;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path4236-3-6-7-78-54-7-5"
+       sodipodi:cx="291"
+       sodipodi:cy="322.36218"
+       sodipodi:rx="41"
+       sodipodi:ry="72"
+       d="m 332,322.36218 a 41,72 0 1 1 -82,0 41,72 0 1 1 82,0 z"
+       transform="matrix(-9.692213e-4,-0.53530305,0.31225693,-5.6537332e-4,2336.494,118.89888)"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn_layers.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#aaccff;fill-opacity:1;stroke:#000000;stroke-width:2.61750388;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path4236-3-6-7-78-4-7-4-9"
+       sodipodi:cx="291"
+       sodipodi:cy="322.36218"
+       sodipodi:rx="41"
+       sodipodi:ry="72"
+       d="m 332,322.36218 a 41,72 0 1 1 -82,0 41,72 0 1 1 82,0 z"
+       transform="matrix(-9.692213e-4,-0.53530305,0.31225693,-5.6537332e-4,2336.3767,54.077282)"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn_layers.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#aaccff;fill-opacity:1;stroke:#000000;stroke-width:2.61750388;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path4236-3-6-7-78-5-65-5-8"
+       sodipodi:cx="291"
+       sodipodi:cy="322.36218"
+       sodipodi:rx="41"
+       sodipodi:ry="72"
+       d="m 332,322.36218 a 41,72 0 1 1 -82,0 41,72 0 1 1 82,0 z"
+       transform="matrix(-9.692213e-4,-0.53530305,0.31225693,-5.6537332e-4,2336.2593,-10.744218)"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn_layers.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#aaccff;fill-opacity:1;stroke:#000000;stroke-width:2.61750388;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path4236-3-6-7-78-0-6-2-4"
+       sodipodi:cx="291"
+       sodipodi:cy="322.36218"
+       sodipodi:rx="41"
+       sodipodi:ry="72"
+       d="m 332,322.36218 a 41,72 0 1 1 -82,0 41,72 0 1 1 82,0 z"
+       transform="matrix(-9.692213e-4,-0.53530305,0.31225693,-5.6537332e-4,2336.1419,-75.565808)"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn_layers.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <rect
+       style="fill:none;stroke:#616161;stroke-width:3;stroke-miterlimit:4;stroke-opacity:0.99609375;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect5271-9-5-8"
+       width="241.17117"
+       height="48.100605"
+       x="9.1092987"
+       y="2413.1775"
+       transform="matrix(-0.0018106,-0.99999836,0.99999836,-0.0018106,0,0)"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn_layers.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:12, 3;stroke-dashoffset:0;marker-end:url(#Arrow2Mend)"
+       d="m 2564.8169,-247.75975 c 0.2599,-1.12994 0.3432,71.59799 0.3432,71.59799"
+       id="path5899-6-9-2-6-7-6-4-10"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn_layers.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#Arrow2Mend)"
+       d="m 2628.6351,-247.75975 c 0.2599,-1.12994 0.3432,71.59799 0.3432,71.59799"
+       id="path5899-6-9-2-6-7-6-4-7-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn_layers.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#Arrow2Mend)"
+       d="m 2700.6351,-247.75975 c 0.2599,-1.12994 0.3432,71.59799 0.3432,71.59799"
+       id="path5899-6-9-2-6-7-6-4-8-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn_layers.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#Arrow2Mend)"
+       d="m 2754.6351,-247.75975 c 0.2599,-1.12994 0.3432,71.59799 0.3432,71.59799"
+       id="path5899-6-9-2-6-7-6-4-9-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn_layers.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#646464;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6, 2;stroke-dashoffset:0;marker-end:url(#Arrow1Mend)"
+       d="m 2856.6351,-35.136558 c 0.2599,-1.12994 -163.6568,-70.402002 -163.6568,-70.402002"
+       id="path5899-6-9-2-6-7-6-4-9-8-44"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn_layers.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#646464;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6, 2;stroke-dashoffset:0;marker-end:url(#Arrow1Mend)"
+       d="m 2459.3294,-27.509188 c 0.2599,-1.12994 222.3432,-74.402002 222.3432,-74.402002"
+       id="path5899-6-9-2-6-7-6-4-9-8-6-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn_layers.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#646464;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6, 2;stroke-dashoffset:0;marker-end:url(#Arrow1Mend)"
+       d="m 2465.3294,-233.50918 c 0.2599,-1.12994 78.3432,83.59799 78.3432,83.59799"
+       id="path5899-6-9-2-6-7-6-4-9-8-9-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn_layers.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#646464;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6, 2;stroke-dashoffset:0;marker-end:url(#Arrow1Mend)"
+       d="m 2857.3294,-161.50918 c 0.2599,-1.12994 -79.6568,27.59799 -79.6568,27.59799"
+       id="path5899-6-9-2-6-7-6-4-9-8-4-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn_layers.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#646464;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6, 2;stroke-dashoffset:0;marker-end:url(#Arrow1Mend)"
+       d="m 2463.3294,-45.509188 c 0.2599,-1.12994 150.3432,-56.402002 150.3432,-56.402002"
+       id="path5899-6-9-2-6-7-6-4-9-8-1-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn_layers.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#646464;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6, 2;stroke-dashoffset:0;marker-end:url(#Arrow1Mend)"
+       d="m 2859.3294,-97.509184 c 0.2599,-1.12994 -81.6568,-16.402006 -81.6568,-16.402006"
+       id="path5899-6-9-2-6-7-6-4-9-8-2-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn_layers.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:12, 3;stroke-dashoffset:0;marker-end:url(#Arrow2Mend)"
+       d="m 2626.6351,-103.13655 c 0.2599,-1.12994 -93.6568,137.597982 -93.6568,137.597982"
+       id="path5899-6-9-2-6-7-6-4-6-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn_layers.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#Arrow2Mend)"
+       d="m 2692.6351,-101.13655 c 0.2599,-1.12994 34.3432,131.597982 34.3432,131.597982"
+       id="path5899-6-9-2-6-7-6-4-4-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn_layers.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#Arrow2Mend)"
+       d="m 2698.6351,-99.136554 c 0.2599,-1.129936 90.3432,129.597986 90.3432,129.597986"
+       id="path5899-6-9-2-6-7-6-4-1-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn_layers.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:12, 3;stroke-dashoffset:0;marker-end:url(#Arrow2Mend)"
+       d="m 2624.6351,-99.136554 c 0.2599,-1.129936 -21.6568,125.597986 -21.6568,125.597986"
+       id="path5899-6-9-2-6-7-6-4-5-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn_layers.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#Arrow2Mend)"
+       d="m 2723.4284,83.430192 c 0.2599,-1.12994 2.3432,77.597998 2.3432,77.597998"
+       id="path5899-6-9-2-6-7-6-4-1-9-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn_layers.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#646464;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6, 2;stroke-dashoffset:0;marker-end:url(#Arrow1Mend)"
+       d="m 2014.4994,157.70246 c 0.2599,-1.12994 -63.6568,-84.40201 -63.6568,-84.40201"
+       id="path5899-6-9-2-6-7-6-4-9-8-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn_layers.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <g
+       id="g5340-1-5"
+       transform="translate(194.1421,-529.62238)"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn_layers.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200">
+      <path
+         transform="matrix(0.53530393,0,0,0.31225744,1275.176,-92.59076)"
+         d="m 332,322.36218 c 0,39.7645 -18.35633,72 -41,72 -22.64367,0 -41,-32.2355 -41,-72 0,-39.7645 18.35633,-72 41,-72 22.64367,0 41,32.2355 41,72 z"
+         sodipodi:ry="72"
+         sodipodi:rx="41"
+         sodipodi:cy="322.36218"
+         sodipodi:cx="291"
+         id="path4236-3-6-7-78-3-2-9"
+         style="fill:#aaccff;fill-opacity:1;stroke:#000000;stroke-width:2.61750388;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+      <path
+         transform="matrix(0.53530393,0,0,0.31225744,1339.9977,-92.59076)"
+         d="m 332,322.36218 c 0,39.7645 -18.35633,72 -41,72 -22.64367,0 -41,-32.2355 -41,-72 0,-39.7645 18.35633,-72 41,-72 22.64367,0 41,32.2355 41,72 z"
+         sodipodi:ry="72"
+         sodipodi:rx="41"
+         sodipodi:cy="322.36218"
+         sodipodi:cx="291"
+         id="path4236-3-6-7-78-4-6-9-7"
+         style="fill:#aaccff;fill-opacity:1;stroke:#000000;stroke-width:2.61750388;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+      <path
+         transform="matrix(0.53530393,0,0,0.31225744,1404.8193,-92.59076)"
+         d="m 332,322.36218 c 0,39.7645 -18.35633,72 -41,72 -22.64367,0 -41,-32.2355 -41,-72 0,-39.7645 18.35633,-72 41,-72 22.64367,0 41,32.2355 41,72 z"
+         sodipodi:ry="72"
+         sodipodi:rx="41"
+         sodipodi:cy="322.36218"
+         sodipodi:cx="291"
+         id="path4236-3-6-7-78-5-1-3-5"
+         style="fill:#aaccff;fill-opacity:1;stroke:#000000;stroke-width:2.61750388;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+      <path
+         transform="matrix(0.53530393,0,0,0.31225744,1469.641,-92.59076)"
+         d="m 332,322.36218 c 0,39.7645 -18.35633,72 -41,72 -22.64367,0 -41,-32.2355 -41,-72 0,-39.7645 18.35633,-72 41,-72 22.64367,0 41,32.2355 41,72 z"
+         sodipodi:ry="72"
+         sodipodi:rx="41"
+         sodipodi:cy="322.36218"
+         sodipodi:cx="291"
+         id="path4236-3-6-7-78-0-0-9-3"
+         style="fill:#aaccff;fill-opacity:1;stroke:#000000;stroke-width:2.61750388;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+      <rect
+         y="-15.68811"
+         x="1407.4144"
+         height="48.100605"
+         width="241.17117"
+         id="rect5271-6-0-8"
+         style="fill:none;stroke:#616161;stroke-width:3;stroke-miterlimit:4;stroke-opacity:0.99609375;stroke-dasharray:none;stroke-dashoffset:0" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="1863.9335"
+       y="-506.10114"
+       id="text6197"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn_layers.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan6199"
+         x="1863.9335"
+         y="-506.10114">&quot;Слой&quot;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="1598.3618"
+       y="-338.45404"
+       id="text6197-8"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn_layers.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan6222"
+         x="1598.3618"
+         y="-338.45404">Шаг 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="2367.6941"
+       y="-338.45404"
+       id="text6197-1"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn_layers.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan6233"
+         x="2367.6941"
+         y="-338.45404">Шаг 2</tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="fill:#aaccff;fill-opacity:1;stroke:#000000;stroke-width:2.61750388000000012;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path4236-3-6-7-27-0"
+       sodipodi:cx="291"
+       sodipodi:cy="322.36218"
+       sodipodi:rx="41"
+       sodipodi:ry="72"
+       d="m 332,322.36218 a 41,72 0 1 1 -82,0 41,72 0 1 1 82,0 z"
+       transform="matrix(1.0004295,0,0,0.58357791,903.53192,6.6051939)"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#003380;fill-opacity:1;stroke:#000000;stroke-width:2.61750388000000012;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path4236-3-6-7-2-0-4"
+       sodipodi:cx="291"
+       sodipodi:cy="322.36218"
+       sodipodi:rx="41"
+       sodipodi:ry="72"
+       d="m 332,322.36218 a 41,72 0 1 1 -82,0 41,72 0 1 1 82,0 z"
+       transform="matrix(1.0004295,0,0,0.58357791,1042.832,10.362564)"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#DotM);marker-end:none"
+       d="m 1231.26,205.21813 c -1.1299,-0.2599 64.6518,-0.9462 64.6518,-0.9462"
+       id="path5899-6-9-2-9-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#DotM)"
+       d="m 1231.3672,180.46004 c 0.2599,-1.12994 60.3432,-0.40202 60.3432,-0.40202"
+       id="path5899-6-9-2-6-3-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)"
+       d="m 1236.7153,38.065104 c 0.2599,-1.12994 -43.6568,113.597996 -43.6568,113.597996"
+       id="path5899-6-9-2-6-7-6-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)"
+       d="m 1278.3291,40.502234 c 0.2599,-1.12994 46.3432,111.598006 46.3432,111.598006"
+       id="path5899-6-9-2-6-7-5-0-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:6.82389641;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#marker6247)"
+       id="path3223"
+       sodipodi:cx="-98.994949"
+       sodipodi:cy="-590.95398"
+       sodipodi:rx="45.254833"
+       sodipodi:ry="42.426407"
+       d="m -66.348687,-561.57234 a 45.254833,42.426407 0 1 1 -1.956182,-60.56136"
+       sodipodi:start="0.76499284"
+       sodipodi:end="5.4576469"
+       sodipodi:open="true"
+       transform="matrix(0.58617538,0,0,0.58617538,-128.45245,633.67531)"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:6.82389641;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#marker6247)"
+       id="path3223-7"
+       sodipodi:cx="-98.994949"
+       sodipodi:cy="-590.95398"
+       sodipodi:rx="45.254833"
+       sodipodi:ry="42.426407"
+       d="m -127.2297,-624.1102 a 45.254833,42.426407 0 1 1 4.06629,69.02568"
+       sodipodi:start="4.0386584"
+       sodipodi:end="8.4173683"
+       transform="matrix(0.58617538,0,0,0.58617538,126.33524,635.64214)"
+       sodipodi:open="true"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:6.82389641;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#marker6247)"
+       id="path3223-7-5"
+       sodipodi:cx="-98.994949"
+       sodipodi:cy="-590.95398"
+       sodipodi:rx="45.254833"
+       sodipodi:ry="42.426407"
+       d="m -127.2297,-624.1102 a 45.254833,42.426407 0 1 1 4.06629,69.02568"
+       sodipodi:start="4.0386584"
+       sodipodi:end="8.4173683"
+       transform="matrix(0.58617538,0,0,0.58617538,468.91542,639.82945)"
+       sodipodi:open="true"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:6.82389641;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#marker6247)"
+       id="path3223-9"
+       sodipodi:cx="-98.994949"
+       sodipodi:cy="-590.95398"
+       sodipodi:rx="45.254833"
+       sodipodi:ry="42.426407"
+       d="m -66.348687,-561.57234 a 45.254833,42.426407 0 1 1 -1.956182,-60.56136"
+       sodipodi:start="0.76499284"
+       sodipodi:end="5.4576469"
+       sodipodi:open="true"
+       transform="matrix(0.58617538,0,0,0.58617538,216.84492,641.299)"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/neural_dyn.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+  </g>
+</svg>

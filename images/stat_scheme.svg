@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="stat_scheme.svg"
+   inkscape:export-filename="/home/sergey/work/herbs/sbio-images/electro_scheme.png"
+   inkscape:export-xdpi="200"
+   inkscape:export-ydpi="200">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart"
+       style="overflow:visible">
+      <path
+         id="path3780"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;">
+      <path
+         id="path3783"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="405.02025"
+     inkscape:cy="599.11166"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1280"
+     inkscape:window-height="977"
+     inkscape:window-x="-3"
+     inkscape:window-y="-3"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3004"
+       empspacing="10"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#Arrow1Lend);marker-start:url(#Arrow1Lstart)"
+       d="m 720,572.36218 -440,0 0,-440"
+       id="path3006"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#646464;fill-opacity:0.20703125000000000;stroke:#646464;stroke-width:0.71979877;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4588"
+       sodipodi:cx="400"
+       sodipodi:cy="512.36218"
+       sodipodi:rx="40"
+       sodipodi:ry="20"
+       d="m 440,512.36218 a 40,20 0 1 1 -0.002,-0.1954"
+       sodipodi:start="0"
+       sodipodi:end="6.2734152"
+       sodipodi:open="true"
+       transform="matrix(1.1296497,0,0,6.8342994,-68.359889,-3099.2745)" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4590"
+       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L;text-anchor:start;text-align:start;writing-mode:lr"><flowRegion
+         id="flowRegion4592"><rect
+           id="rect4594"
+           width="232"
+           height="30"
+           x="364"
+           y="591.36218"
+           style="-inkscape-font-specification:Nimbus Roman No9 L;font-family:Nimbus Roman No9 L;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:28px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%" /></flowRegion><flowPara
+         id="flowPara4596">Точность и сложность</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4598"
+       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+       transform="translate(66,-8.8509917)"><flowRegion
+         id="flowRegion4600"><rect
+           id="rect4602"
+           width="478"
+           height="128"
+           x="294"
+           y="594.36218"
+           style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L" /></flowRegion><flowPara
+         id="flowPara4604">Точность и сложность</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4598-3"
+       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+       transform="matrix(0,-1,1,0,-361.21317,846.36218)"
+       inkscape:transform-center-x="240.06275"
+       inkscape:transform-center-y="-87.120003"><flowRegion
+         id="flowRegion4600-6"><rect
+           id="rect4602-7"
+           width="478"
+           height="128"
+           x="294"
+           y="594.36218"
+           style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L" /></flowRegion><flowPara
+         id="flowPara4705">Применимость и практичность</flowPara><flowPara
+         id="flowPara4707" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4598-35"
+       style="font-size:22px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L Italic"
+       transform="translate(26,-303.18782)"><flowRegion
+         id="flowRegion4600-62"><rect
+           id="rect4602-9"
+           width="478"
+           height="128"
+           x="294"
+           y="594.36218"
+           style="font-size:22px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L Italic" /></flowRegion><flowPara
+         id="flowPara3016">Распределение Больцмана</flowPara></flowRoot>    <path
+       transform="matrix(0.05147913,0.56515761,-1.26531,0.09415326,1066.7054,209.28103)"
+       sodipodi:type="arc"
+       style="fill:#646464;fill-opacity:0.20703125000000000;stroke:#646464;stroke-width:2.35711017;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4588-2"
+       sodipodi:cx="400"
+       sodipodi:cy="512.36218"
+       sodipodi:rx="90.215324"
+       sodipodi:ry="30.916267"
+       d="m 490.21532,512.36218 a 90.215324,30.916267 0 1 1 -0.004,-0.30205"
+       sodipodi:start="0"
+       sodipodi:end="6.2734152"
+       sodipodi:open="true"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4598-35-7"
+       style="font-size:22px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L Italic"
+       transform="translate(126,-103.18782)"><flowRegion
+         id="flowRegion4600-62-0"><rect
+           id="rect4602-9-9"
+           width="478"
+           height="128"
+           x="294"
+           y="594.36218"
+           style="font-size:22px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L Italic" /></flowRegion><flowPara
+         id="flowPara3020">Гидрофобные взаимодействия</flowPara></flowRoot>    <path
+       transform="matrix(1.4156783,0,0,1.8216514,-79.27131,-508.76094)"
+       sodipodi:type="arc"
+       style="fill:#646464;fill-opacity:0.20703125;stroke:#646464;stroke-width:1.24541783;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4588-6"
+       sodipodi:cx="400"
+       sodipodi:cy="512.36218"
+       sodipodi:rx="56"
+       sodipodi:ry="27.7222"
+       d="m 456,512.36218 a 56,27.7222 0 1 1 -0.003,-0.27084"
+       sodipodi:start="0"
+       sodipodi:end="6.2734152"
+       sodipodi:open="true" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4598-35-0"
+       style="font-size:22px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L Italic"
+       transform="translate(126,-203.18782)"><flowRegion
+         id="flowRegion4600-62-6"><rect
+           id="rect4602-9-2"
+           width="478"
+           height="128"
+           x="294"
+           y="594.36218"
+           style="font-size:22px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L Italic" /></flowRegion><flowPara
+         id="flowPara3018">Уравнение Ланжевена</flowPara></flowRoot>  </g>
+</svg>

@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="2400"
+   height="2400"
+   id="normal"
+   background-color="white"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="relations_betwen_traditions.svg"
+   inkscape:export-filename="/home/sergey/work/herbs/sbio-images/linguistics/relations_betwen_traditions.png"
+   inkscape:export-xdpi="70"
+   inkscape:export-ydpi="70">
+  <metadata
+     id="metadata105">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs103" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="977"
+     id="namedview101"
+     showgrid="false"
+     inkscape:zoom="0.27812867"
+     inkscape:cx="929.92994"
+     inkscape:cy="1433.8467"
+     inkscape:window-x="-3"
+     inkscape:window-y="-3"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="normal"
+     showborder="false"
+     inkscape:showpageshadow="false" />
+  <line
+     style="fill:none;stroke:#000000;stroke-width:3.48749995px"
+     y1="1180"
+     x1="1222.5"
+     id="line9"
+     x2="1222.5"
+     y2="1186" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:3.48749995px"
+     class="domain"
+     d="m 60,1186 v -6 h 2325 v 6"
+     id="path13"
+     inkscape:connector-curvature="0" />
+  <line
+     style="fill:none;stroke:#000000;stroke-width:3.48749995px"
+     y1="1180"
+     x1="1222.5"
+     id="line21"
+     y2="1180"
+     x2="1216.5" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:3.48749995px"
+     class="domain"
+     d="m 1216.5,20 h 6 v 2320 h -6"
+     id="path25"
+     inkscape:connector-curvature="0" />
+  <text
+     id="text29"
+     style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
+     y="1475.3253"
+     x="650.31244"
+     class="dodo"
+     sodipodi:linespacing="125%">Korean</text>
+  <text
+     id="text31"
+     style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
+     y="1851.7368"
+     x="1611.8635"
+     class="dodo"
+     sodipodi:linespacing="125%">Central europe</text>
+  <text
+     id="text33"
+     style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
+     y="544.64294"
+     x="862.71436"
+     class="dodo"
+     sodipodi:linespacing="125%">Indian</text>
+  <text
+     id="text35"
+     style="font-size:56px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans Bold"
+     y="1505.3285"
+     x="966.03082"
+     class="dodo"
+     sodipodi:linespacing="125%">Official</text>
+  <text
+     id="text37"
+     style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
+     y="1611.3472"
+     x="479.16299"
+     class="dodo"
+     sodipodi:linespacing="125%">Chinese</text>
+  <text
+     id="text39"
+     style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
+     y="1034.5436"
+     x="945.53534"
+     class="dodo"
+     sodipodi:linespacing="125%">Arabic</text>
+  <text
+     id="text41"
+     style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
+     y="1323.0513"
+     x="693.01233"
+     class="dodo"
+     sodipodi:linespacing="125%">Japanese</text>
+  <text
+     id="text43"
+     style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
+     y="1425.3018"
+     x="1472.6512"
+     class="dodo"
+     sodipodi:linespacing="125%">European</text>
+  <text
+     id="text45"
+     style="font-size:56px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans Bold"
+     y="1001.9406"
+     x="427.45328"
+     class="dodo"
+     sodipodi:linespacing="125%">Modern</text>
+  <text
+     id="text47"
+     style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
+     y="1356.6095"
+     x="1032.1887"
+     class="dodo"
+     sodipodi:linespacing="125%">Tibet</text>
+  <text
+     id="text49"
+     style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
+     y="918.21454"
+     x="1635.907"
+     class="dodo"
+     sodipodi:linespacing="125%">Mexican</text>
+  <text
+     id="text51"
+     style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
+     y="1431.8579"
+     x="1939.17"
+     class="dodo"
+     sodipodi:linespacing="125%">Mediterranean</text>
+  <text
+     id="text53"
+     style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
+     y="597.52441"
+     x="1270.8348"
+     class="dodo"
+     sodipodi:linespacing="125%">African</text>
+  <text
+     id="text55"
+     style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
+     y="817.42682"
+     x="1729.1351"
+     class="dodo"
+     sodipodi:linespacing="125%">
+    <tspan
+       sodipodi:role="line"
+       id="tspan3165">Latin America</tspan>
+  </text>
+  <text
+     id="text57"
+     style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
+     y="1608.1548"
+     x="1749.7561"
+     class="dodo"
+     sodipodi:linespacing="125%">Russian</text>
+  <text
+     id="text59"
+     style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
+     y="783.18042"
+     x="1349.2146"
+     class="dodo"
+     sodipodi:linespacing="125%">Australian</text>
+  <text
+     id="text61"
+     style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
+     y="1032.62"
+     x="1334.7161"
+     class="dodo"
+     sodipodi:linespacing="125%">
+    <tspan
+       sodipodi:role="line"
+       id="tspan3167">Middle Eastern</tspan>
+  </text>
+  <text
+     id="text63"
+     style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
+     y="1267.3999"
+     x="1503.2451"
+     class="dodo"
+     sodipodi:linespacing="125%">
+    <tspan
+       sodipodi:role="line"
+       id="tspan3163">Native American</tspan>
+  </text>
+  <path
+     inkscape:connector-curvature="0"
+     id="path65"
+     style="fill:#1f77b4"
+     d="m 670.67522,1428.7792 a 32.267539,32.267539 0 1 1 0,-64.535 32.267539,32.267539 0 0 1 0,64.535 z"
+     class="point" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path67"
+     style="fill:#1f77b4"
+     d="m 1616.9521,1780.9473 a 15.65124,15.65124 0 1 1 0,-31.3024 15.65124,15.65124 0 0 1 0,31.3024 z"
+     class="point" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path69"
+     style="fill:#1f77b4"
+     d="m 997.4659,635.76515 a 32.647657,32.647657 0 1 1 0,-65.29532 32.647657,32.647657 0 0 1 0,65.29532 z"
+     class="point" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path71"
+     style="fill:#1f77b4"
+     d="m 973.69146,1448.6716 a 19.614295,19.614295 0 1 1 0,-39.2284 19.614295,19.614295 0 0 1 0,39.2284 z"
+     class="point" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path73"
+     style="fill:#1f77b4"
+     d="m 495.96869,1531.4007 a 55.808539,55.808539 0 1 1 0,-111.617 55.808539,55.808539 0 0 1 0,111.617 z"
+     class="point" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path75"
+     style="fill:#1f77b4"
+     d="m 986.21846,1084.9264 a 19.874304,19.874304 0 1 1 0,-39.7486 19.874304,19.874304 0 0 1 0,39.7486 z"
+     class="point" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path77"
+     style="fill:#1f77b4"
+     d="m 700.66541,1392.5935 a 26.321947,26.321947 0 1 1 0,-52.6438 26.321947,26.321947 0 0 1 0,52.6438 z"
+     class="point" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path79"
+     style="fill:#1f77b4"
+     d="m 1482.8337,1359.7803 a 28.54632,28.54632 0 1 1 0,-57.0926 28.54632,28.54632 0 0 1 0,57.0926 z"
+     class="point" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path81"
+     style="fill:#1f77b4"
+     d="m 656.29185,1099.0835 a 33.58386,33.58386 0 1 1 0,-67.1676 33.58386,33.58386 0 0 1 0,67.1676 z"
+     class="point" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path83"
+     style="fill:#1f77b4"
+     d="m 1131.3413,1419.5756 a 19.74576,19.74576 0 1 1 0,-39.4916 19.74576,19.74576 0 0 1 0,39.4916 z"
+     class="point" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path85"
+     style="fill:#1f77b4"
+     d="m 1579.9772,923.25546 a 22.837565,22.837565 0 1 1 0,-45.67512 22.837565,22.837565 0 0 1 0,45.67512 z"
+     class="point" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path87"
+     style="fill:#1f77b4"
+     d="m 1885.815,1421.4762 a 25.211729,25.211729 0 1 1 0,-50.4232 25.211729,25.211729 0 0 1 0,50.4232 z"
+     class="point" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path89"
+     style="fill:#1f77b4"
+     d="m 1232.707,612.59809 a 27.785546,27.785546 0 1 1 0,-55.57107 27.785546,27.785546 0 0 1 0,55.57107 z"
+     class="point" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path91"
+     style="fill:#1f77b4"
+     d="m 1685.92,813.69174 a 16.603921,16.603921 0 1 1 0,-33.20784 16.603921,16.603921 0 0 1 0,33.20784 z"
+     class="point" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path93"
+     style="fill:#1f77b4"
+     d="m 1703.9945,1593.3981 a 18.29424,18.29424 0 1 1 0,-36.5884 18.29424,18.29424 0 0 1 0,36.5884 z"
+     class="point" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path95"
+     style="fill:#1f77b4"
+     d="m 1305.9965,810.28796 a 19.480421,19.480421 0 1 1 0,-38.96084 19.480421,19.480421 0 0 1 0,38.96084 z"
+     class="point" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path97"
+     style="fill:#1f77b4"
+     d="m 1306.7779,1024.222 a 14.483515,14.483515 0 1 1 0,-28.9668 14.483515,14.483515 0 0 1 0,28.9668 z"
+     class="point" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path99"
+     style="fill:#1f77b4"
+     d="m 1457.4921,1266.9477 a 14.802048,14.802048 0 1 1 0,-29.604 14.802048,14.802048 0 0 1 0,29.604 z"
+     class="point" />
+</svg>

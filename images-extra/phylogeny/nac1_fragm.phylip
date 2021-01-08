@@ -1,0 +1,61 @@
+ 5 480
+Arabidopsi   ttcattttcc cacgtccctc cgggttttag atttcacccg acagatgaag
+Rice         cgcattctcc catgtcccgc caggttttcg tttccaccct actgacgagg
+Populus      tacttttaca catgttcctc ctggtttccg gttccatcct accgacgaag
+Wheat        tgttttttcc catgtcccac ctggtttccg tttccacccc actgacgagg
+Grape        tacctttgca catgttcccc ctggttttcg gttccatcca actgatgaag
+
+             aacttgtaga ctactacctg aggaaaaaag tcgcatcgaa gagaatagaa
+             aactcgtgga ttactacctt aggaagaagg tagcactgaa gaagatagac
+             aacttgtcga ttactacctt aggaaaaaag tgaattcaag aaggattgat
+             aactggtgga ttactacctg aggaagaagg tgcaactgaa gaggattgac
+             agctcgtaga ttactacctc agaaaaaagg ttacttcaag aagaattgac
+
+             attgatttca taaaggacat tgatctttac aagattgagc catgggacct
+             ttggacgtca taaaagatat tgatctgtac aaaattgagc cttgggacct
+             gtagatgtca ttaaagatgt cgacctttac aaaattgagc catgggatct
+             ttggacatta taaaagacgt tgatttgtac aaaattgagc cttgggatct
+             ctagatgtca ttaaggatgt tgatctctat aaaatagagc catgggatct
+
+             tcaagagttg tgcaaaattg ggcatgaaga gcagagtgat tggtacttct
+             acaagaacaa tgcaagattg gaaacgagga gcagaacgag tggtacttct
+             tcaagaacta tgccgaatag gaaccgagga acaaaatgaa tggtactttt
+             acaagaacga tgcaagatcg gaacggaaga ccagaacgac tggttcttct
+             tcaagaactt tgcagaatag gaacggatga gcaaaatgaa tggtactttt
+
+             ttagccataa agacaagaag tatcccacag ggactcgaac caatagagca
+             tcagccacaa ggacaagaag tacccgacgg gcacacgcac caacagggcg
+             ttagccacaa agataagaag tatccaactg gaactcgcac aaatagagcc
+             tcagccacaa ggacaagaag tatcccaccg gcactcgcac taacagagca
+             ttagccataa agataagaag tatccgactg ggactcgaac aaatagggct
+
+             acaaaagcag ggttttggaa agccaccgga agagataagg ctatctattt
+             accactgccg gcttttggaa ggccaccggg agggacaagc cgatctatgt
+             actgctgctg ggttttggaa agcaacaggt agagacaagg caatttattc
+             actactgctg gtttctggaa ggctaccggc cgggacaagc cgatctacgt
+             acagcggctg gattttggaa agcaacagga agagacaaag ctatttactc
+
+             gaggcatagt ctaattggca tgaggaaaac acttgtgttt tacaagggaa
+             caagaactgc cttgttggga tgaggaagac gttggttttc tacaggggcc
+             gaagcaagac ttgatcggaa tgaggaagac cttagtcttt tataaaggtc
+             gaagcactgc ctcgtgggga tgaggaagac gctggttttc tacaagggcc
+             taagcatgac ttgattggca tgaggaagac cttagtcttt tacaaaggtc
+
+             gagccccaaa tggacaaaag tctgattgga tcatgcacga ataccgctta
+             gggctcccaa cggacagaag tcggactgga tcatgcacga gtatcgcttg
+             gagctccgaa tgggcagaaa tcggactgga ttatgcatga ataccgactc
+             gggctcccaa tgggcagaag ttggattgga tcatgcacga gtatcgcctg
+             gagccccgaa tggtcaaaaa tcagattgga ttatgcatga ataccgactt
+
+             gaaaccgatg aaaacggaac tcctcaggaa gaaggatggg ttgtgtgtag
+             gagaccaacg aatacggagc tccccaagag gaaggatggg tggtctgcag
+             gaaacagatg aaaatgggac tccacaggca aaaggttggg tcgtgtgtag
+             gagaccaacg aaaatggagc tccccacgac gaaggatggg tggtctgcaa
+             gaaacagatg agaatgggac tcctcaggaa gaaggttggg ttgtgtgcag
+
+             ggttttcaag aagagattgg ctgcagttag
+             ggtgttcaag aagcgagtcg cggcggtgca
+             ggtgttcaag aaaagattac caacgatgcg
+             ggtgttcaag aagcgagttg cgacggtgca
+             agtgttcaag aagagaatag caacggtgag
+

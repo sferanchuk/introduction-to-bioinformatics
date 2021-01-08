@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="pf_folding_hydrophobic.svg"
+   inkscape:export-filename="/home/sergey/work/herbs/sbio-images/pf_hydrophobic.png"
+   inkscape:export-xdpi="400"
+   inkscape:export-ydpi="400">
+  <defs
+     id="defs4">
+    <clipPath
+       id="clipPath3096"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path3098"
+         clip-rule="evenodd"
+         d="m 520.97363,786.59052 c 0,-2.00092 -1.00042,-3.00135 -3.00134,-3.00135 l -19.50861,0 c -2.00088,0 -3.00131,1.00043 -3.00131,3.00135 l 0,9.00396 25.51126,0 0,-9.00396 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath3082"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path3084"
+         clip-rule="evenodd"
+         d="m 581,13 -568,0 0,814.85864 568,0 L 581,13 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath3070"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path3072"
+         clip-rule="evenodd"
+         d="m 37.010567,69.274765 519.978883,0 0,726.319705 -519.978883,0 0,-726.319705 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath3058"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path3060"
+         clip-rule="evenodd"
+         d="m 581,13 -568,0 0,814.85864 568,0 L 581,13 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath3044"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path3046"
+         clip-rule="evenodd"
+         d="m 36.260239,27.256275 127.556141,0 0,41.268169 -127.556141,0 0,-41.268169 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath3030"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path3032"
+         clip-rule="evenodd"
+         d="m 581,13 -568,0 0,814.85864 568,0 L 581,13 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath3018"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path3020"
+         clip-rule="evenodd"
+         d="M 0,0 594,0 594,842 0,842 0,0 z" />
+    </clipPath>
+    <filter
+       id="filter4253"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:label="Lightness-Contrast"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Increase or decrease lightness and contrast"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         id="feFlood4255"
+         result="result1"
+         flood-opacity="0"
+         flood-color="rgb(128,128,128)" />
+      <feBlend
+         id="feBlend4257"
+         in2="SourceGraphic"
+         mode="normal"
+         result="result2" />
+      <feComposite
+         k4="0"
+         k3="0"
+         k1="0"
+         id="feComposite4259"
+         in2="SourceGraphic"
+         k2="1"
+         operator="arithmetic"
+         result="result3" />
+      <feComposite
+         id="feComposite4261"
+         in2="SourceGraphic"
+         operator="in" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2"
+     inkscape:cx="156.87068"
+     inkscape:cy="547.76607"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="977"
+     inkscape:window-x="-3"
+     inkscape:window-y="-3"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#646464;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 405,653.86218 c -19.04315,0.37968 -40.67115,-6.73619 -49.89091,-7.61697 -7.93069,-0.75763 -17.50789,-2.8985 -16.51408,-10.29741 1.53275,-11.41132 -12.09535,-11.50513 -21.59501,-15.58562 -21.61868,-9.28611 22.2328,-17.41769 41.36008,-5.648 9.17579,5.64619 24.7915,-46.62085 -19.36008,-43.352 -20.65158,1.52898 -59.04757,25.97547 -17.5,-15.5 8.12864,-8.11453 76.18235,27.33606 36.53946,-13.3155 -14.74887,-15.12414 26.199,-23.24589 21.66781,-12.50345 -16.97372,40.24086 20.47396,16.23271 22.79273,21.81895 1.33799,3.2234 1.73057,16.0143 27.42555,24.40827 13.53209,4.42062 -0.53024,29.74612 13.57445,27.09173 16.93504,-3.18703 58.12698,-40.62698 66,-48.5"
+       id="path3156"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csssssssssssc"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/pf_hydrophobic.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#323232;fill-opacity:1;stroke:#646464;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4005-3"
+       sodipodi:cx="142"
+       sodipodi:cy="441.86218"
+       sodipodi:rx="15"
+       sodipodi:ry="16.5"
+       d="m 157,441.86218 a 15,16.5 0 1 1 -30,0 15,16.5 0 1 1 30,0 z"
+       transform="matrix(0.64516129,0,0,0.64516129,414.8871,437.28981)"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/pf_hydrophobic.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#323232;fill-opacity:1;stroke:#646464;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4005-6"
+       sodipodi:cx="142"
+       sodipodi:cy="441.86218"
+       sodipodi:rx="15"
+       sodipodi:ry="16.5"
+       d="m 157,441.86218 a 15,16.5 0 1 1 -30,0 15,16.5 0 1 1 30,0 z"
+       transform="matrix(0.64516129,0,0,0.64516129,301.8871,461.78981)"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/pf_hydrophobic.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#c5c2c4;fill-opacity:1;stroke:#ff6464;stroke-width:6.19999981;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4005-7-5"
+       sodipodi:cx="142"
+       sodipodi:cy="441.86218"
+       sodipodi:rx="15"
+       sodipodi:ry="16.5"
+       d="m 157,441.86218 a 15,16.5 0 1 1 -30,0 15,16.5 0 1 1 30,0 z"
+       transform="matrix(0.64516129,0,0,0.64516129,325.3871,163.28981)"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/pf_hydrophobic.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#c5c2c4;fill-opacity:1;stroke:#6464ff;stroke-width:6.19999981;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4005-7-5-2"
+       sodipodi:cx="142"
+       sodipodi:cy="441.86218"
+       sodipodi:rx="15"
+       sodipodi:ry="16.5"
+       d="m 157,441.86218 a 15,16.5 0 1 1 -30,0 15,16.5 0 1 1 30,0 z"
+       transform="matrix(0.64516129,0,0,0.64516129,232.8871,213.78981)"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/pf_hydrophobic.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#c5c2c4;fill-opacity:1;stroke:#ff6464;stroke-width:6.19999981;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4005-7-5-9"
+       sodipodi:cx="142"
+       sodipodi:cy="441.86218"
+       sodipodi:rx="15"
+       sodipodi:ry="16.5"
+       d="m 157,441.86218 a 15,16.5 0 1 1 -30,0 15,16.5 0 1 1 30,0 z"
+       transform="matrix(0.64516129,0,0,0.64516129,149.3871,467.28981)"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/pf_hydrophobic.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#c5c2c4;fill-opacity:1;stroke:#6464ff;stroke-width:6.19999981;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4005-7-5-1"
+       sodipodi:cx="142"
+       sodipodi:cy="441.86218"
+       sodipodi:rx="15"
+       sodipodi:ry="16.5"
+       d="m 157,441.86218 a 15,16.5 0 1 1 -30,0 15,16.5 0 1 1 30,0 z"
+       transform="matrix(0.64516129,0,0,0.64516129,424.8871,489.78981)"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/pf_hydrophobic.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:none;stroke:#646464;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 44.975729,517.29502 c 17.283715,-1.26075 33.475155,6.77277 50.981186,6.21349 13.218215,-0.42229 26.325665,2.01585 39.627795,1.3643 16.68211,-0.81711 33.34092,0.56478 49.75482,3.05221 12.43739,1.88482 28.29166,-11.03417 19.16534,-22.20989 -7.28898,-8.9258 -19.99964,-9.64971 -31.67457,-9.84976 -12.15773,-0.20831 -11.92256,-2.30365 -36.12878,-4.6677 -13.62131,-1.3303 -25.02087,-3.36632 -37.802745,-3.90758 -14.785509,-0.6261 -32.079937,-3.76517 -40.768293,-16.84296 -5.795101,-8.72284 2.017363,-18.55985 12.807019,-19.30253 13.202002,-0.90873 25.086858,-1.28939 37.715799,2.4282 12.78612,3.76386 26.42953,8.01994 39.53124,6.39604 13.10171,-1.6239 25.25284,2.90775 37.21788,6.70975 9.46857,3.00873 24.94345,14.62455 31.56442,7.50796 7.96656,-8.56291 2.44189,-24.10783 -1.76876,-35.26509 -5.57356,-14.76868 -16.6928,-26.71138 -25.26934,-39.82696 -5.89899,-8.98652 -24.88075,-16.70118 -27.38466,-1.02055 -1.86265,11.66473 9.99726,25.99373 -2.29572,34.85224 -10.29581,6.27798 -24.77278,1.73628 -28.41059,-10.70148 -3.19494,-10.92359 -1.33055,-28.137 -14.73976,-31.4321 -11.79191,-2.89767 -25.738228,-3.18636 -36.993221,1.76674 -12.400476,7.89841 -10.533937,25.38112 -23.211065,33.49584 -3.12808,2.00231 -20.018806,4.31081 -14.617028,8.10568"
+       id="path3047"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csssssssssszssscscsscsc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#3863a0;fill-opacity:1;stroke:#3863a0;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4005"
+       sodipodi:cx="142"
+       sodipodi:cy="441.86218"
+       sodipodi:rx="15"
+       sodipodi:ry="16.5"
+       d="m 157,441.86218 a 15,16.5 0 1 1 -30,0 15,16.5 0 1 1 30,0 z"
+       transform="matrix(0.64516129,0,0,0.64516129,2.3871,202.32206)"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/pf_hydrophobic.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#3863a0;fill-opacity:1;stroke:none"
+       id="path4005-36"
+       sodipodi:cx="142"
+       sodipodi:cy="441.86218"
+       sodipodi:rx="15"
+       sodipodi:ry="16.5"
+       d="m 157,441.86218 a 15,16.5 0 1 1 -30,0 15,16.5 0 1 1 30,0 z"
+       transform="matrix(0.64516129,0,0,0.64516129,92.8871,181.28981)"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/pf_hydrophobic.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#3863a0;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4005-7"
+       sodipodi:cx="142"
+       sodipodi:cy="441.86218"
+       sodipodi:rx="15"
+       sodipodi:ry="16.5"
+       d="m 157,441.86218 a 15,16.5 0 1 1 -30,0 15,16.5 0 1 1 30,0 z"
+       transform="matrix(0.64516129,0,0,0.64516129,32.3871,-58.710193)"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/pf_hydrophobic.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#3863a0;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4005-5"
+       sodipodi:cx="142"
+       sodipodi:cy="441.86218"
+       sodipodi:rx="15"
+       sodipodi:ry="16.5"
+       d="m 157,441.86218 a 15,16.5 0 1 1 -30,0 15,16.5 0 1 1 30,0 z"
+       transform="matrix(0.64516129,0,0,0.64516129,32.3871,1.289807)"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/pf_hydrophobic.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#3863a0;fill-opacity:1;stroke:none"
+       id="path4005-35"
+       sodipodi:cx="142"
+       sodipodi:cy="441.86218"
+       sodipodi:rx="15"
+       sodipodi:ry="16.5"
+       d="m 157,441.86218 a 15,16.5 0 1 1 -30,0 15,16.5 0 1 1 30,0 z"
+       transform="matrix(0.64516129,0,0,0.64516129,60.8871,207.78981)"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/pf_hydrophobic.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#3863a0;fill-opacity:1;stroke:none"
+       id="path4005-62"
+       sodipodi:cx="142"
+       sodipodi:cy="441.86218"
+       sodipodi:rx="15"
+       sodipodi:ry="16.5"
+       d="m 157,441.86218 a 15,16.5 0 1 1 -30,0 15,16.5 0 1 1 30,0 z"
+       transform="matrix(0.64516129,0,0,0.64516129,34.8871,172.78981)"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/pf_hydrophobic.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#3863a0;fill-opacity:1;stroke:#3863a0;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4005-9"
+       sodipodi:cx="142"
+       sodipodi:cy="441.86218"
+       sodipodi:rx="15"
+       sodipodi:ry="16.5"
+       d="m 157,441.86218 a 15,16.5 0 1 1 -30,0 15,16.5 0 1 1 30,0 z"
+       transform="matrix(0.64516129,0,0,0.64516129,71.3871,143.28981)"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/pf_hydrophobic.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#3863a0;fill-opacity:1;stroke:#3863a0;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4005-1"
+       sodipodi:cx="142"
+       sodipodi:cy="441.86218"
+       sodipodi:rx="15"
+       sodipodi:ry="16.5"
+       d="m 157,441.86218 a 15,16.5 0 1 1 -30,0 15,16.5 0 1 1 30,0 z"
+       transform="matrix(0.64516129,0,0,0.64516129,35.8871,123.78981)"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/pf_hydrophobic.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#3863a0;fill-opacity:1;stroke:#3863a0;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4005-2"
+       sodipodi:cx="142"
+       sodipodi:cy="441.86218"
+       sodipodi:rx="15"
+       sodipodi:ry="16.5"
+       d="m 157,441.86218 a 15,16.5 0 1 1 -30,0 15,16.5 0 1 1 30,0 z"
+       transform="matrix(0.64516129,0,0,0.64516129,34.3871,240.28981)"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/pf_hydrophobic.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#65cca2;fill-opacity:1;stroke:none"
+       id="path4005-70"
+       sodipodi:cx="142"
+       sodipodi:cy="441.86218"
+       sodipodi:rx="15"
+       sodipodi:ry="16.5"
+       d="m 157,441.86218 a 15,16.5 0 1 1 -30,0 15,16.5 0 1 1 30,0 z"
+       transform="matrix(0.64516129,0,0,0.64516129,128.3871,164.28981)"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/pf_hydrophobic.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#65cca2;fill-opacity:1;stroke:none"
+       id="path4005-70-9"
+       sodipodi:cx="142"
+       sodipodi:cy="441.86218"
+       sodipodi:rx="15"
+       sodipodi:ry="16.5"
+       d="m 157,441.86218 a 15,16.5 0 1 1 -30,0 15,16.5 0 1 1 30,0 z"
+       transform="matrix(0.64516129,0,0,0.64516129,104.8871,124.78981)"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/pf_hydrophobic.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#65cca2;fill-opacity:1;stroke:none"
+       id="path4005-70-3"
+       sodipodi:cx="142"
+       sodipodi:cy="441.86218"
+       sodipodi:rx="15"
+       sodipodi:ry="16.5"
+       d="m 157,441.86218 a 15,16.5 0 1 1 -30,0 15,16.5 0 1 1 30,0 z"
+       transform="matrix(0.64516129,0,0,0.64516129,113.3871,232.28981)"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/pf_hydrophobic.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#65cca2;fill-opacity:1;stroke:none"
+       id="path4005-70-6"
+       sodipodi:cx="142"
+       sodipodi:cy="441.86218"
+       sodipodi:rx="15"
+       sodipodi:ry="16.5"
+       d="m 157,441.86218 a 15,16.5 0 1 1 -30,0 15,16.5 0 1 1 30,0 z"
+       transform="matrix(0.64516129,0,0,0.64516129,-9.1129,107.28981)"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/pf_hydrophobic.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#65cca2;fill-opacity:1;stroke:none"
+       id="path4005-70-0"
+       sodipodi:cx="142"
+       sodipodi:cy="441.86218"
+       sodipodi:rx="15"
+       sodipodi:ry="16.5"
+       d="m 157,441.86218 a 15,16.5 0 1 1 -30,0 15,16.5 0 1 1 30,0 z"
+       transform="matrix(0.64516129,0,0,0.64516129,-19.6129,234.28981)"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/pf_hydrophobic.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#65cca2;fill-opacity:1;stroke:none"
+       id="path4005-70-62"
+       sodipodi:cx="142"
+       sodipodi:cy="441.86218"
+       sodipodi:rx="15"
+       sodipodi:ry="16.5"
+       d="m 157,441.86218 a 15,16.5 0 1 1 -30,0 15,16.5 0 1 1 30,0 z"
+       transform="matrix(0.64516129,0,0,0.64516129,-30.1129,172.28981)"
+       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/pf_hydrophobic.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+  </g>
+</svg>

@@ -1,0 +1,277 @@
+html>
+<head>
+
+	<title></title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<style>
+	body, html { background-color: #ebdebe;  font-size: 14px; font-family:Arial,Helvetica,Verdana,sans-serif;}
+	input { font-size: 90%; }
+	a:link, a:visited, a:hover, a:active {text-decoration: none; font-style:oblique; font-weight: normal; padding: 0;color: #814115; }
+	.indextable td { padding: 2px 5px 2px 5px; }
+	.levellabel {font-size:150%;text-decoration: underline;}
+	.columnheader {font-style:oblique; font-size:120%;}
+	.rowheader {font-style:oblique; font-weight: bold; }
+	.auxbutton { font-size: 80%; }
+	.submitbutton { font-size: 100%; font-style:oblique; font-weight: bold;  }
+	.submitbuttonold { font-size: 100%; font-style:oblique; font-weight: bold; background-color: #9bacbc; border: 1px solid #898989; border-radius: 4px; }
+	select { font-size: 80%; background-color: #d5dade;  }
+	.taginput { font-size: 80%; background-color: #dae0f2; border: 1px solid #898989;  }
+	.taginputlabel { font-size: 120%; background-color: #ebdebe; border: 0px solid #898989; color: #38332f; font-weight: bold; }
+	.tagmodlabel { font-size: 100%; background-color: #ebdebe; border: 0px solid #898989; color: #a14120; font-weight: bold; }
+	.siteheader a { color: #085d91; font-size:160%; padding:5px;  }
+	.datasetheader a { color: black; font-size:80%; padding:5px;  }
+	.servicedupl { font-size: 110%; color: #085d91; }
+	#id_samples { font-size: 80%; background-color: #d5dade; }
+	.description { font-size:90%; color:#8b5b37; }
+	</style>
+	<script src="http://secure.bri-shur.com:8001/static/d3.v3.min.js"></script>
+
+</head>
+<body>
+
+
+<style>
+.axis line, .axis path {
+    shape-rendering: crispEdges;
+    stroke: black;
+    fill: none;
+}
+
+circle {
+    fill: steelblue;
+}
+
+div.tooltip {	
+    position: absolute;			
+    text-align: center;			
+    width: 100px;					
+    height: 16px;					
+    padding: 2px;				
+    font: 12px sans-serif;		
+    background: #f4f2ec;	
+    border: 1px solid #7E713D;		
+    border-radius: 8px;			
+    pointer-events: none;			
+}
+</style>
+
+
+
+<svg width="960" height="960" id="normal"></svg>
+<script>
+// ('PAC:15724281', '4.011846536562677e-33'), ('PAC:15701033', '1.0140878295137514e-30'), ('PAC:15714887', '2.3452626145868038e-27'
+var data = [[1067.0323390217598, 1643.4443562127599, 1805.3860901031026, 1628.5829740591591, 1991.76549537221, 1428.7155173475523, 831.8286395895367, 695.4091708185417, 1355.0459790111624, 1636.0432099436932, 708.2729530960945, 1222.5895612918978, 1822.0331608445993, 1701.2199136866504, 1539.3956489317218, 1276.512902209874, 1569.5859447895466, 972.2420787721629, 1451.2778910733866, 1315.9234191645514, 1284.9866862065446, 1039.7163453162048, 1790.1826340293633, 1827.827018584429, 1688.771941014539, 2092.2188263624093, 1441.958379957295, 912.5235225274336, 780.5231957921155, 1363.142110034536, 1460.460670414357, 735.0839975419755, 1269.3351979307367, 1681.8831963053897, 1692.855302655604, 1511.224536927719, 1232.4642799501798, 1578.4815748285023, 1346.858249595371, 1218.6268230020878, 1351.3169781370761, 1023.5541461402955, 356.0389030783749, 531.1479760156133, 541.293608811357, 512.2849056709276, 593.0650761754819, 655.5081395768194, 549.2690632334711, 694.3613581195464, 604.9965704528596, 572.7675069204869, 725.8046678139834, 403.2390119941711, 329.7719599030166, 441.15622161544087, 390.8270465235005, 500.84815430740156, 393.98438793753047], [1351.466169243237, 1204.2101538626764, 1436.4135469021035, 1014.1055760549708, 1890.5322242770621, 1398.17780610534, 1011.3768673046702, 1077.4533100211802, 1426.922035395903, 1310.6381092961178, 1135.2926339634498, 891.6917400290073, 1635.9581895285282, 1357.1408643822194, 1508.4063525642985, 981.2938786520618, 1429.4106908546219, 1348.7160369630603, 1354.9917910084994, 1212.0939307321858, 1487.43847912733, 1151.736883417221, 1292.7358129298286, 1286.0580591401856, 1133.975254394626, 2034.3183480243133, 1544.0368460000457, 1309.7066818240462, 1141.6364872149204, 1246.415749280016, 1258.1328500647971, 1253.3324601538288, 908.7146999413518, 1513.9724544369762, 1308.7114532158623, 1597.4113514222236, 1001.1595169962909, 1415.1707169062074, 1276.0892127202883, 1178.947034330758, 1683.7637988831145, 1319.8980693206004, 258.3801685522546, 317.72585198955926, 345.91263022568637, 369.3792880749918, 487.17585276469066, 288.9402235449708, 287.2627551185589, 415.61479676415223, 357.6987365592919, 246.83225639044977, 378.77725092190127, 168.125933255228, 196.36152338504075, 232.92347498403043, 203.62864741186374, 228.0964537450853, 168.34775549385157], [1270.6042177983657, 1184.877102462621, 1552.3711562262315, 1420.8455139777575, 1594.118841697825, 1700.3081953219767, 883.4529779600549, 703.902824426728, 1884.1804937784289, 1660.8243395332063, 699.4625406449894, 985.6334513763627, 1701.87351432223, 1472.7888533262321, 1508.4063525642985, 1667.3604736189277, 1651.8169645451776, 864.7683569899614, 1753.763389460346, 1535.5910086606837, 1278.1648758471797, 1056.830815147976, 1232.2406941727431, 1511.7412573148795, 1445.2440542323845, 1771.3390488659602, 1711.634495206419, 972.2781734802896, 744.0580284942656, 1869.1399961300465, 1586.5980122493831, 726.0222279220002, 1050.4575474481949, 1544.9320096827444, 1371.1525307304478, 1511.224536927719, 1619.9446510655284, 1712.1723050873718, 1694.1304985620043, 1455.2338646069036, 1372.747153875553, 890.5588296165948, 304.2477827200733, 338.8248073027908, 336.2495625254256, 349.2817017496233, 364.78191512449274, 436.7975276284601, 384.78929330283074, 493.51809831741474, 413.3305809292165, 457.6096537189557, 463.63040844662873, 322.4947516143459, 315.8230215017062, 496.4003244604522, 404.3958553359849, 530.5783649169962, 450.9345831859335]]
+;
+var elabels = [ '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '2', '2', '2', '2', '2', '2', '2', '2', '2', '2', '2', '2', '2', '2', '2', '2', '2' ];
+var tlabels = ['cleavage', 'brown', 'brown', 'brown', 'brown', 'spot', 'cleavage', 'cleavage', 'spot', 'spot', 'cleavage', 'brown', 'brown', 'brown', 'cleavage', 'spot', 'spot', 'cleavage', 'spot', 'spot', 'cleavage', 'cleavage', 'brown', 'brown', 'brown', 'brown', 'spot', 'cleavage', 'cleavage', 'spot', 'spot', 'cleavage', 'brown', 'brown', 'brown', 'cleavage', 'spot', 'spot', 'spot', 'spot', 'cleavage', 'cleavage', 'cleavage', 'cleavage', 'cleavage', 'cleavage', 'cleavage', 'brown', 'brown', 'brown', 'brown', 'brown', 'brown', 'spot', 'spot', 'spot', 'spot', 'spot', 'spot' ];
+var clabels = [ "brown", "cleavage", "spot" ]
+	
+	
+
+var svg0 = d3.select( "#normal" );
+var margin = {top: 100, right: 15, bottom: 100, left: 60};
+var diameter = +svg0.attr("width") - margin.top - margin.bottom;
+var width = diameter;
+var svg = svg0.append("g")
+var fs = width / 110.; 
+
+    var w = diameter * 0.6;
+    var h = diameter * 0.52;
+    var m = diameter * 0.1;
+
+	var corners = [[m,h+m], [w+m,h+m], [(w/2)+m,m]]
+	var tfont = fs * 2 + "px sans-serif";
+	var ltfont = "bold " + fs * 2.6 + "px sans-serif";
+
+	corners.forEach(function(corner, idx) { 
+		var c1 = idx, c2 = idx + 1; if(c2 >= corners.length) { c2 = 0;}
+		svg.append("line")
+			.attr("x1", corners[c1][0])
+			.attr("y1", corners[c1][1])
+			.attr("x2", corners[c2][0])
+			.attr("y2", corners[c2][1])
+			.attr('stroke', 'black')
+			.attr("stroke-width", fs * 0.15 +"px")
+			.attr('fill', 'none');
+		svg.append("text")
+			.attr( "x", corners[c1][0] + ( idx == 0 ? 0 : ( idx == 1 ? 0 : 0 ) ) )
+			.attr( "y", corners[c1][1] + ( idx == 0 ? 5 * fs : ( idx == 1 ? 5 * fs : -3 * fs ) ) )
+			.text( clabels[ idx ] )
+			.attr("text-anchor", idx == 0 ? "end" : "start" )
+			.style("font", ltfont );
+			
+	})
+
+	var ticks = [0,20,40,60,80,100], n = ticks.length;
+	ticks.forEach(function(v) {
+		
+		var coord1 = coord(v, 0, 100-v);
+		var coord2 = coord(v, 100-v, 0);
+		var coord3 = coord(0, 100-v, v);
+		var coord4 = coord(100-v, 0, v);
+
+		if(v !== 0 && v !== 100) {
+
+			svg.append("line")
+				.attr("x1", coord1[0])
+				.attr("y1", coord1[1])
+				.attr("x2", coord2[0])
+				.attr("y2", coord2[1])
+				.attr('stroke', 'black')
+				.attr("stroke-width", fs * 0.1 +"px")
+				.attr('fill', 'none');
+
+			svg.append("line")
+				.attr("x1", coord2[0])
+				.attr("y1", coord2[1])
+				.attr("x2", coord3[0])
+				.attr("y2", coord3[1])
+				.attr('stroke', 'black')
+				.attr("stroke-width", fs * 0.1 +"px")
+				.attr('fill', 'none');
+
+			svg.append("line")
+				.attr("x1", coord3[0])
+				.attr("y1", coord3[1])
+				.attr("x2", coord4[0])
+				.attr("y2", coord4[1])
+				.attr('stroke', 'black')
+				.attr("stroke-width", fs * 0.1 +"px")
+				.attr('fill', 'none');
+		}
+		svg.append("text")
+			.attr("x", coord1[0] - 3 * fs)
+			.attr("y", coord1[1]  )
+			.text( function (d) { return v; })
+			.style("font", tfont );
+  
+		svg.append("text")
+			.attr("x", coord2[0] - fs)
+			.attr("y", coord2[1] + 2 * fs )
+			.text( function (d) { return (100- v); })
+			.style("font", tfont );
+
+		svg.append("text")
+			.attr("x", coord3[0] + fs )
+			.attr("y", coord3[1] )
+			.text( function (d) { return v; })
+			.style("font", tfont );
+
+	});
+	
+	var color = d3.scale.category10();
+	var shapeScale = d3.scale.ordinal()
+            .domain( elabels )
+            .range([ "circle", "triangle-down", "square", "triangle-up",  "cross", "diamond" ]);
+	var cdata = [];
+	for ( var i = 0; i < elabels.length; i++ )
+	{
+		cdata.push( point( data[0][i], data[1][i], data[2][i], elabels[i], tlabels[i] ) );
+	}
+	var clabels = d3.set( cdata.map(function(d) { return d[3];})).values();
+
+	
+	/*
+	var circles = svg.selectAll("circle").data( cdata );
+	var div = d3.select("#tt");
+	var ssize = fs * 0.8;
+	
+	circles.enter().append( "circle")
+		.attr("cx", function (d) { return d[0]; })
+		.attr("cy", function (d) { return d[1]; })
+		.style("fill", function(d) { return color( d[3] ); } )
+		.attr("r", ssize);
+	*/
+	
+	var ssize = fs * fs;
+	svg.selectAll(".point")
+			.data( cdata )
+			.enter().append("path")
+				.attr( "class", "point" )
+				.attr("transform", function(d) { return "translate(" + d[0] + "," + d[1] + ")"; })
+				.attr("d", function(d,i){ 
+					return d3.svg.symbol().type( shapeScale( d[2] ) ).size( ssize )();
+					} )
+				.style("fill", function(d) { return color( d[3] ); } )
+				;
+	
+	function coord( a, b, c ){
+		var sum, pos = [0,0];
+	    sum = a + b + c;
+	    if(sum !== 0) {
+		    a /= sum;
+		    b /= sum;
+		    c /= sum;
+
+			pos[0] =  corners[0][0]  * a + corners[1][0]  * b + corners[2][0]  * c;
+			pos[1] =  corners[0][1]  * a + corners[1][1]  * b + corners[2][1]  * c;
+		}
+	    return pos;
+	}
+
+	function point(a, b, c, label, clabel ){
+		var sum, pos = [0,0];
+	    sum = a + b + c;
+	    if(sum !== 0) {
+		    a /= sum;
+		    b /= sum;
+		    c /= sum;
+
+			pos[0] =  corners[0][0]  * a + corners[1][0]  * b + corners[2][0]  * c;
+			pos[1] =  corners[0][1]  * a + corners[1][1]  * b + corners[2][1]  * c;
+			pos[2] = label;
+			pos[3] = clabel;
+		}
+	    return pos;
+	}
+	function scale(/* point */ p, factor) {
+	    return [p[0] * factor, p[1] * factor];
+	}
+	
+	var lheight = fs * 2;
+	
+	var legend = svg.selectAll(".legend")
+		.data( color.domain() )
+		.enter().append("g")
+			.attr("class", "legend")
+			.attr("transform", function(d, i) { return "translate(0," + ( i + 4 ) * lheight + ")"; });
+
+	legend.append("rect")
+		.attr("x", width - 0.9 * lheight )
+		.attr("width", 0.9 * lheight )
+		.attr("height", 0.9 * lheight )
+		.style("fill", color); 
+
+	legend.append("text")
+		.attr("x", width - lheight * 1.2 )
+		.attr("y", lheight * 0.6 )
+		.style("text-anchor", "end")
+		.style("font", tfont )
+		.text(function(d) { return d;});
+		
+	var l2t = 7;
+	var slegend = svg.selectAll(".slegend")
+		.data( shapeScale.domain() )
+		.enter().append("g")
+			.attr("class", "slegend")
+			.attr("transform", function(d, i) { return "translate(0," + ( i + l2t ) * lheight + ")"; });
+
+	slegend.append("path")
+		.attr('stroke', 'black')
+		.attr('stroke-width', 1)
+		.attr('transform', 'translate(' + ( width - lheight * 0.4 ) + ',' + lheight * 0.4  + ')')
+		.attr("d", function(d,i){ 
+			return d3.svg.symbol().type( shapeScale( d ) ).size( ssize )();
+			} );
+	
+	slegend.append("text")
+		.attr("x", width - lheight * 1.2 )
+		.attr("y", lheight * 0.6 )
+		.style("text-anchor", "end")
+		.style("font", tfont )
+		.text(function(d) { return d;});
+
+	
+</script>
+</body>
+</html>

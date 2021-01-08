@@ -1,0 +1,244 @@
+<html><pre># ------------------------------------------------------------------
+# SearchGUI 3.2.20 Report File
+#
+# Originally saved by: sergey @ ferqnchuk4
+#                  on: 18 Dec 2017, 13:39
+#                  as: SearchGUI Report 2017-12-18 13.39.07.html
+# ------------------------------------------------------------------
+
+
+Mon Dec 18 13:06:17 GMT+02:00 2017        Formatting cgubka-pn_concatenated_target_decoy.fasta for OMSSA.
+
+
+
+Building a new DB, current time: 12/18/2017 13:06:17
+New DB name:   cgubka-pn_concatenated_target_decoy.fasta
+New DB title:  cgubka-pn_concatenated_target_decoy.fasta
+Sequence type: Protein
+Keep Linkouts: T
+Keep MBits: T
+Maximum file size: 1073741824B
+Adding sequences from FASTA; added 495240 sequences in 68.66 seconds.
+
+
+Mon Dec 18 13:07:27 GMT+02:00 2017        Database Formating finished for cgubka-pn_concatenated_target_decoy.fasta (1 minute 10.0 seconds).
+
+Mon Dec 18 13:07:27 GMT+02:00 2017        cgubka-pn_concatenated_target_decoy.fasta formatted for OMSSA.
+
+Mon Dec 18 13:07:28 GMT+02:00 2017        Andromeda configuration.
+
+Mon Dec 18 13:07:30 GMT+02:00 2017        Indexing cgubka-pn_concatenated_target_decoy.fasta for Tide.
+
+INFO: Beginning tide-index.
+INFO: Writing results to output directory 'crux-output'.
+INFO: CPU: ferqnchuk4
+INFO: Crux version: 3.0.17109
+INFO: Mon 12/18/2017 
+
+INFO: Running tide-index...
+INFO: Writing results to output directory 'fasta-index'.
+INFO: Reading C:\Users\sergey\Documents\amph\cgubka-pn_concatenated_target_decoy.fasta and computing unmodified peptides...
+FATAL: An exception occurred: bad allocation
+
+
+Mon Dec 18 13:09:16 GMT+02:00 2017        Tide Indexing finished for cgubka-pn_concatenated_target_decoy.fasta (1 minute 45.0 seconds).
+
+
+Mon Dec 18 13:09:16 GMT+02:00 2017        Indexing spectrum files.
+Mon Dec 18 13:09:16 GMT+02:00 2017        Extracting search settings.
+
+Mon Dec 18 13:09:16 GMT+02:00 2017        Processing Lb25.mgf with X!Tandem.
+
+
+X! TANDEM Sledgehammer (2013.09.01.1)
+
+Loading spectra (mgf). loaded.
+Spectra matching criteria = 8
+Starting threads ... started.
+Computing models:
+	Spectrum-to-sequence matching process in progress | 50 ks 
+	Spectrum-to-sequence matching process in progress | 100 ks 
+	Spectrum-to-sequence matching process in progress | 150 ks 
+	Spectrum-to-sequence matching process in progress | 200 ks 
+	Spectrum-to-sequence matching process in progress | 250 ks 
+	Spectrum-to-sequence matching process in progress | 300 ks 
+	Spectrum-to-sequence matching process in progress | 350 ks 
+	Spectrum-to-sequence matching process in progress | 400 ks 
+	Spectrum-to-sequence matching process in progress | 450 ks 
+	Spectrum-to-sequence matching process in progr
+	waiting for 23 done.
+
+	sequences modelled = 495 ks
+Model refinement:
+	partial cleavage  done.
+	unanticipated cleavage  done.
+	finishing refinement ... done.
+
+	waiting for 23 done.
+
+Merging results:
+	from 23
+
+Creating report:
+	initial calculations  ..... done.
+	sorting  ..... done.
+	finding repeats ........ done.
+	evaluating results ........ done.
+	calculating expectations ........ done.
+	writing results ..... done.
+
+Valid models = 0
+
+
+
+
+Mon Dec 18 13:09:49 GMT+02:00 2017        X!Tandem finished for C:\Users\sergey\Documents\amph\Lb25.mgf (33.1 seconds).
+
+Mon Dec 18 13:09:49 GMT+02:00 2017        Processing Lb25.mgf with MyriMatch.
+
+Process #0 (ferqnchuk4) is starting.
+MyriMatch 2.2.140 (2014-4-4)
+FreiCore 1.6.230 (2014-4-7)
+ProteoWizard MSData 3.0.5941 (2014-3-20)
+ProteoWizard Proteome 3.0.4080 (2012-11-7)
+Vanderbilt University (c) 2012, D.Tabb/M.Chambers/S.Dasari
+Licensed under the Apache License, Version 2.0
+
+Could not find the default configuration file (hard-coded defaults in use).
+Reading "C:\Users\sergey\Documents\amph\cgubka-pn_concatenated_target_decoy.fasta"
+Process #0 (ferqnchuk4) had an error: [ProteinList_FASTA::createIndex] duplicate protein id "1"
+
+
+Mon Dec 18 13:09:50 GMT+02:00 2017        MyriMatch finished for C:\Users\sergey\Documents\amph\Lb25.mgf (1.4 seconds).
+
+Mon Dec 18 13:09:50 GMT+02:00 2017        Could not find MyriMatch result file for Lb25.mgf.
+Mon Dec 18 13:09:50 GMT+02:00 2017        Processing Lb25.mgf with MS Amanda.
+
+Reading settings file...
+Settings file successfully read.
+Input files contain 8 spectra
+
+Searching file 'Lb25.mgf'...
+  Searching spectra 1 - 8 of 8 spectra
+     Starting search against fwd database
+     Loading database
+     Loading database finished
+     Search against fwd database finished.
+  Search finished for 8/8 spectra
+File 'Lb25.mgf' finished.
+
+Done.
+
+
+Mon Dec 18 13:33:06 GMT+02:00 2017        MS Amanda finished for C:\Users\sergey\Documents\amph\Lb25.mgf (23 minutes 16.0 seconds).
+
+Mon Dec 18 13:33:06 GMT+02:00 2017        Processing Lb25.mgf with MS-GF+.
+
+MS-GF+ Beta (v10282) (12/19/2014)
+Loading database files...
+Creating the suffix array indexed file... Size: 109560471
+AlphabetSize: 28
+Suffix creation: 0.00% complete.
+Suffix creation: 9.13% complete.
+Suffix creation: 18.25% complete.
+Suffix creation: 27.38% complete.
+Suffix creation: 36.51% complete.
+Suffix creation: 45.64% complete.
+Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
+	at java.util.Arrays.copyOf(Unknown Source)
+	at edu.ucsd.msjava.msdbsearch.CompactSuffixArray$1Bucket.add(CompactSuffixArray.java:238)
+	at edu.ucsd.msjava.msdbsearch.CompactSuffixArray.createSuffixArrayFiles(CompactSuffixArray.java:300)
+	at edu.ucsd.msjava.msdbsearch.CompactSuffixArray.<init>(CompactSuffixArray.java:68)
+	at edu.ucsd.msjava.msdbsearch.CompactSuffixArray.<init>(CompactSuffixArray.java:87)
+	at edu.ucsd.msjava.ui.MSGFPlus.runMSGFPlus(MSGFPlus.java:256)
+	at edu.ucsd.msjava.ui.MSGFPlus.runMSGFPlus(MSGFPlus.java:142)
+	at edu.ucsd.msjava.ui.MSGFPlus.main(MSGFPlus.java:80)
+
+
+Mon Dec 18 13:37:24 GMT+02:00 2017        MS-GF+ finished for C:\Users\sergey\Documents\amph\Lb25.mgf (4 minutes 17.0 seconds).
+
+Mon Dec 18 13:37:24 GMT+02:00 2017        Could not find MS-GF+ result file for Lb25.mgf.
+Mon Dec 18 13:37:24 GMT+02:00 2017        Processing Lb25.mgf with OMSSA.
+
+Info: Using 3 search threads
+Info: Sequence=0 Percent=0%
+Info: Sequence=10000 Percent=2.01922%
+Info: Sequence=20000 Percent=4.03845%
+Info: Sequence=30000 Percent=6.05767%
+Info: Sequence=40000 Percent=8.07689%
+Info: Sequence=50000 Percent=10.0961%
+Info: Sequence=60000 Percent=12.1153%
+Info: Sequence=70000 Percent=14.1346%
+Info: Sequence=80000 Percent=16.1538%
+Info: Sequence=90000 Percent=18.173%
+Info: Sequence=100000 Percent=20.1922%
+Info: Sequence=110000 Percent=22.2115%
+Info: Sequence=120000 Percent=24.2307%
+Info: Sequence=130000 Percent=26.2499%
+Info: Sequence=140000 Percent=28.2691%
+Info: Sequence=150000 Percent=30.2883%
+Info: Sequence=160000 Percent=32.3076%
+Info: Sequence=170000 Percent=34.3268%
+Info: Sequence=180000 Percent=36.346%
+Info: Sequence=190000 Percent=38.3652%
+Info: Sequence=200000 Percent=40.3845%
+Info: Sequence=210000 Percent=42.4037%
+Info: Sequence=220000 Percent=44.4229%
+Info: Sequence=230000 Percent=46.4421%
+Info: Sequence=240000 Percent=48.4614%
+Info: Sequence=250000 Percent=50.4806%
+Info: Sequence=260000 Percent=52.4998%
+Info: Sequence=270000 Percent=54.519%
+Info: Sequence=280000 Percent=56.5382%
+Info: Sequence=290000 Percent=58.5575%
+Info: Sequence=300000 Percent=60.5767%
+Info: Sequence=310000 Percent=62.5959%
+Info: Sequence=320000 Percent=64.6151%
+Info: Sequence=330000 Percent=66.6344%
+Info: Sequence=340000 Percent=68.6536%
+Info: Sequence=350000 Percent=70.6728%
+Info: Sequence=360000 Percent=72.692%
+Info: Sequence=370000 Percent=74.7113%
+Info: Sequence=380000 Percent=76.7305%
+Info: Sequence=390000 Percent=78.7497%
+Info: Sequence=400000 Percent=80.7689%
+Info: Sequence=410000 Percent=82.7881%
+Info: Sequence=420000 Percent=84.8074%
+Info: Sequence=430000 Percent=86.8266%
+Info: Sequence=440000 Percent=88.8458%
+Info: Sequence=450000 Percent=90.865%
+Info: Sequence=460000 Percent=92.8843%
+Info: Sequence=470000 Percent=94.9035%
+Info: Sequence=480000 Percent=96.9227%
+Info: Sequence=490000 Percent=98.9419%
+
+
+Mon Dec 18 13:38:06 GMT+02:00 2017        OMSSA finished for C:\Users\sergey\Documents\amph\Lb25.mgf (41.5 seconds).
+
+Mon Dec 18 13:38:06 GMT+02:00 2017        Processing Lb25.mgf with Comet.
+
+ Comet version "2016.01 rev. 3" 
+ Search start:  12/18/2017, 01:38:06 PM 
+ - Input file: C:\Users\sergey\Documents\amph\Lb25.mgf 
+   - Load spectra: 8 
+     - Search progress:   0%  1%  2%  3%  4%  5%  6%  7%  8%  9% 10% 11% 12% 13% 14% 15% 16% 17% 18% 19% 20% 21% 22% 23% 24% 25% 26% 27% 28% 29% 30% 31% 32% 33% 34% 35% 36% 37% 38% 39% 40% 41% 42% 43% 44% 45% 46% 47% 48% 49% 50% 51% 52% 53% 54% 55% 56% 57% 58% 59% 60% 61% 62% 63% 64% 65% 66% 67% 68% 69% 70% 71% 72% 73% 74% 75% 76% 77% 78% 79% 80% 81% 82% 83% 84% 85% 86% 87% 88% 89% 90% 91% 92% 93% 94% 95% 96% 97% 98% 99% 99%100% 
+     - Post analysis:  done 
+ Search end:    12/18/2017, 01:39:01 PM 
+
+
+Mon Dec 18 13:39:01 GMT+02:00 2017        Comet finished for Lb25.mgf (55.9 seconds).
+
+Mon Dec 18 13:39:02 GMT+02:00 2017        Converting spectrum file Lb25.mgf for Tide.
+Mon Dec 18 13:39:06 GMT+02:00 2017        Processing Lb25.mgf with Tide.
+
+FATAL: Error reading index (fasta-index\pepix)
+
+
+Mon Dec 18 13:39:07 GMT+02:00 2017        Tide Searching finished for Lb25.ms2 (218.0 milliseconds).
+
+Mon Dec 18 13:39:07 GMT+02:00 2017        Error: Source 'C:\Users\sergey\Documents\amph\SearchGUI-3.2.20\resources\Tide\windows\windows_32bit\crux-output\Lb25.tide-search.target.txt' does not exist
+Mon Dec 18 13:39:07 GMT+02:00 2017        An error occurred while running SearchGUI. Please contact the developers.
+Mon Dec 18 13:39:07 GMT+02:00 2017        The search or processing did not finish properly!
+
+Mon Dec 18 13:39:07 GMT+02:00 2017        Search Canceled!
+</pre># ------------------------------------------------------------------<br># General Search Parameters<br># ------------------------------------------------------------------<br><br>DATABASE_FILE=C:\Users\sergey\Documents\amph\cgubka-pn_concatenated_target_decoy.fasta<br>ENZYME0=Trypsin, Specific, 2 missed cleavages<br>FIXED_MODIFICATIONS=Carbamidomethylation of C//Oxidation of M<br>VARIABLE_MODIFICATIONS=<br>REFINEMENT_FIXED_MODIFICATIONS=Carbamidomethylation of C//Oxidation of M<br>REFINEMENT_VARIABLE_MODIFICATIONS=<br>PRECURSOR_MASS_TOLERANCE=10.0<br>PRECURSOR_MASS_TOLERANCE_UNIT=ppm<br>FRAGMENT_MASS_TOLERANCE=0.5<br>FRAGMENT_MASS_TOLERANCE_UNIT=Da<br>PPM_TO_DA_CONVERSION_REF_MASS=2000.0<br>FORWARD_FRAGMENT_ION_TYPE=b<br>FRAGMENT_ION_TYPE_2=y<br>PRECURSOR_CHARGE_LOWER_BOUND=2+<br>PRECURSOR_CHARGE_UPPER_BOUND=4+<br>ISOTOPIC_CORRECTION_LOWER_BOUND=0<br>ISOTOPIC_CORRECTION_UPPER_BOUND=1<br><br><br># ------------------------------------------------------------------<br># OMSSA Specific Parameters<br># ------------------------------------------------------------------<br><br>EVALUE_CUTOFF=100.0<br>MAXIMUM_HITLIST_LENGTH=10<br>PRECURSOR_ELIMINATION=false<br>PRECURSOR_SCALING=true<br>MINIMAL_PEPTIDE_SIZE=8<br>MAXIMAL_PEPTIDE_SIZE=30<br>PRECURSOR_CHARGE_TO_CONSIDER_MULTIPLY_CHARGED_FRAGMENTS=3+<br>CHARGE_ESTIMATION=true<br>OUTPUT_TYPE=OMX<br>MEMORY_MAPPED_SEQUENCES=false<br>NUMBER_OF_ISOTOPES=0<br>MASS_TO_CONSIDER_EXACT_NEUTRON_MASS=1446.94<br>LOW_INTENSITY_CUTOFF=0.0<br>HIGH_INTENSITY_CUTOFF=0.2<br>INTENSITY_INCREMENT=5.0E-4<br>SINGLE_CHARGE_WINDOW_WIDTH=27<br>DOUBLE_CHARGE_WINDOW_WIDTH=14<br>SINGLE_CHARGE_WINDOW_NPEAKS=2<br>DOUBLE_CHARGE_WINDOW_NPEAKS=2<br>MAX_HITS_PER_SPECTRUM_PER_CHARGE=30<br>MIN_ANNOTATED_INTENSE_PEAKS=6<br>MIN_ANNOTATED_PEAKS=2<br>MIN_PEAKS=4<br>CLEAVE_TERMINAL_METHIONINE=true<br>MAX_MZ_LADDERS=128<br>MAX_FRAGMENT_CHARGE=2<br>FRACTION_PEAKS_FOR_CHARGE_1_ESTIMATION=0.95<br>AUTO_DETERMINE_CHARGE_ONE=true<br>SEARCH_POSITIVE_IONS=true<br>MIN_PERCURSORS_PER_SPECTRUM=1<br>FORWARD_FRAGMENTS_FIRST=false<br>REWIND_FRAGMENTS=true<br>FRAGMENTS_PER_SERIES=100<br>CORRELATION_CORRECTION_SCORE=true<br>CONSECUTIVE_ION_PROBABILITY=0.5<br>ITERATIVE_SEARCH_SEQUENCE_EVALUE=0.0<br>ITERATIVE_SEARCH_SPECTRUM_EVALUE=0.01<br>ITERATIVE_SEARCH_REPLACEMENT_EVALUE=0.0<br><br><br># ------------------------------------------------------------------<br># X!Tandem Specific Parameters<br># ------------------------------------------------------------------<br><br>DYNAMIC_RANGE=100.0<br>NUMBER_OF_PEAKS=50<br>MIN_FRAG_MASS=200.0<br>MIN_NUMBER_OF_PEAKS=5<br>NOISE_SUPPRESSION=NO<br>MIN_PREC_MASS=500.0<br>PROTEIN_QUICK_ACETYL=YES<br>QUICK_PYROLIDONE=YES<br>PROTEIN_PTM_COMPLEXITY=6.0<br>STP_BIAS=NO<br>REFINE=YES<br>REFINE_SEMI=NO<br>REFINE_POINT_MUTATIONS=NO<br>REFINE_SPECTRUM_SYNTHESIS=YES<br>REFINE_UNANTICIPATED_CLEABAGES=YES<br>REFINE_SNAPS=YES<br>REFINE_MAX_EVALUE=0.01<br>POTENTIAL_MODIFICATIONS_FOR_FULL_REFINEMENT=NO<br>EVALUE_CUTOFF=0.01<br>SKYLINE_PATH=<br>OUTPUT_RESULTS=all<br>OUTPUT_PROTEINS=YES<br>OUTPUT_SEQUENCES=NO<br>OUTPUT_SPECTRA=YES<br>OUTPUT_HISTOGRAMS=NO<br><br><br># ------------------------------------------------------------------<br># PepNovo+ Specific Parameters<br># ------------------------------------------------------------------<br><br>HIT_LIST_LENGTH=10<br>CORRECT_PRECURSOR_MASS=false<br>DISCARD_LOW_QUALITY_SPECTRA=true<br>FRAGMENTATION_MODEL=CID_IT_TRYP<br>GENERATE_QUERY=false<br><br><br># ------------------------------------------------------------------<br># Andromeda Specific Parameters<br># ------------------------------------------------------------------<br><br>MIN_PEPTIDE_LENGHT_NO_ENZYME=8<br>MAX_PEPTIDE_LENGHT_NO_ENZYME=25<br>MAX_PEPTIDE_MASS=4600.0<br>NUMBER_SPECTRUM_MATCHES=10<br>MAX_PTMS=5<br>FRAGMENTATION_METHOD=CID<br>WATER_LOSS=true<br>AMMONIA_LOSS=true<br>SEQUENCE_DEPENDENT_NEUTRAL_LOSS=true<br>EQUAL_IL=false<br>FRAGMENT_ALL=false<br>EMPERICAL_CORRECTION=true<br>HIGHER_CHARGE=true<br>MAX_COMBINATIONS=250<br>TOP_PEAKS=8<br>TOP_PEAKS_WINDOW=100<br>DECOY_MODE=none<br><br><br># ------------------------------------------------------------------<br># MS Amanda Specific Parameters<br># ------------------------------------------------------------------<br><br>SEARCH_DECOY=false<br>INSTRUMENT_ID=b, y<br>MONOISOTOPIC=true<br>MAX_RANK=10<br>LOW_MEMORY_MODE=true<br><br><br># ------------------------------------------------------------------<br># MS-GF+ Specific Parameters<br># ------------------------------------------------------------------<br><br>SEARCH_DECOY=false<br>INSTRUMENT_ID=3<br>FRAGMENTATION_ID=3<br>PROTOCOL_ID=0<br>MIN_PEP_LENGTH=8<br>MAX_PEP_LENGTH=30<br>NUMBER_SPECTRUM_MATCHES=10<br>ADDITIONAL_OUTPUT=false<br>NUMBER_OF_TOLERABLE_TERMINI=2<br>MAX_NUMBER_PTMS=2<br><br><br># ------------------------------------------------------------------<br># DirecTag Specific Parameters<br># ------------------------------------------------------------------<br><br>TIC_CUTOFF_PERCENTAGE=100.0<br>MAX_PEAK_COUNT=100<br>NUM_INTENSITY_CLASSES=3<br>ADJUST_PRECURSOR_MASS=false<br>MIN_PRECUSOR_ADJUSTMENT=-0.5<br>MAX_PRECUSOR_ADJUSTMENT=1.5<br>PRECUSOR_ADJUSTMENT_STEP=0.1<br>NUM_CHARGE_STATES=3<br>OUTPUT_SUFFIX=<br>USE_CHARGE_STATE_FROM_MS=true<br>DUPLICATE_SPECTRA=true<br>DEISOTOPING_MODE=0<br>ISOTOPE_MZ_TOLERANCE=0.25<br>COMPLEMENT_MZ_TOLERANCE=0.1<br>TAG_LENGTH=4<br>MAX_DYNAMIC_MODS=2<br>MAX_TAG_COUNT=10<br>INTENSITY_SCORE_WEIGHT=1.0<br>MZ_FIDELITY_SCORE_WEIGHT=1.0<br>COMPLEMENT_SCORE_WEIGHT=1.0<br><br><br># ------------------------------------------------------------------<br># Comet Specific Parameters<br># ------------------------------------------------------------------<br><br>NUMBER_SPECTRUM_MATCHES=10<br>MAX_VARIABLE_MODS=10<br>REQUIRE_VARIABLE_MODS=false<br>MIN_PEAKS=10<br>MIN_PEAKS_INTENSITY=0.0<br>REMOVE_PRECURSOR=0<br>REMOVE_PRECURSOR_TOLERANCE=1.5<br>LOWER_CLEAR_MZ_RANGE=0.0<br>UPPER_CLEAR_MZ_RANGE=0.0<br>ENZYME_TYPE=2<br>ISOTOPE_CORRECTION=1<br>MIN_PRECURSOR_MASS=600.0<br>MAX_PRECURSOR_MASS=5000.0<br>MAX_FRAGMENT_CHARGE=3<br>REMOVE_METHIONINE=false<br>BATCH_SIZE=0<br>THEORETICAL_FRAGMENT_IONS_SUM_ONLY=false<br>FRAGMENT_BIN_OFFSET=0.25<br><br>USE_SPARSE_MATRIX=true<br>OUTPUT_FORAMT=PepXML<br>PRINT_EXPECT_SCORE=true<br><br><br># ------------------------------------------------------------------<br># pNovo+ Specific Parameters<br># ------------------------------------------------------------------<br><br>NUMBER_PEPTIDES=10<br>LOWER_PRECURSOR_MASS=300<br>UPPER_PRECURSOR_MASS=5000<br>ACTIVATION_TYPE=HCD<br><br><br># ------------------------------------------------------------------<br># Tide Specific Parameters<br># ------------------------------------------------------------------<br><br>MIN_PEP_LENGTH=6<br>MAX_PEP_LENGTH=30<br>MIN_PRECURSOR_MASS=200.0<br>MAX_PRECURSOR_MASS=7200.0<br>MAX_VARIABLE_PTMS_PER_TYPE_PER_PEPTIDE=2<br>MAX_VARIABLE_PTMS_PER_PEPTID=null<br>DECOY_FORMAT=none<br>KEEP_TERMINAL_AMINO_ACIDS=NC<br>DECOY_SEED=1<br>OUTPUT_FOLDER_NAME=crux-output<br>PRINT_PEPTIDES=false<br>VERBOSITY=30<br>MONOISOTOPIC_PRECURSOR=true<br>CLIP_NTERM_METHIONINE=false<br>DIGESTION_TYPE=full-digest<br>COMPUTE_SP_SCORE=false<br>NUMBER_SPECTRUM_MATCHES=10<br>COMPUTE_EXACT_P_VALUES=false<br>MIN_SPECTRUM_MZ=0.0<br>MAX_SPECTRUM_MZ=null<br>MIN_SPECTRUM_PEAKS=20<br>SPECTRUM_CHARGES=all<br>REMOVE_PRECURSOR=false<br>REMOVE_PRECURSOR_TOLERANCE=1.5<br>PRINT_PROGRESS_INDICATOR_SIZE=1000<br>USE_FLANKING_PEAKS=false<br>USE_NEUTRAL_LOSS_PEAKS=false<br>MZ_BIN_WIDTH=0.02<br>MZ_BIN_OFFSET=0.0<br>CONCATENATE_TARGET_DECOY=false<br>STORE_SPECTRA_FILE_NAME=null<br>TEXT_OUTPUT=true<br>SQT_OUTPUT=false<br>PEPXML_OUTPUT=false<br>MZID_OUTPUT=false<br>PERCOLATOR_OUTPUT=false<br><br><br># ------------------------------------------------------------------<br># MyriMatch Specific Parameters<br># ------------------------------------------------------------------<br><br>MIN_PEP_LENGTH=8<br>MAX_PEP_LENGTH=30<br>NUMBER_SPECTRUM_MATCHES=10<br>TIC_CUTOFF_PERCENTAGE=0.98<br>MAX_DYNMIC_MODS=2<br>MIN_TERMINI_CLEAVAGES=2<br>MIN_PRECURSOR_MASS=600.0<br>MAX_PRECURSOR_MASS=5000.0<br>USE_SMART_PLUS_THREE_MODEL=true<br>COMPUTE_XCORR=false<br>NUM_INTENSITY_CLASSES=3<br>CLASS_SIZE_MULTIPLIER=2<br>NUM_BATCHES=50<br>FRAGMENTATION_RULE=CID<br>MAX_PEAK_COUNT=300<br>OUTPUT_FORMAT=mzIdentML<br><br><br># ------------------------------------------------------------------<br># Novor Specific Parameters<br># ------------------------------------------------------------------<br><br>FRAGMENTATION=HCD<br>MASS_ANALYZER=FT<br></html>

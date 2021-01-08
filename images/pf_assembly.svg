@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="pf_assembly.svg">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mend"
+       style="overflow:visible;">
+      <path
+         id="path3752"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective3633"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3633-8"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3666"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3697"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4196"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-2"
+       style="overflow:visible">
+      <path
+         id="path3752-4"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <inkscape:perspective
+       id="perspective4224"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-5"
+       style="overflow:visible">
+      <path
+         id="path3752-6"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="443.0698"
+     inkscape:cy="520"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="977"
+     inkscape:window-x="-3"
+     inkscape:window-y="-3"
+     inkscape:window-maximized="1"
+     inkscape:object-paths="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-nodes="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3656" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L"
+       x="129"
+       y="691.36218"
+       id="text2841"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/sergey/work/pf-v2/doc/pres-pf/skif-sch.png"
+       inkscape:export-xdpi="140"
+       inkscape:export-ydpi="140"><tspan
+         sodipodi:role="line"
+         id="tspan3804"
+         x="129"
+         y="691.36218">...MNNQRKKTGRPSFNMLKRARNRVSTVSQLAKRFSKGLLSG...</tspan></text>
+    <rect
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3621"
+       width="139"
+       height="69"
+       x="273"
+       y="517.36218"
+       inkscape:export-filename="/home/sergey/work/pf-v2/doc/pres-pf/skif-sch.png"
+       inkscape:export-xdpi="140"
+       inkscape:export-ydpi="140" />
+    <path
+       style="fill:none;stroke:#323232;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 296,608.36218 c 0,0 -1.02234,23.77829 28,7 29.02234,-16.77829 21.85868,10.33891 35,10 13.14132,-0.33891 28,-21 28,-21"
+       id="path3623"
+       sodipodi:nodetypes="czzc"
+       inkscape:export-filename="/home/sergey/work/pf-v2/doc/pres-pf/skif-sch.png"
+       inkscape:export-xdpi="140"
+       inkscape:export-ydpi="140"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 295,562.86218 c 0,0 3.75899,-14.51628 17,-1 13.24101,13.51628 29.9593,8.59244 52,1 17.67271,-13.65936 20,6 20,6"
+       id="path3623-6"
+       sodipodi:nodetypes="czcc"
+       inkscape:export-filename="/home/sergey/work/pf-v2/doc/pres-pf/skif-sch.png"
+       inkscape:export-xdpi="140"
+       inkscape:export-ydpi="140"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 292,545.36218 c 0,0 11.28543,-9.9587 17,-13 5.71457,-3.0413 12.67398,13.51028 34,12.5 21.32602,-1.01028 43,-12 43,-12"
+       id="path3623-3"
+       sodipodi:nodetypes="czzc"
+       inkscape:export-filename="/home/sergey/work/pf-v2/doc/pres-pf/skif-sch.png"
+       inkscape:export-xdpi="140"
+       inkscape:export-ydpi="140"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:1.52025878;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3621-5"
+       width="101.51092"
+       height="69.188118"
+       x="420.40594"
+       y="517.26813"
+       inkscape:export-filename="/home/sergey/work/pf-v2/doc/pres-pf/skif-sch.png"
+       inkscape:export-xdpi="140"
+       inkscape:export-ydpi="140" />
+    <path
+       style="fill:none;stroke:#323232;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 438.5,628.36218 c 0,0 2.22947,-12.39471 30,-12 27.77053,0.39471 9.31236,14.98308 18,13 8.68764,-1.98308 20,-7 20,-7"
+       id="path3623-1"
+       sodipodi:nodetypes="czzc"
+       inkscape:export-filename="/home/sergey/work/pf-v2/doc/pres-pf/skif-sch.png"
+       inkscape:export-xdpi="140"
+       inkscape:export-ydpi="140"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 438.72432,574.86218 c 0,0 -3.00724,-9.4693 13,-14 16.00724,-4.5307 13.28857,-0.45111 20,6.5 4.66667,4.83333 24.6537,-0.6537 36,10.5"
+       id="path3623-6-7"
+       sodipodi:nodetypes="czsc"
+       inkscape:export-filename="/home/sergey/work/pf-v2/doc/pres-pf/skif-sch.png"
+       inkscape:export-xdpi="140"
+       inkscape:export-ydpi="140"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 438.5,531.36218 c 0,0 7.3331,-1.54246 19,12 11.6669,13.54246 18.04751,-15.50526 28,-9.5 9.95249,6.00526 22,13 22,13"
+       id="path3623-3-4"
+       sodipodi:nodetypes="czzc"
+       inkscape:export-filename="/home/sergey/work/pf-v2/doc/pres-pf/skif-sch.png"
+       inkscape:export-xdpi="140"
+       inkscape:export-ydpi="140"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3621-5-8"
+       width="114.11578"
+       height="113.11579"
+       x="345.44211"
+       y="284.30429"
+       inkscape:export-filename="/home/sergey/work/pf-v2/doc/pres-pf/skif-sch.png"
+       inkscape:export-xdpi="140"
+       inkscape:export-ydpi="140" />
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:0.99580562;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 368.74791,373.16759 c 0,0 19.46335,-20.3794 29.58429,0 10.12094,20.37941 30.36283,2.83048 30.36283,2.83048 l 1.55706,-0.5661"
+       id="path3724"
+       inkscape:export-filename="/home/sergey/work/pf-v2/doc/pres-pf/skif-sch.png"
+       inkscape:export-xdpi="140"
+       inkscape:export-ydpi="140" />
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:0.85534352000000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 377.21344,344.82016 c 0,0 -35.80239,-12.37892 21.32906,-12.80577 57.13146,-0.42686 -28.18484,6.40288 5.33228,15.36693 33.51711,8.96404 30.4701,-6.82975 30.4701,-6.82975"
+       id="path3726"
+       inkscape:export-filename="/home/sergey/work/pf-v2/doc/pres-pf/skif-sch.png"
+       inkscape:export-xdpi="140"
+       inkscape:export-ydpi="140" />
+    <path
+       style="fill:none;stroke:#323232;stroke-width:1.05755794;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 433.17046,420.23476 c 0,0 5.7618,16.30535 -53.77669,4.91748 -59.53846,-11.38786 132.52114,-3.62341 28.80894,-15.01127"
+       id="path3728"
+       inkscape:export-filename="/home/sergey/work/pf-v2/doc/pres-pf/skif-sch.png"
+       inkscape:export-xdpi="140"
+       inkscape:export-ydpi="140" />
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:0.92398739;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 425.75547,303.54567 c 0,0 36.59495,-8.70979 -28.0997,-7.54849 -64.69466,1.1613 -10.4557,38.90372 -18.29748,17.41958 -7.84178,-21.48415 26.13926,-3.48392 26.13926,-3.48392"
+       id="path3730"
+       inkscape:export-filename="/home/sergey/work/pf-v2/doc/pres-pf/skif-sch.png"
+       inkscape:export-xdpi="140"
+       inkscape:export-ydpi="140" />
+    <path
+       style="fill:none;stroke:#323232;stroke-width:1.104;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 437.58464,467.16412 c 0,0 14.23253,10.65469 -48.03482,10.65469 -62.26732,0 40.91854,9.13259 40.91854,9.13259 l 3.55814,0.60884"
+       id="path3732"
+       inkscape:export-filename="/home/sergey/work/pf-v2/doc/pres-pf/skif-sch.png"
+       inkscape:export-xdpi="140"
+       inkscape:export-ydpi="140" />
+    <path
+       style="fill:none;stroke:#323232;stroke-width:0.98095942;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 397.6683,458.6217 c 0,0 72.26678,-3.39697 22.91385,-6.30868 -49.35293,-2.91168 -71.38548,-22.32299 -35.25209,-13.5879"
+       id="path3736"
+       inkscape:export-filename="/home/sergey/work/pf-v2/doc/pres-pf/skif-sch.png"
+       inkscape:export-xdpi="140"
+       inkscape:export-ydpi="140" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend)"
+       d="m 313,487.36218 26,-55"
+       id="path3738"
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="140"
+       inkscape:export-ydpi="140"
+       inkscape:export-filename="/home/sergey/work/pf-v2/doc/pres-pf/skif-sch.png"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend)"
+       d="m 488.71736,485.83534 -23,-49"
+       id="path3738-7"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/sergey/work/pf-v2/doc/pres-pf/skif-sch.png"
+       inkscape:export-xdpi="140"
+       inkscape:export-ydpi="140"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend)"
+       d="m 392.71736,255.83534 -24,-42"
+       id="path3738-5"
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="140"
+       inkscape:export-ydpi="140"
+       inkscape:export-filename="/home/sergey/work/pf-v2/doc/pres-pf/skif-sch.png" />
+    <path
+       style="fill:none;stroke:#323232;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 295,656.7742 c 0,0 7.22947,-22.39471 28,-4 20.77053,18.39471 18.31236,-2.01692 28,7 9.68764,9.01692 35,-13 35,-13"
+       id="path3623-1-3"
+       sodipodi:nodetypes="czzc"
+       inkscape:export-filename="/home/sergey/work/pf-v2/doc/pres-pf/skif-sch.png"
+       inkscape:export-xdpi="140"
+       inkscape:export-ydpi="140"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#323232;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 438.5,641.7742 c 0,0 0.67528,23.96057 27,13 26.32472,-10.96057 18.31236,6.98308 27,5 8.68764,-1.98308 16,-11 16,-11"
+       id="path3623-1-6"
+       sodipodi:nodetypes="czzc"
+       inkscape:export-filename="/home/sergey/work/pf-v2/doc/pres-pf/skif-sch.png"
+       inkscape:export-xdpi="140"
+       inkscape:export-ydpi="140"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:8, 1;stroke-dashoffset:0"
+       d="m 416.07762,722.54492 0.30923,-122.08477"
+       id="path3844"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:8, 1;stroke-dashoffset:0"
+       d="m 272.7886,719.54609 0.30923,-122.08477"
+       id="path3844-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:8, 1;stroke-dashoffset:0"
+       d="m 525.22572,722.37452 0.30923,-122.08477"
+       id="path3844-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+  </g>
+</svg>

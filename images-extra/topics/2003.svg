@@ -1,0 +1,97 @@
+<svg height="200" width="200">
+<defs>
+<radialGradient id="grad_protein" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+<stop offset="0%" style="stop-color:rgb(96,124,60);stop-opacity:0.36" />
+<stop offset="4%" style="stop-color:rgb(96,124,60);stop-opacity:0.20" />
+<stop offset="8%" style="stop-color:rgb(96,124,60);stop-opacity:0.08" />
+<stop offset="12%" style="stop-color:rgb(96,124,60);stop-opacity:0.07" />
+<stop offset="16%" style="stop-color:rgb(96,124,60);stop-opacity:0.03" />
+<stop offset="20%" style="stop-color:rgb(96,124,60);stop-opacity:0.03" />
+<stop offset="24%" style="stop-color:rgb(96,124,60);stop-opacity:0.01" />
+<stop offset="28%" style="stop-color:rgb(96,124,60);stop-opacity:0.01" />
+<stop offset="32%" style="stop-color:rgb(96,124,60);stop-opacity:0.00" />
+<stop offset="36%" style="stop-color:rgb(96,124,60);stop-opacity:0.00" />
+<stop offset="40%" style="stop-color:rgb(96,124,60);stop-opacity:0.00" />
+<stop offset="44%" style="stop-color:rgb(96,124,60);stop-opacity:0.00" />
+<stop offset="48%" style="stop-color:rgb(96,124,60);stop-opacity:0.00" />
+<stop offset="52%" style="stop-color:rgb(96,124,60);stop-opacity:0.00" />
+<stop offset="56%" style="stop-color:rgb(96,124,60);stop-opacity:0.00" />
+<stop offset="60%" style="stop-color:rgb(96,124,60);stop-opacity:0.00" />
+<stop offset="64%" style="stop-color:rgb(96,124,60);stop-opacity:0.00" />
+<stop offset="68%" style="stop-color:rgb(96,124,60);stop-opacity:0.00" />
+<stop offset="72%" style="stop-color:rgb(96,124,60);stop-opacity:0.00" />
+<stop offset="76%" style="stop-color:rgb(96,124,60);stop-opacity:0.00" />
+<stop offset="80%" style="stop-color:rgb(96,124,60);stop-opacity:0.00" />
+<stop offset="84%" style="stop-color:rgb(96,124,60);stop-opacity:0.00" />
+</radialGradient>
+<radialGradient id="grad_expression" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+<stop offset="0%" style="stop-color:rgb(96,124,60);stop-opacity:0.37" />
+<stop offset="4%" style="stop-color:rgb(96,124,60);stop-opacity:0.18" />
+<stop offset="8%" style="stop-color:rgb(96,124,60);stop-opacity:0.08" />
+<stop offset="12%" style="stop-color:rgb(96,124,60);stop-opacity:0.06" />
+<stop offset="16%" style="stop-color:rgb(96,124,60);stop-opacity:0.04" />
+<stop offset="20%" style="stop-color:rgb(96,124,60);stop-opacity:0.01" />
+<stop offset="24%" style="stop-color:rgb(96,124,60);stop-opacity:0.02" />
+<stop offset="28%" style="stop-color:rgb(96,124,60);stop-opacity:0.02" />
+<stop offset="32%" style="stop-color:rgb(96,124,60);stop-opacity:0.01" />
+<stop offset="36%" style="stop-color:rgb(96,124,60);stop-opacity:0.02" />
+<stop offset="40%" style="stop-color:rgb(96,124,60);stop-opacity:0.00" />
+<stop offset="44%" style="stop-color:rgb(96,124,60);stop-opacity:0.00" />
+<stop offset="48%" style="stop-color:rgb(96,124,60);stop-opacity:0.00" />
+<stop offset="52%" style="stop-color:rgb(96,124,60);stop-opacity:0.00" />
+<stop offset="56%" style="stop-color:rgb(96,124,60);stop-opacity:0.00" />
+<stop offset="60%" style="stop-color:rgb(96,124,60);stop-opacity:0.00" />
+<stop offset="64%" style="stop-color:rgb(96,124,60);stop-opacity:0.00" />
+<stop offset="68%" style="stop-color:rgb(96,124,60);stop-opacity:0.00" />
+<stop offset="72%" style="stop-color:rgb(96,124,60);stop-opacity:0.00" />
+<stop offset="76%" style="stop-color:rgb(96,124,60);stop-opacity:0.00" />
+<stop offset="80%" style="stop-color:rgb(96,124,60);stop-opacity:0.00" />
+<stop offset="84%" style="stop-color:rgb(96,124,60);stop-opacity:0.00" />
+</radialGradient>
+<radialGradient id="grad_cell" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+<stop offset="0%" style="stop-color:rgb(96,124,60);stop-opacity:1.00" />
+<stop offset="4%" style="stop-color:rgb(96,124,60);stop-opacity:0.51" />
+<stop offset="8%" style="stop-color:rgb(96,124,60);stop-opacity:0.24" />
+<stop offset="12%" style="stop-color:rgb(96,124,60);stop-opacity:0.14" />
+<stop offset="16%" style="stop-color:rgb(96,124,60);stop-opacity:0.09" />
+<stop offset="20%" style="stop-color:rgb(96,124,60);stop-opacity:0.05" />
+<stop offset="24%" style="stop-color:rgb(96,124,60);stop-opacity:0.04" />
+<stop offset="28%" style="stop-color:rgb(96,124,60);stop-opacity:0.03" />
+<stop offset="32%" style="stop-color:rgb(96,124,60);stop-opacity:0.01" />
+<stop offset="36%" style="stop-color:rgb(96,124,60);stop-opacity:0.02" />
+<stop offset="40%" style="stop-color:rgb(96,124,60);stop-opacity:0.02" />
+<stop offset="44%" style="stop-color:rgb(96,124,60);stop-opacity:0.01" />
+<stop offset="48%" style="stop-color:rgb(96,124,60);stop-opacity:0.00" />
+<stop offset="52%" style="stop-color:rgb(96,124,60);stop-opacity:0.01" />
+<stop offset="56%" style="stop-color:rgb(96,124,60);stop-opacity:0.00" />
+<stop offset="60%" style="stop-color:rgb(96,124,60);stop-opacity:0.00" />
+<stop offset="64%" style="stop-color:rgb(96,124,60);stop-opacity:0.00" />
+<stop offset="68%" style="stop-color:rgb(96,124,60);stop-opacity:0.00" />
+<stop offset="72%" style="stop-color:rgb(96,124,60);stop-opacity:0.00" />
+<stop offset="76%" style="stop-color:rgb(96,124,60);stop-opacity:0.00" />
+<stop offset="80%" style="stop-color:rgb(96,124,60);stop-opacity:0.00" />
+<stop offset="84%" style="stop-color:rgb(96,124,60);stop-opacity:0.00" />
+</radialGradient>
+<radialGradient id="grad_patient" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+<stop offset="0%" style="stop-color:rgb(96,124,60);stop-opacity:0.55" />
+<stop offset="5%" style="stop-color:rgb(96,124,60);stop-opacity:0.20" />
+<stop offset="11%" style="stop-color:rgb(96,124,60);stop-opacity:0.09" />
+<stop offset="16%" style="stop-color:rgb(96,124,60);stop-opacity:0.03" />
+<stop offset="22%" style="stop-color:rgb(96,124,60);stop-opacity:0.02" />
+<stop offset="27%" style="stop-color:rgb(96,124,60);stop-opacity:0.01" />
+<stop offset="33%" style="stop-color:rgb(96,124,60);stop-opacity:0.01" />
+<stop offset="38%" style="stop-color:rgb(96,124,60);stop-opacity:0.00" />
+<stop offset="44%" style="stop-color:rgb(96,124,60);stop-opacity:0.00" />
+<stop offset="50%" style="stop-color:rgb(96,124,60);stop-opacity:0.00" />
+<stop offset="55%" style="stop-color:rgb(96,124,60);stop-opacity:0.00" />
+<stop offset="61%" style="stop-color:rgb(96,124,60);stop-opacity:0.00" />
+<stop offset="66%" style="stop-color:rgb(96,124,60);stop-opacity:0.00" />
+<stop offset="72%" style="stop-color:rgb(96,124,60);stop-opacity:0.00" />
+<stop offset="77%" style="stop-color:rgb(96,124,60);stop-opacity:0.00" />
+</radialGradient>
+</defs>
+<ellipse cx="52" cy="148" rx="187" ry="187" fill="url(#grad_protein)" />
+<ellipse cx="87" cy="113" rx="187" ry="187" fill="url(#grad_expression)" />
+<ellipse cx="122" cy="78" rx="187" ry="187" fill="url(#grad_cell)" />
+<ellipse cx="157" cy="43" rx="154" ry="154" fill="url(#grad_patient)" />
+</svg>

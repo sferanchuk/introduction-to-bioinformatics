@@ -1,0 +1,484 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="tandem-style.xsl"?>
+<bioml xmlns:GAML="http://www.bioml.com/gaml/" label="models from 'C:\Users\sergey\Documents\amph\Lb25.mgf'">
+<group id="1" mh="1053.564000" z="1" rt="" expect="2.9e+000" label="30571 c82733_g1_i1|m.30571 c82733_g1_i1_REVERSED|g.30571 type:internal len:248 gc:universal..." type="model" sumI="4.65" maxI="11305" fI="113.05" act="0" >
+<protein expect="0.0" id="1.1" uid="61142" label="30571 c82733_g1_i1|m.30571 c82733_g1_i1_REVERSED|g.30571 type:internal len:248 gc:universal..." sumI="4.65" >
+<note label="description">30571 c82733_g1_i1|m.30571 c82733_g1_i1_REVERSED|g.30571 type:internal len:248 gc:universal c82733_g1_i1:2-742(+)-REVERSED</note>
+<file type="peptide" URL="C:\Users\sergey\Documents\amph\cgubka-pn_concatenated_target_decoy.fasta"/>
+<peptide start="1" end="247">
+	
+<domain id="1.1.1" start="58" end="66" expect="2.9e+000" mh="1053.5575" delta="0.0065" hyperscore="14.7" nextscore="13.5" y_score="7.8" y_ions="4" b_score="4.4" b_ions="2" pre="DVSR" post="KSYK" seq="EPHTLSEIK" missed_cleavages="0">
+</domain>
+</peptide>
+</protein>
+<group type="support" label="fragment ion mass spectrum">
+<note label="Description">Label: W1, Spot_Id: 1, Peak_List_Id: 1, MSMS Job_Run_Id: 1, Comment: </note>
+<GAML:trace id="1" label="1.spectrum" type="tandem mass spectrum">
+<GAML:attribute type="M+H">1053.56</GAML:attribute>
+<GAML:attribute type="charge">1</GAML:attribute>
+<GAML:Xdata label="1.spectrum" units="MASSTOCHARGERATIO">
+<GAML:values byteorder="INTEL" format="ASCII" numvalues="50">
+201.042 202.987 235.249 263.046 274.026 302.093 316.114 344.1 359.296 361.128 364.036 375.101 377.026 393.477 431.162 433.361 447.177 451.102 459.179 465.187 473.209 476.235 530.258 550.292 589.432 674.43 676.399 677.366 690.388 693.415 791.477 890.625 893.52 910.376 912.458 914.584 924.715 991.676 1009.82 1011.86 1023.99 1027.26 1029.47 1031.58 1032.57 1035.77 1037.77 1038.83 1040.93 1042.83
+
+</GAML:values>
+</GAML:Xdata>
+<GAML:Ydata label="1.spectrum" units="UNKNOWN">
+<GAML:values byteorder="INTEL" format="ASCII" numvalues="50">
+10 2 6 6 3 5 4 8 3 100 3 13 11 4 6 3 6 3 5 9 3 3 3 3 3 3 40 13 5 5 4 2 3 5 2 3 5 2 2 2 3 2 3 4 3 6 8 25 9 10
+
+</GAML:values>
+</GAML:Ydata>
+</GAML:trace>
+</group></group>
+<group id="2" mh="1011.506000" z="1" rt="" expect="7.3e+000" label="205017 c186016_g1_i1|m.205017 c186016_g1_i1_REVERSED|g.205017 type:internal len:121..." type="model" sumI="4.49" maxI="11600" fI="116" act="0" >
+<protein expect="0.0" id="2.1" uid="410034" label="205017 c186016_g1_i1|m.205017 c186016_g1_i1_REVERSED|g.205017 type:internal len:121..." sumI="4.49" >
+<note label="description">205017 c186016_g1_i1|m.205017 c186016_g1_i1_REVERSED|g.205017 type:internal len:121 gc:universal c186016_g1_i1:2-361(+)-REVERSED</note>
+<file type="peptide" URL="C:\Users\sergey\Documents\amph\cgubka-pn_concatenated_target_decoy.fasta"/>
+<peptide start="1" end="120">
+	
+<domain id="2.1.1" start="110" end="119" expect="7.3e+000" mh="1010.490" delta="1.016" hyperscore="14.8" nextscore="14.4" y_score="7.8" y_ions="4" b_score="5.1" b_ions="2" pre="QCGK" post="S]" seq="AYNVSGGTNK" missed_cleavages="0">
+</domain>
+</peptide>
+</protein>
+<group type="support" label="fragment ion mass spectrum">
+<note label="Description">Label: W2, Spot_Id: 2, Peak_List_Id: 2, MSMS Job_Run_Id: 2, Comment: </note>
+<GAML:trace id="2" label="2.spectrum" type="tandem mass spectrum">
+<GAML:attribute type="M+H">1011.51</GAML:attribute>
+<GAML:attribute type="charge">1</GAML:attribute>
+<GAML:Xdata label="2.spectrum" units="MASSTOCHARGERATIO">
+<GAML:values byteorder="INTEL" format="ASCII" numvalues="50">
+202.954 207.017 234.919 255.89 273.921 283.979 301.973 317.135 326.943 344.017 348.062 349.939 354.943 358.994 361.041 362.93 371.038 373.032 409.072 417.021 419.007 437.03 441.124 459.088 465.219 476.152 488.079 490.092 508.154 518.209 533.243 558.155 575.2 603.171 632.315 634.219 646.227 651.17 662.25 664.22 693.375 714.085 760.362 777.359 787.413 848.407 976.697 990.508 994.564 995.645
+
+</GAML:values>
+</GAML:Xdata>
+<GAML:Ydata label="2.spectrum" units="UNKNOWN">
+<GAML:values byteorder="INTEL" format="ASCII" numvalues="50">
+2 2 3 1 4 2 6 1 3 7 1 5 1 1 100 2 1 1 1 3 4 6 1 5 2 4 2 3 4 2 1 1 2 1 2 1 2 5 38 1 1 1 2 5 1 2 1 2 10 3
+
+</GAML:values>
+</GAML:Ydata>
+</GAML:trace>
+</group></group>
+<group id="3" mh="1039.545000" z="1" rt="" expect="5.0e-001" label="124941 c131906_g3_i1|m.124941 c131906_g3_i1_REVERSED|g.124941 type:complete len:411..." type="model" sumI="4.53" maxI="12466" fI="124.66" act="0" >
+<protein expect="0.0" id="3.1" uid="249882" label="124941 c131906_g3_i1|m.124941 c131906_g3_i1_REVERSED|g.124941 type:complete len:411..." sumI="4.53" >
+<note label="description">124941 c131906_g3_i1|m.124941 c131906_g3_i1_REVERSED|g.124941 type:complete len:411 gc:universal c131906_g3_i1:2353-1121(-)-REVERSED</note>
+<file type="peptide" URL="C:\Users\sergey\Documents\amph\cgubka-pn_concatenated_target_decoy.fasta"/>
+<peptide start="1" end="410">
+	
+<domain id="3.1.1" start="107" end="115" expect="5.0e-001" mh="1039.5418" delta="0.0032" hyperscore="16.7" nextscore="13.7" y_score="6.2" y_ions="2" b_score="5.8" b_ions="5" pre="LVPR" post="FMAV" seq="EASSTLLYR" missed_cleavages="0">
+</domain>
+</peptide>
+</protein>
+<protein expect="0.0" id="3.2" uid="249904" label="124952 c131906_g3_i4|m.124952 c131906_g3_i4_REVERSED|g.124952 type:complete len:118..." sumI="4.53" >
+<note label="description">124952 c131906_g3_i4|m.124952 c131906_g3_i4_REVERSED|g.124952 type:complete len:118 gc:universal c131906_g3_i4:1438-1085(-)-REVERSED</note>
+<file type="peptide" URL="C:\Users\sergey\Documents\amph\cgubka-pn_concatenated_target_decoy.fasta"/>
+<peptide start="1" end="117">
+	
+<domain id="3.2.1" start="107" end="115" expect="5.0e-001" mh="1039.5418" delta="0.0032" hyperscore="16.7" nextscore="13.7" y_score="6.2" y_ions="2" b_score="5.8" b_ions="5" pre="LVPR" post="FM]" seq="EASSTLLYR" missed_cleavages="0">
+</domain>
+</peptide>
+</protein>
+<protein expect="0.0" id="3.3" uid="249906" label="124953 c131906_g3_i5|m.124953 c131906_g3_i5_REVERSED|g.124953 type:complete len:411..." sumI="4.53" >
+<note label="description">124953 c131906_g3_i5|m.124953 c131906_g3_i5_REVERSED|g.124953 type:complete len:411 gc:universal c131906_g3_i5:2397-1165(-)-REVERSED</note>
+<file type="peptide" URL="C:\Users\sergey\Documents\amph\cgubka-pn_concatenated_target_decoy.fasta"/>
+<peptide start="1" end="410">
+	
+<domain id="3.3.1" start="107" end="115" expect="5.0e-001" mh="1039.5418" delta="0.0032" hyperscore="16.7" nextscore="13.7" y_score="6.2" y_ions="2" b_score="5.8" b_ions="5" pre="LVPR" post="FMAV" seq="EASSTLLYR" missed_cleavages="0">
+</domain>
+</peptide>
+</protein>
+<protein expect="0.0" id="3.4" uid="249914" label="124957 c131906_g3_i6|m.124957 c131906_g3_i6_REVERSED|g.124957 type:complete len:118..." sumI="4.53" >
+<note label="description">124957 c131906_g3_i6|m.124957 c131906_g3_i6_REVERSED|g.124957 type:complete len:118 gc:universal c131906_g3_i6:1438-1085(-)-REVERSED</note>
+<file type="peptide" URL="C:\Users\sergey\Documents\amph\cgubka-pn_concatenated_target_decoy.fasta"/>
+<peptide start="1" end="117">
+	
+<domain id="3.4.1" start="107" end="115" expect="5.0e-001" mh="1039.5418" delta="0.0032" hyperscore="16.7" nextscore="13.7" y_score="6.2" y_ions="2" b_score="5.8" b_ions="5" pre="LVPR" post="FM]" seq="EASSTLLYR" missed_cleavages="0">
+</domain>
+</peptide>
+</protein>
+<protein expect="0.0" id="3.5" uid="249916" label="124958 c131906_g3_i7|m.124958 c131906_g3_i7_REVERSED|g.124958 type:complete len:411..." sumI="4.53" >
+<note label="description">124958 c131906_g3_i7|m.124958 c131906_g3_i7_REVERSED|g.124958 type:complete len:411 gc:universal c131906_g3_i7:2317-1085(-)-REVERSED</note>
+<file type="peptide" URL="C:\Users\sergey\Documents\amph\cgubka-pn_concatenated_target_decoy.fasta"/>
+<peptide start="1" end="410">
+	
+<domain id="3.5.1" start="107" end="115" expect="5.0e-001" mh="1039.5418" delta="0.0032" hyperscore="16.7" nextscore="13.7" y_score="6.2" y_ions="2" b_score="5.8" b_ions="5" pre="LVPR" post="FMAV" seq="EASSTLLYR" missed_cleavages="0">
+</domain>
+</peptide>
+</protein>
+<protein expect="0.0" id="3.6" uid="340430" label="170215 c137052_g2_i1|m.170215 c137052_g2_i1_REVERSED|g.170215 type:complete len:118..." sumI="4.53" >
+<note label="description">170215 c137052_g2_i1|m.170215 c137052_g2_i1_REVERSED|g.170215 type:complete len:118 gc:universal c137052_g2_i1:434-787(+)-REVERSED</note>
+<file type="peptide" URL="C:\Users\sergey\Documents\amph\cgubka-pn_concatenated_target_decoy.fasta"/>
+<peptide start="1" end="117">
+	
+<domain id="3.6.1" start="107" end="115" expect="5.0e-001" mh="1039.5418" delta="0.0032" hyperscore="16.7" nextscore="13.7" y_score="6.2" y_ions="2" b_score="5.8" b_ions="5" pre="LVPR" post="FM]" seq="EASSTLLYR" missed_cleavages="0">
+</domain>
+</peptide>
+</protein>
+<protein expect="0.0" id="3.7" uid="340432" label="170216 c137052_g2_i2|m.170216 c137052_g2_i2_REVERSED|g.170216 type:complete len:411..." sumI="4.53" >
+<note label="description">170216 c137052_g2_i2|m.170216 c137052_g2_i2_REVERSED|g.170216 type:complete len:411 gc:universal c137052_g2_i2:260-1492(+)-REVERSED</note>
+<file type="peptide" URL="C:\Users\sergey\Documents\amph\cgubka-pn_concatenated_target_decoy.fasta"/>
+<peptide start="1" end="410">
+	
+<domain id="3.7.1" start="107" end="115" expect="5.0e-001" mh="1039.5418" delta="0.0032" hyperscore="16.7" nextscore="13.7" y_score="6.2" y_ions="2" b_score="5.8" b_ions="5" pre="LVPR" post="FMAV" seq="EASSTLLYR" missed_cleavages="0">
+</domain>
+</peptide>
+</protein>
+<protein expect="0.0" id="3.8" uid="340442" label="170221 c137052_g2_i3|m.170221 c137052_g2_i3_REVERSED|g.170221 type:complete len:411..." sumI="4.53" >
+<note label="description">170221 c137052_g2_i3|m.170221 c137052_g2_i3_REVERSED|g.170221 type:complete len:411 gc:universal c137052_g2_i3:260-1492(+)-REVERSED</note>
+<file type="peptide" URL="C:\Users\sergey\Documents\amph\cgubka-pn_concatenated_target_decoy.fasta"/>
+<peptide start="1" end="410">
+	
+<domain id="3.8.1" start="107" end="115" expect="5.0e-001" mh="1039.5418" delta="0.0032" hyperscore="16.7" nextscore="13.7" y_score="6.2" y_ions="2" b_score="5.8" b_ions="5" pre="LVPR" post="FMAV" seq="EASSTLLYR" missed_cleavages="0">
+</domain>
+</peptide>
+</protein>
+<protein expect="0.0" id="3.9" uid="340462" label="170231 c137052_g2_i5|m.170231 c137052_g2_i5_REVERSED|g.170231 type:complete len:118..." sumI="4.53" >
+<note label="description">170231 c137052_g2_i5|m.170231 c137052_g2_i5_REVERSED|g.170231 type:complete len:118 gc:universal c137052_g2_i5:1158-1511(+)-REVERSED</note>
+<file type="peptide" URL="C:\Users\sergey\Documents\amph\cgubka-pn_concatenated_target_decoy.fasta"/>
+<peptide start="1" end="117">
+	
+<domain id="3.9.1" start="107" end="115" expect="5.0e-001" mh="1039.5418" delta="0.0032" hyperscore="16.7" nextscore="13.7" y_score="6.2" y_ions="2" b_score="5.8" b_ions="5" pre="LVPR" post="FM]" seq="EASSTLLYR" missed_cleavages="0">
+</domain>
+</peptide>
+</protein>
+<protein expect="0.0" id="3.10" uid="340468" label="170234 c137052_g2_i6|m.170234 c137052_g2_i6_REVERSED|g.170234 type:complete len:411..." sumI="4.53" >
+<note label="description">170234 c137052_g2_i6|m.170234 c137052_g2_i6_REVERSED|g.170234 type:complete len:411 gc:universal c137052_g2_i6:260-1492(+)-REVERSED</note>
+<file type="peptide" URL="C:\Users\sergey\Documents\amph\cgubka-pn_concatenated_target_decoy.fasta"/>
+<peptide start="1" end="410">
+	
+<domain id="3.10.1" start="107" end="115" expect="5.0e-001" mh="1039.5418" delta="0.0032" hyperscore="16.7" nextscore="13.7" y_score="6.2" y_ions="2" b_score="5.8" b_ions="5" pre="LVPR" post="FMAV" seq="EASSTLLYR" missed_cleavages="0">
+</domain>
+</peptide>
+</protein>
+<protein expect="0.0" id="3.11" uid="340480" label="170240 c137052_g2_i7|m.170240 c137052_g2_i7_REVERSED|g.170240 type:complete len:118..." sumI="4.53" >
+<note label="description">170240 c137052_g2_i7|m.170240 c137052_g2_i7_REVERSED|g.170240 type:complete len:118 gc:universal c137052_g2_i7:1165-1518(+)-REVERSED</note>
+<file type="peptide" URL="C:\Users\sergey\Documents\amph\cgubka-pn_concatenated_target_decoy.fasta"/>
+<peptide start="1" end="117">
+	
+<domain id="3.11.1" start="107" end="115" expect="5.0e-001" mh="1039.5418" delta="0.0032" hyperscore="16.7" nextscore="13.7" y_score="6.2" y_ions="2" b_score="5.8" b_ions="5" pre="LVPR" post="FM]" seq="EASSTLLYR" missed_cleavages="0">
+</domain>
+</peptide>
+</protein>
+<group type="support" label="fragment ion mass spectrum">
+<note label="Description">Label: W3, Spot_Id: 3, Peak_List_Id: 3, MSMS Job_Run_Id: 3, Comment: </note>
+<GAML:trace id="3" label="3.spectrum" type="tandem mass spectrum">
+<GAML:attribute type="M+H">1039.55</GAML:attribute>
+<GAML:attribute type="charge">1</GAML:attribute>
+<GAML:Xdata label="3.spectrum" units="MASSTOCHARGERATIO">
+<GAML:values byteorder="INTEL" format="ASCII" numvalues="50">
+200.998 207.125 235.033 274.003 284.065 288.026 301.966 312.013 316.06 327.02 344.044 350.011 359.096 361.078 364.038 364.948 375.019 376.958 393.007 433.052 445.138 451.12 459.102 476.149 516.197 518.254 536.221 572.304 589.283 673.348 676.3 679.26 691.257 805.39 876.558 906.487 910.502 974.605 976.486 997.603 1005.51 1007.75 1009.73 1015.28 1016.35 1019.54 1021.6 1022.61 1024.69 1026.55
+
+</GAML:values>
+</GAML:Xdata>
+<GAML:Ydata label="3.spectrum" units="UNKNOWN">
+<GAML:values byteorder="INTEL" format="ASCII" numvalues="50">
+4 2 8 3 1 2 3 2 3 2 6 1 2 100 10 2 3 2 2 8 3 9 7 4 2 2 4 2 3 2 12 4 2 2 3 2 3 3 1 2 2 2 3 3 2 2 6 6 7 2
+
+</GAML:values>
+</GAML:Ydata>
+</GAML:trace>
+</group></group>
+<group id="4" mh="1410.755000" z="1" rt="" expect="7.1e+000" label="202049 c178911_g1_i1|m.202049 c178911_g1_i1|g.202049 type:internal len:196 gc:universal..." type="model" sumI="3.97" maxI="1341" fI="13.41" act="0" >
+<protein expect="0.0" id="4.1" uid="404097" label="202049 c178911_g1_i1|m.202049 c178911_g1_i1|g.202049 type:internal len:196 gc:universal..." sumI="3.97" >
+<note label="description">202049 c178911_g1_i1|m.202049 c178911_g1_i1|g.202049 type:internal len:196 gc:universal c178911_g1_i1:1-585(+)</note>
+<file type="peptide" URL="C:\Users\sergey\Documents\amph\cgubka-pn_concatenated_target_decoy.fasta"/>
+<peptide start="1" end="195">
+	
+<domain id="4.1.1" start="44" end="56" expect="7.1e+000" mh="1409.742" delta="1.013" hyperscore="16.9" nextscore="15.9" y_score="10.1" y_ions="4" b_score="5.0" b_ions="2" pre="IVEK" post="LGWN" seq="GFPGLSFGKKEDK" missed_cleavages="2">
+</domain>
+</peptide>
+</protein>
+<group type="support" label="fragment ion mass spectrum">
+<note label="Description">Label: W4, Spot_Id: 4, Peak_List_Id: 4, MSMS Job_Run_Id: 4, Comment: </note>
+<GAML:trace id="4" label="4.spectrum" type="tandem mass spectrum">
+<GAML:attribute type="M+H">1410.76</GAML:attribute>
+<GAML:attribute type="charge">1</GAML:attribute>
+<GAML:Xdata label="4.spectrum" units="MASSTOCHARGERATIO">
+<GAML:values byteorder="INTEL" format="ASCII" numvalues="50">
+257.17 274.191 301.185 388.409 405.251 452.267 480.3 518.545 534.399 565.338 593.391 600.371 631.443 752.461 753.53 763.427 780.534 851.785 852.691 878.606 891.831 893.628 938.745 940.779 1004.91 1007.56 1062.86 1110.88 1247.08 1285.21 1290.08 1293.06 1297.16 1336.67 1338.47 1345.23 1347.19 1348.24 1350.27 1352.99 1362.81 1364 1369.2 1376.93 1378.58 1387.81 1392.04 1394.11 1395.13 1397.23
+
+</GAML:values>
+</GAML:Xdata>
+<GAML:Ydata label="4.spectrum" units="UNKNOWN">
+<GAML:values byteorder="INTEL" format="ASCII" numvalues="50">
+8 13 8 10 12 10 8 12 7 7 9 8 9 14 8 7 15 10 8 7 11 8 100 12 13 7 18 7 8 7 10 7 9 8 9 8 12 29 13 7 21 13 8 9 11 7 12 62 48 11
+
+</GAML:values>
+</GAML:Ydata>
+</GAML:trace>
+</group></group>
+<group id="5" mh="1426.758000" z="1" rt="" expect="2.2e+000" label="229900 c268238_g1_i1|m.229900 c268238_g1_i1_REVERSED|g.229900 type:internal len:126..." type="model" sumI="4.12" maxI="4631" fI="46.31" act="0" >
+<protein expect="0.0" id="5.1" uid="459800" label="229900 c268238_g1_i1|m.229900 c268238_g1_i1_REVERSED|g.229900 type:internal len:126..." sumI="4.12" >
+<note label="description">229900 c268238_g1_i1|m.229900 c268238_g1_i1_REVERSED|g.229900 type:internal len:126 gc:universal c268238_g1_i1:1-375(+)-REVERSED</note>
+<file type="peptide" URL="C:\Users\sergey\Documents\amph\cgubka-pn_concatenated_target_decoy.fasta"/>
+<peptide start="1" end="125">
+	
+<domain id="5.1.1" start="83" end="94" expect="2.2e+000" mh="1425.748" delta="1.010" hyperscore="9.5" nextscore="9.0" y_score="3.9" y_ions="4" b_score="0.0" b_ions="0" pre="IGRK" post="KQRE" seq="KYKNAANFENVK" missed_cleavages="2">
+</domain>
+</peptide>
+</protein>
+<group type="support" label="fragment ion mass spectrum">
+<note label="Description">Label: W5, Spot_Id: 5, Peak_List_Id: 5, MSMS Job_Run_Id: 5, Comment: </note>
+<GAML:trace id="5" label="5.spectrum" type="tandem mass spectrum">
+<GAML:attribute type="M+H">1426.76</GAML:attribute>
+<GAML:attribute type="charge">1</GAML:attribute>
+<GAML:Xdata label="5.spectrum" units="MASSTOCHARGERATIO">
+<GAML:values byteorder="INTEL" format="ASCII" numvalues="50">
+485.408 750.369 773.578 777.62 821.829 851.73 890.709 892.604 938.857 940.869 954.685 956.632 960.574 1063.75 1088.76 1102.87 1110.98 1112.82 1185.66 1244.9 1255.88 1262.91 1293.08 1294.12 1297.24 1304.09 1318.39 1321.09 1338.84 1344.75 1346.7 1350.82 1352.58 1354.94 1358.04 1359.95 1361.09 1363.21 1365.33 1367.65 1376.62 1378.9 1382.41 1394.43 1396.55 1406.89 1410.15 1411.08 1413.06 1414.85
+
+</GAML:values>
+</GAML:Xdata>
+<GAML:Ydata label="5.spectrum" units="UNKNOWN">
+<GAML:values byteorder="INTEL" format="ASCII" numvalues="50">
+1 1 2 2 2 2 7 2 5 1 5 1 2 2 1 2 6 1 2 2 2 2 5 4 2 1 1 4 2 2 4 2 3 2 2 3 12 100 32 4 2 1 2 2 2 2 17 13 5 2
+
+</GAML:values>
+</GAML:Ydata>
+</GAML:trace>
+</group></group>
+<group id="6" mh="1736.882000" z="1" rt="" expect="4.4e+000" label="38993 c96018_g1_i1|m.38993 c96018_g1_i1_REVERSED|g.38993 type:internal len:160 gc:universal..." type="model" sumI="3.62" maxI="439" fI="4.39" act="0" >
+<protein expect="0.0" id="6.1" uid="77986" label="38993 c96018_g1_i1|m.38993 c96018_g1_i1_REVERSED|g.38993 type:internal len:160 gc:universal..." sumI="3.62" >
+<note label="description">38993 c96018_g1_i1|m.38993 c96018_g1_i1_REVERSED|g.38993 type:internal len:160 gc:universal c96018_g1_i1:1-477(+)-REVERSED</note>
+<file type="peptide" URL="C:\Users\sergey\Documents\amph\cgubka-pn_concatenated_target_decoy.fasta"/>
+<peptide start="1" end="159">
+	
+<domain id="6.1.1" start="130" end="144" expect="4.4e+000" mh="1734.848" delta="2.034" hyperscore="15.3" nextscore="14.0" y_score="4.5" y_ions="1" b_score="9.6" b_ions="4" pre="AFLK" post="RGVV" seq="MRYAPPNEDTKTPAK" missed_cleavages="2">
+<aa type="M" at="130" modified="15.99492" />
+</domain>
+</peptide>
+</protein>
+<protein expect="0.0" id="6.2" uid="89340" label="44670 c102926_g1_i1|m.44670 c102926_g1_i1_REVERSED|g.44670 type:internal len:162..." sumI="3.62" >
+<note label="description">44670 c102926_g1_i1|m.44670 c102926_g1_i1_REVERSED|g.44670 type:internal len:162 gc:universal c102926_g1_i1:484-2(-)-REVERSED</note>
+<file type="peptide" URL="C:\Users\sergey\Documents\amph\cgubka-pn_concatenated_target_decoy.fasta"/>
+<peptide start="1" end="161">
+	
+<domain id="6.2.1" start="145" end="159" expect="4.4e+000" mh="1734.848" delta="2.034" hyperscore="15.3" nextscore="14.0" y_score="4.5" y_ions="1" b_score="9.6" b_ions="4" pre="AFLK" post="RG]" seq="MRYAPPNEDTKTPAK" missed_cleavages="2">
+<aa type="M" at="145" modified="15.99492" />
+</domain>
+</peptide>
+</protein>
+<group type="support" label="fragment ion mass spectrum">
+<note label="Description">Label: W6, Spot_Id: 6, Peak_List_Id: 6, MSMS Job_Run_Id: 6, Comment: </note>
+<GAML:trace id="6" label="6.spectrum" type="tandem mass spectrum">
+<GAML:attribute type="M+H">1736.88</GAML:attribute>
+<GAML:attribute type="charge">1</GAML:attribute>
+<GAML:Xdata label="6.spectrum" units="MASSTOCHARGERATIO">
+<GAML:values byteorder="INTEL" format="ASCII" numvalues="50">
+379.081 538.262 609.042 680.633 779.415 780.421 846.804 862.525 894.453 922.755 947.718 963.41 982.634 1030.76 1088.65 1089.63 1116.58 1159.91 1188.66 1292.85 1483.42 1498.72 1523.18 1562.97 1566.89 1573.14 1588.24 1601.72 1614.32 1622.18 1623.39 1625.07 1654.23 1656.6 1660.41 1662.53 1665.9 1667.66 1672.21 1679.24 1680.13 1693.19 1695.47 1696.59 1700.11 1704.18 1708.53 1715.31 1719.34 1720.95
+
+</GAML:values>
+</GAML:Xdata>
+<GAML:Ydata label="6.spectrum" units="UNKNOWN">
+<GAML:values byteorder="INTEL" format="ASCII" numvalues="50">
+17 15 13 15 95 15 13 14 19 12 14 12 13 12 100 28 13 12 12 12 12 12 15 12 18 13 14 13 19 39 15 13 23 13 15 13 17 13 15 28 24 17 13 12 14 12 15 15 22 27
+
+</GAML:values>
+</GAML:Ydata>
+</GAML:trace>
+</group></group>
+<group id="7" mh="1909.946000" z="1" rt="" expect="3.4e+000" label="188818 c139300_g1_i1|m.188818 c139300_g1_i1_REVERSED|g.188818 type:internal len:4527..." type="model" sumI="4.19" maxI="2104" fI="21.04" act="0" >
+<protein expect="0.0" id="7.1" uid="377636" label="188818 c139300_g1_i1|m.188818 c139300_g1_i1_REVERSED|g.188818 type:internal len:4527..." sumI="4.19" >
+<note label="description">188818 c139300_g1_i1|m.188818 c139300_g1_i1_REVERSED|g.188818 type:internal len:4527 gc:universal c139300_g1_i1:13580-3(-)-REVERSED</note>
+<file type="peptide" URL="C:\Users\sergey\Documents\amph\cgubka-pn_concatenated_target_decoy.fasta"/>
+<peptide start="1" end="4526">
+	
+<domain id="7.1.1" start="1585" end="1600" expect="3.4e+000" mh="1909.9555" delta="-0.0095" hyperscore="17.9" nextscore="16.9" y_score="10.7" y_ions="2" b_score="8.7" b_ions="4" pre="IRKR" post="VAHE" seq="FVEVPDFQELGGFNRR" missed_cleavages="1">
+</domain>
+</peptide>
+</protein>
+<group type="support" label="fragment ion mass spectrum">
+<note label="Description">Label: W7, Spot_Id: 7, Peak_List_Id: 7, MSMS Job_Run_Id: 7, Comment: </note>
+<GAML:trace id="7" label="7.spectrum" type="tandem mass spectrum">
+<GAML:attribute type="M+H">1909.95</GAML:attribute>
+<GAML:attribute type="charge">1</GAML:attribute>
+<GAML:Xdata label="7.spectrum" units="MASSTOCHARGERATIO">
+<GAML:values byteorder="INTEL" format="ASCII" numvalues="50">
+235.181 305.193 392.179 409.222 555.301 572.37 659.459 718.868 734.562 746.437 850.539 851.961 875.532 898.765 900.831 948.952 962.939 975.589 976.678 978.545 1074.66 1091.76 1256.87 1292.06 1303.92 1318.96 1320.93 1387.98 1417.11 1417.95 1434.12 1435.17 1789.3 1807.04 1808.28 1835.94 1837.2 1840.37 1842.16 1850.03 1855.32 1856.5 1858.45 1866.59 1867.83 1880.53 1881.63 1884.68 1891.96 1893.09
+
+</GAML:values>
+</GAML:Xdata>
+<GAML:Ydata label="7.spectrum" units="UNKNOWN">
+<GAML:values byteorder="INTEL" format="ASCII" numvalues="50">
+6 10 7 6 7 11 10 7 6 25 12 6 12 37 10 6 7 8 100 11 8 10 6 8 6 95 29 8 7 9 55 30 8 6 6 7 9 7 6 6 18 14 10 7 7 10 6 7 13 11
+
+</GAML:values>
+</GAML:Ydata>
+</GAML:trace>
+</group></group>
+<group id="8" mh="1071.543000" z="1" rt="" expect="2.3e-001" label="65387 c117955_g1_i1|m.65387 c117955_g1_i1|g.65387 type:complete len:200 gc:universal..." type="model" sumI="4.03" maxI="2587" fI="25.87" act="0" >
+<protein expect="0.0" id="8.1" uid="130773" label="65387 c117955_g1_i1|m.65387 c117955_g1_i1|g.65387 type:complete len:200 gc:universal..." sumI="4.03" >
+<note label="description">65387 c117955_g1_i1|m.65387 c117955_g1_i1|g.65387 type:complete len:200 gc:universal c117955_g1_i1:125-724(+)</note>
+<file type="peptide" URL="C:\Users\sergey\Documents\amph\cgubka-pn_concatenated_target_decoy.fasta"/>
+<peptide start="1" end="199">
+	
+<domain id="8.1.1" start="187" end="195" expect="2.3e-001" mh="1071.5503" delta="-0.0073" hyperscore="15.8" nextscore="13.2" y_score="6.1" y_ions="4" b_score="8.7" b_ions="2" pre="MWKR" post="LPVQ]" seq="CVPDPKDLK" missed_cleavages="1">
+<aa type="C" at="187" modified="57.02147" />
+</domain>
+</peptide>
+</protein>
+<protein expect="0.0" id="8.2" uid="130775" label="65388 c117955_g1_i2|m.65388 c117955_g1_i2|g.65388 type:complete len:200 gc:universal..." sumI="4.03" >
+<note label="description">65388 c117955_g1_i2|m.65388 c117955_g1_i2|g.65388 type:complete len:200 gc:universal c117955_g1_i2:519-1118(+)</note>
+<file type="peptide" URL="C:\Users\sergey\Documents\amph\cgubka-pn_concatenated_target_decoy.fasta"/>
+<peptide start="1" end="199">
+	
+<domain id="8.2.1" start="187" end="195" expect="2.3e-001" mh="1071.5503" delta="-0.0073" hyperscore="15.8" nextscore="13.2" y_score="6.1" y_ions="4" b_score="8.7" b_ions="2" pre="MWKR" post="LPVQ]" seq="CVPDPKDLK" missed_cleavages="1">
+<aa type="C" at="187" modified="57.02147" />
+</domain>
+</peptide>
+</protein>
+<protein expect="0.0" id="8.3" uid="130783" label="65392 c117955_g1_i5|m.65392 c117955_g1_i5|g.65392 type:complete len:436 gc:universal..." sumI="4.03" >
+<note label="description">65392 c117955_g1_i5|m.65392 c117955_g1_i5|g.65392 type:complete len:436 gc:universal c117955_g1_i5:116-1423(+)</note>
+<file type="peptide" URL="C:\Users\sergey\Documents\amph\cgubka-pn_concatenated_target_decoy.fasta"/>
+<peptide start="1" end="435">
+	
+<domain id="8.3.1" start="423" end="431" expect="2.3e-001" mh="1071.5503" delta="-0.0073" hyperscore="15.8" nextscore="13.2" y_score="6.1" y_ions="4" b_score="8.7" b_ions="2" pre="MWKR" post="LPVQ]" seq="CVPDPKDLK" missed_cleavages="1">
+<aa type="C" at="423" modified="57.02147" />
+</domain>
+</peptide>
+</protein>
+<protein expect="0.0" id="8.4" uid="130785" label="65393 c117955_g1_i6|m.65393 c117955_g1_i6|g.65393 type:5prime_partial len:482 gc:universal..." sumI="4.03" >
+<note label="description">65393 c117955_g1_i6|m.65393 c117955_g1_i6|g.65393 type:5prime_partial len:482 gc:universal c117955_g1_i6:1-1446(+)</note>
+<file type="peptide" URL="C:\Users\sergey\Documents\amph\cgubka-pn_concatenated_target_decoy.fasta"/>
+<peptide start="1" end="481">
+	
+<domain id="8.4.1" start="469" end="477" expect="2.3e-001" mh="1071.5503" delta="-0.0073" hyperscore="15.8" nextscore="13.2" y_score="6.1" y_ions="4" b_score="8.7" b_ions="2" pre="MWKR" post="LPVQ]" seq="CVPDPKDLK" missed_cleavages="1">
+<aa type="C" at="469" modified="57.02147" />
+</domain>
+</peptide>
+</protein>
+<protein expect="0.0" id="8.5" uid="130787" label="65394 c117955_g1_i7|m.65394 c117955_g1_i7|g.65394 type:5prime_partial len:194 gc:universal..." sumI="4.03" >
+<note label="description">65394 c117955_g1_i7|m.65394 c117955_g1_i7|g.65394 type:5prime_partial len:194 gc:universal c117955_g1_i7:1-582(+)</note>
+<file type="peptide" URL="C:\Users\sergey\Documents\amph\cgubka-pn_concatenated_target_decoy.fasta"/>
+<peptide start="1" end="193">
+	
+<domain id="8.5.1" start="181" end="189" expect="2.3e-001" mh="1071.5503" delta="-0.0073" hyperscore="15.8" nextscore="13.2" y_score="6.1" y_ions="4" b_score="8.7" b_ions="2" pre="MWKR" post="LPVQ]" seq="CVPDPKDLK" missed_cleavages="1">
+<aa type="C" at="181" modified="57.02147" />
+</domain>
+</peptide>
+</protein>
+<group type="support" label="fragment ion mass spectrum">
+<note label="Description">Label: W8, Spot_Id: 8, Peak_List_Id: 8, MSMS Job_Run_Id: 8, Comment: </note>
+<GAML:trace id="8" label="8.spectrum" type="tandem mass spectrum">
+<GAML:attribute type="M+H">1071.54</GAML:attribute>
+<GAML:attribute type="charge">1</GAML:attribute>
+<GAML:Xdata label="8.spectrum" units="MASSTOCHARGERATIO">
+<GAML:values byteorder="INTEL" format="ASCII" numvalues="50">
+201.301 235.065 260.195 263.219 361.488 375.396 377.154 391.248 393.164 447.371 451.266 473.335 690.566 692.469 708.481 715.419 758.499 784.583 832.696 864.523 877.318 889.521 905.609 907.479 909.578 911.72 920.668 922.679 924.692 938.702 939.707 941.656 1002.62 1005.78 1007.8 1021.36 1024.73 1027.73 1028.66 1035.32 1037.94 1039.13 1041.92 1045.41 1046.5 1048.31 1051.75 1053.75 1054.75 1056.95
+
+</GAML:values>
+</GAML:Xdata>
+<GAML:Ydata label="8.spectrum" units="UNKNOWN">
+<GAML:values byteorder="INTEL" format="ASCII" numvalues="50">
+7 5 3 4 5 11 8 3 22 3 4 4 12 5 8 3 3 3 3 3 3 3 5 4 4 4 4 3 3 100 44 4 5 3 5 4 4 3 3 3 9 4 6 4 6 4 9 22 17 4
+
+</GAML:values>
+</GAML:Ydata>
+</GAML:trace>
+</group></group>
+<group label="input parameters" type="parameters">
+	<note type="input" label="list path, default parameters">parameters_searchGUI.xml</note>
+	<note type="input" label="list path, taxonomy information">taxonomy_searchGUI.xml</note>
+	<note type="input" label="output, histogram column width">50</note>
+	<note type="input" label="output, histograms">no</note>
+	<note type="input" label="output, log path"></note>
+	<note type="input" label="output, maximum valid expectation value">0.01</note>
+	<note type="input" label="output, message"></note>
+	<note type="input" label="output, one sequence copy">no</note>
+	<note type="input" label="output, parameters">yes</note>
+	<note type="input" label="output, path">C:\Users\sergey\Documents\amph\lb25\.SearchGUI_temp\Lb25.t.xml</note>
+	<note type="input" label="output, path hashing">yes</note>
+	<note type="input" label="output, performance">yes</note>
+	<note type="input" label="output, proteins">yes</note>
+	<note type="input" label="output, results">all</note>
+	<note type="input" label="output, sequence path"></note>
+	<note type="input" label="output, sequences">no</note>
+	<note type="input" label="output, sort results by">spectrum</note>
+	<note type="input" label="output, spectra">yes</note>
+	<note type="input" label="output, xsl path">tandem-style.xsl</note>
+	<note type="input" label="protein, C-terminal residue modification mass">0.0</note>
+	<note type="input" label="protein, N-terminal residue modification mass">0.0</note>
+	<note type="input" label="protein, cleavage C-terminal mass change">17.002735</note>
+	<note type="input" label="protein, cleavage N-terminal mass change">+1.007825</note>
+	<note type="input" label="protein, cleavage semi">no</note>
+	<note type="input" label="protein, cleavage site">[RK]|{P}</note>
+	<note type="input" label="protein, homolog management">no</note>
+	<note type="input" label="protein, modified residue mass file"></note>
+	<note type="input" label="protein, quick acetyl">yes</note>
+	<note type="input" label="protein, quick pyrolidone">yes</note>
+	<note type="input" label="protein, stP bias">no</note>
+	<note type="input" label="protein, taxon">all</note>
+	<note type="input" label="refine">yes</note>
+	<note type="input" label="refine, cleavage semi">no</note>
+	<note type="input" label="refine, maximum valid expectation value">0.01</note>
+	<note type="input" label="refine, point mutations">no</note>
+	<note type="input" label="refine, potential C-terminus modifications"></note>
+	<note type="input" label="refine, potential N-terminus modifications"></note>
+	<note type="input" label="refine, potential modification mass"></note>
+	<note type="input" label="refine, potential modification motif"></note>
+	<note type="input" label="refine, saps">no</note>
+	<note type="input" label="refine, sequence path"></note>
+	<note type="input" label="refine, spectrum synthesis">yes</note>
+	<note type="input" label="refine, tic percent">20</note>
+	<note type="input" label="refine, unanticipated cleavage">yes</note>
+	<note type="input" label="refine, use potential modifications for full refinement">no</note>
+	<note type="input" label="residue, modification mass">57.021464@C,15.994915@M</note>
+	<note type="input" label="residue, potential modification mass"></note>
+	<note type="input" label="residue, potential modification motif"></note>
+	<note type="input" label="scoring, a ions">no</note>
+	<note type="input" label="scoring, b ions">yes</note>
+	<note type="input" label="scoring, c ions">no</note>
+	<note type="input" label="scoring, cyclic permutation">no</note>
+	<note type="input" label="scoring, include reverse">no</note>
+	<note type="input" label="scoring, maximum missed cleavage sites">2</note>
+	<note type="input" label="scoring, minimum ion count">4</note>
+	<note type="input" label="scoring, x ions">no</note>
+	<note type="input" label="scoring, y ions">yes</note>
+	<note type="input" label="scoring, z ions">no</note>
+	<note type="input" label="spectrum, dynamic range">100.0</note>
+	<note type="input" label="spectrum, fragment mass type">monoisotopic</note>
+	<note type="input" label="spectrum, fragment monoisotopic mass error">0.5</note>
+	<note type="input" label="spectrum, fragment monoisotopic mass error units">Daltons</note>
+	<note type="input" label="spectrum, maximum parent charge">4</note>
+	<note type="input" label="spectrum, minimum fragment mz">200.0</note>
+	<note type="input" label="spectrum, minimum parent m+h">500.0</note>
+	<note type="input" label="spectrum, minimum peaks">5</note>
+	<note type="input" label="spectrum, parent monoisotopic mass error minus">10.0</note>
+	<note type="input" label="spectrum, parent monoisotopic mass error plus">10.0</note>
+	<note type="input" label="spectrum, parent monoisotopic mass error units">ppm</note>
+	<note type="input" label="spectrum, parent monoisotopic mass isotope error">yes</note>
+	<note type="input" label="spectrum, path">C:\Users\sergey\Documents\amph\Lb25.mgf</note>
+	<note type="input" label="spectrum, sequence batch size">1000</note>
+	<note type="input" label="spectrum, threads">3</note>
+	<note type="input" label="spectrum, total peaks">50</note>
+	<note type="input" label="spectrum, use noise suppression">no</note>
+</group>
+<group label="unused input parameters"  type="parameters">
+	<note type="input" label="protein, ptm complexity">6.0</note>
+	<note type="input" label="protein, use minimal annotations">yes</note>
+	<note type="input" label="refine, modification mass"></note>
+	<note type="input" label="scoring, pluggable scoring">no</note>
+</group>
+<group label="performance parameters" type="parameters">
+	<note label="list path, sequence source #1">C:\Users\sergey\Documents\amph\cgubka-pn_concatenated_target_decoy.fasta</note>
+	<note label="list path, sequence source description #1">no description</note>
+	<note label="modelling, duplicate peptide ids">10</note>
+	<note label="modelling, duplicate proteins">113608</note>
+	<note label="modelling, total peptides used">48550</note>
+	<note label="modelling, total proteins used">495240</note>
+	<note label="modelling, total spectra used">8</note>
+	<note label="process, start time">2017:12:18:13:09:16</note>
+	<note label="process, version">X! Tandem Sledgehammer (2013.09.01.1)</note>
+	<note label="quality values">1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</note>
+	<note label="refining, # input models">0</note>
+	<note label="refining, # input spectra">0</note>
+	<note label="refining, # partial cleavage">0</note>
+	<note label="refining, # point mutations">0</note>
+	<note label="refining, # potential C-terminii">0</note>
+	<note label="refining, # potential N-terminii">0</note>
+	<note label="refining, # unanticipated cleavage">0</note>
+	<note label="timing, initial modelling total (sec)">29.74</note>
+	<note label="timing, initial modelling/spectrum (sec)">3.7176</note>
+	<note label="timing, load sequence models (sec)">6.22</note>
+	<note label="timing, refinement/spectrum (sec)">0.0000</note>
+</group>
+</bioml>

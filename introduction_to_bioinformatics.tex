@@ -1,0 +1,283 @@
+%&preformat-disser
+\RequirePackage[l2tabu,orthodox]{nag} 
+\documentclass[a4paper,12pt,oneside,openany]{memoir}
+\newlength{\curtextsize}
+\setlength{\curtextsize}{12pt}
+%\usepackage{fourier}
+%\usepackage{fontspec} % loaded by polyglossia, but included here for transparency 
+%\setmainfont{Latin Modern Roman}
+%\setsansfont{Latin Modern Sans}
+%\setmonofont{Latin Modern Mono}
+\usepackage{polyglossia}
+\setmainlanguage{russian} 
+\setotherlanguage{english}
+%\usepackage{heuristica}
+\usepackage{geometry}
+\geometry{a4paper, top=2cm, bottom=2cm, left=2.5cm, right=1.5cm, nofoot, nomarginpar}
+\usepackage[hyphenation, lastparline]{impnattypo}
+\OnehalfSpacing* 
+
+%\usepackage{unitsdef}
+\usepackage{siunitx}
+\DeclareSIUnit[number-unit-product = {\,}]
+\cal{cal}
+\DeclareSIUnit\kcal{\kilo\cal}
+\DeclareSIUnit[number-unit-product = {\,}]
+\Btu{Btu}
+\DeclareSIUnit[number-unit-product = {\,}]
+\Fahr{\degree F}
+\DeclareSIUnit[number-unit-product = {\,}]
+\lb{lb}
+
+\makepagestyle{headings}
+\makeevenhead{headings}{}{\thepage}{}
+\makeoddhead{headings}{}{\thepage}{}
+\pagestyle{headings} %\nouppercaseheads
+\aliaspagestyle{chapter}{headings}
+\aliaspagestyle{tableofcontents}{headings}
+%\usepackage{XCharter}
+
+
+
+%\setmathfont{xits-math.otf}
+%\setmainfont{Fourier-Utopia}
+%\setmainfont{Times New Roman}
+\setmainfont{FreeSerif}
+%\defaultfontfeatures{Mapping=tex-text}
+%\newfontfamily\cyrillicfont{Times New Roman} 
+\newfontfamily{\cyrillicfont}{FreeSerif}
+\newfontfamily{\emfont}{Liberation Sans}
+\newfontfamily{\cyrillicfontsf}{Liberation Sans}
+%\newfontfamily\cyrillicfonttt{lmmonolt10-regular.otf}
+%\newfontfamily\cyrillicfontsf{lmsans10-regular.otf}
+\chapterstyle{komalike}
+
+\baselineskip \onelineskip
+\setlength{\parskip}{0.3em}
+
+\newskip\bigskipamount   \bigskipamount =25pt plus 4pt minus 4pt
+%\setlength{\bigskip}{1em}
+\newcommand{\silentheader}{ {\large  \centering \textasteriskcentered \hskip 16pt \textasteriskcentered \hskip 16pt \textasteriskcentered \par } }
+\newcommand{\bibparheader}[1]{ \vskip 16pt \noindent\textbf{\textit{#1}} }
+\newcommand{\biblistheader}[1]{  \vskip 16pt \noindent\textit{\underline{#1}} }
+
+\newenvironment{itdesc}{%
+\list{}{%
+\setlength{\labelsep}{0.5em}
+\setlength{\itemindent}{0pt}
+\setlength{\leftmargin}{\parindent}
+\setlength{\labelwidth}{\leftmargin}
+\addtolength{\labelwidth}{-\labelsep}
+\setlength{\listparindent}{\parindent}
+\setlength{\parsep}{\parskip}
+%\setlength{\itemsep}{-0.5\onelineskip}
+\let\makelabel\itlabel}}{\endlist}
+%\newenvironment{itemize*}  {\begin{itemize}  \setlength{\itemsep}{-10pt}} {\end{itemize}}
+\setlength\itemsep{-0.5em}
+%\textemdash
+%\newcommand{\silentheader}{ {\fontsize{40pt}{40pt}\selectfont  \centering \textemdash \textcolor{black}{\textasciitilde} \par }\vskip 12pt}
+
+\setsecheadstyle{\large\sffamily\bfseries}
+
+\setsubsecheadstyle{\sffamily}
+
+%\usepackage{titlesec}
+%\titleformat{\section}% runin puts it in the same paragraph
+        %{\large\sffamily\bfseries}% formatting commands to apply to the whole heading
+        %{\thesection}% the label and number
+        %{0.5em}% space between label/number and subsection title
+        %{}% formatting commands applied just to subsection title
+        
+
+       
+%%% Рисунки %%%
+\setfloatadjustment{figure}{%
+    \setlength{\abovecaptionskip}{0pt}   % Отбивка над подписью
+    \setlength{\belowcaptionskip}{0pt}   % Отбивка под подписью
+    \precaption{} % всегда идет перед подписью или \legend
+    \captionnamefont{\itshape\bfseries\normalsize} % Шрифт надписи «Рисунок #»; также определяет шрифт у \legend
+    %\captiondelim{\figlabelsep} % разделитель идентификатора с номером от наименования
+    \captionstyle[\centering]{\centering} % Центрирование подписей, заданных командой \caption и \legend
+    \captiontitlefont{\itshape\normalsize} % Шрифт с текстом подписи
+    \postcaption{} % всегда идет после подписи или \legend, и с новой строки
+}
+
+%\setsubsecheadstyle{\fontsize{12pt}{14pt}\selectfont\bfseries}
+%\setsubsecindent{\otstuplen}
+
+%\setsubsubsecheadstyle{\basegostsectionfont\hdngalign}
+%\setsubsubsecindent{\otstuplen}
+\setlength\itemsep{1em}
+%\sethangfrom{\noindent #1} %все заголовки подразделов центрируются с учетом номера, как block
+
+%\ifnumequal{\value{chapstyle}}{1}{%
+%    \chapterstyle{thesisgostchapname}
+%    \renewcommand*{\cftchaptername}{\chaptername\space} % будет вписано слово Глава перед каждым номером раздела в оглавлении
+%}{}%
+
+%%% Интервалы между заголовками
+%\setbeforesecskip{\theintvl\curtextsize}% Заголовки отделяют от текста сверху и снизу тремя интервалами (ГОСТ Р 7.0.11-2011, 5.3.5).
+%\setaftersecskip{\theintvl\curtextsize}
+%\setbeforesubsecskip{\theintvl\curtextsize}
+%\setaftersubsecskip{\theintvl\curtextsize}
+%\setbeforesubsubsecskip{\theintvl\curtextsize}
+%\setaftersubsubsecskip{\theintvl\curtextsize}
+
+
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{csvsimple}
+\usepackage{tabularx}
+\usepackage{array}
+\usepackage{makecell}
+
+% XeLaTeX can use any font installed in your system fonts folder
+% Linux Libertine in the next line can be replaced with any 
+% OpenType or TrueType font that supports the Cyrillic script.
+
+%\newfontfamily\russianfont[Script=Cyrillic]{LiberationSerif}
+\usepackage[
+    backend=biber,
+    bibencoding=utf8,
+    sorting=nyt,
+    style=apa,
+    citestyle=authoryear,
+    maxbibnames=9,
+    minbibnames=7,
+    language=autobib,
+]{biblatex}
+\addbibresource{refs.bib}
+%\addbibresource{auxrefs.bib}
+\DeclareLanguageMapping{russian}{american-apa}
+\DeclareLanguageMapping{english}{american-apa}
+
+\DeclareBibliographyCategory{bib_m_structural}
+\DeclareBibliographyCategory{bib_m_structural_rus}
+\DeclareBibliographyCategory{bib_m_system}
+\DeclareBibliographyCategory{bib_m_system_rus}
+\DeclareBibliographyCategory{bib_authors}
+\DeclareBibliographyCategory{bib_authors_rus}
+
+%\usepackage[
+%    backend=biber,
+%    bibencoding=utf8,
+%    sorting=ynt,
+%    style=nature,
+%    language=autobib,
+%]{biblatex}
+%\addbibresource{refs.bib}
+%\addbibresource{gostrefs.bib}
+%\addbibresource{frefs.bib}
+%\usepackage{hyperref}
+\graphicspath{{images/}} 
+\definecolor{darksteelblue}{rgb}{0.1,0.15,0.2}
+\definecolor{darkblue}{rgb}{0.031,0.388,0.603}
+\definecolor{darkgray}{gray}{0.8}
+\definecolor{darkgrey}{rgb}{0.3,0.3,0.3}
+\usepackage[colorlinks=true]{hyperref}
+\hypersetup{linkcolor=black,citecolor=darkblue}  
+
+\begin{document}
+
+\thispagestyle{empty}
+\vskip 36pt
+\bigskip 
+\begin{flushright}\emfont \itshape \small Да будут славословия Богу в устах их\\и меч обоюдоострый в руке их\\ \end{flushright} 
+\vskip 240pt
+\begin{center}
+\begin{Huge}
+\cyrillicfontsf
+Биоинформатика
+\end{Huge}
+\vskip 24pt
+\begin{Large}
+\cyrillicfontsf
+обсуждение задач, подходов и методов
+\end{Large}
+\end{center}
+\vskip 240pt
+%Феранчук С.И.\\
+%\vskip 36pt 
+%Курс подготовлен на основе методического пособия и опыта преподавания в Иркутском Технологическом Университете\\ 
+\newpage
+\textbf{Предисловие}
+
+Основой при подготовке этой книги послужил опыт преподавания в Иркутском Технологическом Университете и методическое пособие, разработанное к этим курсам. В дальнейшем текст книги был значительно расширен, и многие формальные стороны изложения  были опущены. Как компенсация, в книге удалось коснуться многих тем молекулярной биологии, и включить в материал некоторые из моих неопубликованные результатов.
+
+Нет смысла здесь пересказывать детали моей биографии и говорить про мотивы, побудившие подготовить эту книгу. Но мне необходимо выразить благодарность членам своей семьи, и некоторым моим друзьям, поддерживавшим меня все это время.
+
+Сергей Феранчук,
+
+Иркутск, 2018-2019 г.
+\newpage
+%\chapter
+\setcounter{tocdepth}{2}
+\tableofcontents*
+
+\chapter{Введение} \label{introduction}
+
+Учебный курс по биоинформатике отличается от учебных курсов по классическим дисциплинам по естественным наукам. Первое из отличий - эта область знаний развивается чрезвычайно быстро, многие из материалов успевают устареть за время обучения. Второе отличие - этот предмет находится на стыке многих дисциплин, таких как молекулярная биология, биохимия, биофизика, информационные технологии. И эти дисциплины, в свою очередь, имеют корни в науках "классической традиции", от медицины до высшей математики и теоретической физики. И тем не менее, необходимость в преподавании и разработке учебных курсов по биоинформатике, в широком смысле, безусловно существует. Научные идеи, подобно людям, имеют времена рождения, зрелости и угасания. И если научная школа не ищет и не принимает общения со другими сообществами, смежными и далекими, то со временем эти воззрения остаются лишь частью истории.
+
+Настоящий курс ориентирован, в первую очередь, на студентов и читателей, имеющих базовые знания по молекулярной биологии. Поэтому при изложении материала вводятся по мере необходимости понятия из курсов математики, физики и химии, без углубленного обсуждения этих понятий. Отбор материала для курса был продиктован, отчасти, опытом работы авторов в этих областях. Однако в основном целью при отборе и компоновке материала было выбрать из всего многообразия методов и результатов, опубликованных в последние десятилетия в периодических научных изданиях, стержневые понятия и утверждения, и попытаться угадать направления, которые не потеряли бы значимость и при дальнейшем развитии молекулярной биологии. Этот выбор не является простым; достаточно внимательно взглянуть на историю развития естественных наук в XIX и XX веках. 
+
+Слово "биоинформатика", как название научной дисциплины, по происхождению сходно со словом "информатика". В этой дисциплине изучаются методы и подходы, являющиеся приложением методов информатики - науки об обработке информации - и используемые для решения задач биологии. Появление этой дисциплины произошло вслед за достаточным развитием компьютерных технологий, и происходившем в это же историческое время развитием понятий и методов молекулярной биологии.
+
+Обнаруженное свойство молекул ДНК кодировать информацию, которая используется при развитии клеток и многоклеточных организмов, обуславливает возможность применения технологий информатики к изучению объектов биологии - науки о жизни. И при этом, понятия молекулярной биологии подразумевают согласование биологии с уровнем описания вещества на уровне молекул и атомов, который используется в физике и химии. И в связи с этим, в биоинформатике несложно отделить область исследований, в которой используется представление объектов биологии на уровне атомов и молекул. Эту область принято называть \textit{структурной биоинформатикой}. Необходимым атрибутом задач структурной биоинформатики является использование информации о положении изучаемых объектов в трехмерном пространстве, таким образом привязывая постановку этих задач к методам физики и химии. 
+
+Однако в прикладных задачах, которые в настоящее время возможно и необходимо ставить и решать в молекулярной биологии, детализация объектов до уровня атомов и молекул не всегда возможна. В этих, более крупных, масштабах, информация, закодированная в ДНК, рассматривается без непосредственной связи с молекулярными процессам, в которых происходит преобразование этой информации. Набор приемов, используемых при обработке информации такого рода, и история развития алгоритмов и программных инструментов в этой области, имеют много общего с информационными технологиями в целом и историей их развития. Потому, по аналогии с понятием \textit{информационная система}, которое используется для обобщенного определения задач, решаемых программистами, уместно ввести термин \textit{системная биоинформатика} для обозначения всего спектра этих задач биоинформатики, как это показано на рис. \ref{img:bio_hier_scheme}.
+
+
+\begin{figure}[H]
+  \centering
+  \vskip 12pt 
+  \includegraphics [width=0.8\linewidth]{bio_hier_scheme.png}
+  \vskip 12pt
+  \caption[m1]{
+  \textbf{Иллюстрация разделения масштабов при решении задач вычислительной биологии.}\itshape
+}
+ \label{img:bio_hier_scheme}
+\end{figure}
+
+Существующий в настоящее время набор инструментов биоинформатики для решения задач разного масштаба весьма велик, как и объем знаний накопленных в молекулярной биологии. Более того, часто оказывается возможным совместное применение методов, использующих разные уровни детализации объекта, как это проиллюстрировано на рис. \ref{img:medline_years}. И, когда по мере накопления знаний в науке о жизни, проясняются сомнения и вопросы, стоявшие перед человечеством за все время его истории, иногда в найденных ответах становится заметен почерк одного и того же Мастера. Но, как и умение узнавать стиль художника не тождественно знанию всех его произведений, при развитии этой науки появляются все новые свидетельства о глубине детализации и неожиданности принципов, лежащих в основе каждой из изучаемых систем.
+
+Но к биоинформатике, в современном понимании, относятся многочисленные прикладные методы и темы исследований, часто не имеющие никаких совпадающих понятий и принципов. При таком различии в тематиках, можно иногда обнаружить трудности при общении ученых из разных научных школ и научных групп. Также, в такой ситуации возможно предположить, что при развитии молекулярной биологии в отдельных темах происходит смещение акцентов значимости направлений развития, и даже накопление заблуждений. На рис. \ref{img:medline_years} это проиллюстрировано с помощью сравнения интенсивности исследований, проводимых в отдельных тематиках в рамках некоторого масштаба биологических объектов, в 2003 и в 2013 годах. 
+
+\begin{figure}[H]
+  \centering
+  \vskip 12pt 
+  \includegraphics [width=0.95\linewidth]{medline_years.png}
+  \vskip 12pt
+  \caption[m1]{
+  \textbf{Иллюстрация степени развития и смещения акцентов в темах, изучаемых в вычислительной биологии}\itshape
+
+  Радиус круга показывает охват тематик в рамках области исследования, а интенсивность цвета - степень разработки тематик, упорядоченных в порядке важности. В 2013 году, по сравнению с 2003, в каждой из областей и масштабов исследований интересы в больше степени сосредоточены в нескольких узких темах.
+  
+  \fontsize{11pt}{11pt}\selectfont
+  Изображение построено на основе текстовой обработки публикаций по биомедицинской тематике в базе данных Medline
+}
+ \label{img:medline_years}
+\end{figure}
+
+
+Какие из частей и фрагментов современной науки следует считать "основанными на камне", на этот вопрос непросто ответить. Тем не менее, при подборе материала, такой вопрос, неявно, служил ограничением и ориентиром для выбора и изложения предмета. И расстановка акцентов при обсуждении задач и направлений биоинформатики не всегда соответствует интенсивности использования методов биоинформатики в современных исследованиях. Так, на рис. \ref{img:medline_years}, как сгущение интенсивности цвета на изображениях,  проиллюстрировано все большее сосредоточение акцентов вокруг задач изучения тканей опухоли методами дифференциальной экспрессии и статистических методов при обработке клинических исследований; эти задачи обсуждаются в книге недостаточно подробно. И напротив, публикаций, относящихся к задачам структурной биоинформатики, становится все меньше, но задачам структурной биоинформатики посвящена отдельная глава в курсе.
+
+Смещение акцентов и направлений исследований в молекулярной биологии в течении первого десятилетия XXI века, показанное на рис. \ref{img:medline_years}, легко связать с появлением новых подходов к постановке экспериментов, в первую очередь методов высокопроизводительного секвенирования. Пакеты программ и алгоритмы, непосредственно предназначенные для обработки измерений в узкоспециальных методиках постановки экспериментов, как, например, методы восстановления координат атомов в белковой молекуле на основе дифракционных спектров, также не обсуждаются в настоящем вводном курсе. Но и арсенал методов в некоторых быстро развивающихся прикладных разделах системной биоинформатики зачастую оказывается замкнутым и не имеющим надежных связей со смежными областями знаний.
+
+Согласно с целями курса, в структурной биоинформатике более заметна преемственность и связь подходов с другими естественнонаучными дисциплинами. Однако падение популярности методов структурной биоинформатики отчасти обусловлена малым количеством приложений этих методов в прикладных задачах биологии. И, напротив, рост популярности упомянутого круга задач системной биоинформатики обусловлен важностью и удобством использования такого рода подходов в прикладных задачах. 
+
+
+С серией прорывов в молекулярных методах анализа живых систем, точное и полное описание стало возможно для многих прикладных задач из разных разделов биологии, и ученые, среди которых и специалисты по биоинформатике, подобно первопроходцам, с энтузиазмом взялись за освоение новых территорий. Многие из предположений, выдвинутых в прошлые десятилетия и в прошлые века при поисках подходов к этим задачам, оказались ошибочными. Малая часть из методов, развивавшихся за прошлые времена в физико-математических дисциплинах, оказалась необходима в молекулярной биологии. Но все же, прослеживая преемственность методов биоинформатики с классическими дисциплинами, остается возможность помнить путь назад и пройти по нему. Не сказано ли: {\emfont \itshape \small Ты обращаешь человека в тление, и Ты говоришь - "возвратитесь, сыны Адама!"}. 
+
+Это может показаться неожиданным, но невозможно поспорить с тем, что продолжающийся расцвет наук в рамках европейской традиции, частью которого и являются прорывы в биоинформатике, имеет корни в христианстве, в интерпретации принятой в западной части Римской империи. И Сын Человеческий начинал свою проповедь, прочитав в Назарете книгу Исаии: {\emfont \itshape \small Дух Господень на Мне; ибо Он помазал Меня благовествовать нищим, и послал Меня исцелять сокрушенных сердцем, проповедовать пленным освобождение, слепым прозрение, отпустить измученных на свободу, проповедовать лето Господне благоприятное.} И не является ли то, с чего начиналось, в том числе, развитие наук, лучшим чем то, в каком состоянии эти науки находятся в наши дни, несмотря на открывающиеся перспективы все новых территорий в молекулярной биологии?
+
+
+
+%Но, поставленная в курсе цель дать широкий обзор подходов и методов биоинформатики, возможно, поможет восполнить связи и преемственность, для более проработанного исследования прикладных задач.
+
+\include{struct_bio}
+
+\include{system_bio}
+
+\include{bibliography}
+
+\end{document}

@@ -1,0 +1,239 @@
+html>
+<head>
+
+	<title></title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<style>
+	body, html { background-color: #ebdebe;  font-size: 14px; font-family:Arial,Helvetica,Verdana,sans-serif;}
+	input { font-size: 90%; }
+	a:link, a:visited, a:hover, a:active {text-decoration: none; font-style:oblique; font-weight: normal; padding: 0;color: #814115; }
+	.indextable td { padding: 2px 5px 2px 5px; }
+	.levellabel {font-size:150%;text-decoration: underline;}
+	.columnheader {font-style:oblique; font-size:120%;}
+	.rowheader {font-style:oblique; font-weight: bold; }
+	.auxbutton { font-size: 80%; }
+	.submitbutton { font-size: 100%; font-style:oblique; font-weight: bold;  }
+	.submitbuttonold { font-size: 100%; font-style:oblique; font-weight: bold; background-color: #9bacbc; border: 1px solid #898989; border-radius: 4px; }
+	select { font-size: 80%; background-color: #d5dade;  }
+	.taginput { font-size: 80%; background-color: #dae0f2; border: 1px solid #898989;  }
+	.taginputlabel { font-size: 120%; background-color: #ebdebe; border: 0px solid #898989; color: #38332f; font-weight: bold; }
+	.tagmodlabel { font-size: 100%; background-color: #ebdebe; border: 0px solid #898989; color: #a14120; font-weight: bold; }
+	.siteheader a { color: #085d91; font-size:160%; padding:5px;  }
+	.datasetheader a { color: black; font-size:80%; padding:5px;  }
+	.servicedupl { font-size: 110%; color: #085d91; }
+	#id_samples { font-size: 80%; background-color: #d5dade; }
+	.description { font-size:90%; color:#8b5b37; }
+	</style>
+	<script src="http://secure.bri-shur.com:8001/static/d3.v3.min.js"></script>
+
+</head>
+<body>
+
+
+<style>
+.axis line, .axis path {
+    shape-rendering: crispEdges;
+    stroke: black;
+    fill: none;
+}
+
+circle {
+    fill: steelblue;
+}
+
+div.tooltip {	
+    position: absolute;			
+    text-align: center;			
+    width: 100px;					
+    height: 16px;					
+    padding: 2px;				
+    font: 12px sans-serif;		
+    background: #f4f2ec;	
+    border: 1px solid #7E713D;		
+    border-radius: 8px;			
+    pointer-events: none;			
+}
+</style>
+
+<svg width="960" height="960" id="normal"></svg>
+<script>
+// ('PAC:15724281', '4.011846536562677e-33'), ('PAC:15701033', '1.0140878295137514e-30'), ('PAC:15714887', '2.3452626145868038e-27'
+var data1 =  [ 0.474315, 0.0, 1.58552, 0.963291, 0.459641, 12.4634, 6.41824, 2.15364, 13.5324, 11.9659, 0.0, 0.0, 0.977608, 0.866794, 0.616207, 14.4838, 15.675, 0.0, 11.1171, 17.289, 0.0, 0.397466, 1.59343, 6.702, 1.69561, 4.22376, 37.5134, 16.1015, 13.4998, 3.51457, 13.0217, 5.66209, 1.57016, 13.5108, 8.13436, 13.6964, 0.0, 63.702, 19.4455, 7.97855, 0.0, 1.5627, 0.0444451, 0.0, 0.0847334, 0.852219, 0.683713, 0.107583, 0.191203, 0.377715, 0.511586, 11.9599, 11.793, 13.3414, 14.1083, 18.1476, 19.1989, 5.6543, 5.62573 ];
+var data2 =  [ 2.33734, 6.61505, 3.58703, 3.98971, 2.9068, 14.4074, 0.0, 1.84598, 8.26738, 13.5942, 0.0, 3.93132, 2.06739, 3.14213, 0.0, 11.7396, 12.2015, 0.0, 10.4197, 11.1903, 0.0, 2.35797, 5.7744, 3.60491, 4.08714, 0.9904, 0.0, 0.0, 8.29348, 2.08974, 0.0, 8.23176, 2.24189, 0.0, 7.95403, 11.4039, 0.0, 0.0, 14.232, 6.61544, 0.0, 0.516733, 2.64605, 1.75609, 1.67966, 4.33915, 3.93268, 2.81103, 2.46384, 3.08169, 4.06593, 8.6135, 8.87998, 12.255, 11.9732, 12.6961, 13.5853, 6.01708, 5.18928];
+var data3 =  [ 1.22258, 2.06081, 2.72246, 2.00571, 1.14577, 20.6304, 6.55828, 3.85018, 18.2157, 13.7325, 3.43692, 1.46762, 2.97134, 0.787995, 4.40486, 19.2103, 27.5358, 3.8367, 16.6831, 16.754, 3.90485, 1.19125, 2.03375, 3.02361, 2.22879, 1.15661, 20.9226, 6.45344, 3.35555, 18.5359, 13.8924, 3.44983, 1.434, 3.41162, 0.761864, 4.1528, 19.2166, 27.9453, 16.3715, 16.0733, 4.27123, 4.07416, 2.16854, 0.35855, 0.546225, 0.657479, 0.726811, 1.99311, 2.03264, 0.472594, 0.578109, 0.945979, 1.1591, 11.3353, 11.9333, 21.7097, 21.7309, 19.6908, 19.0934 ];
+var elabels = [ '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '2', '2', '2', '2', '2', '2', '2', '2', '2', '2', '2', '2', '2', '2', '2', '2', '2' ];
+var tlabels = ['cleavage', 'brown', 'brown', 'brown', 'brown', 'spot', 'cleavage', 'cleavage', 'spot', 'spot', 'cleavage', 'brown', 'brown', 'brown', 'cleavage', 'spot', 'spot', 'cleavage', 'spot', 'spot', 'cleavage', 'cleavage', 'brown', 'brown', 'brown', 'brown', 'spot', 'cleavage', 'cleavage', 'spot', 'spot', 'cleavage', 'brown', 'brown', 'brown', 'cleavage', 'spot', 'spot', 'spot', 'spot', 'cleavage', 'cleavage', 'cleavage', 'cleavage', 'cleavage', 'cleavage', 'cleavage', 'brown', 'brown', 'brown', 'brown', 'brown', 'brown', 'spot', 'spot', 'spot', 'spot', 'spot', 'spot' ];
+var clabels = [ "PAC:15724281", "PAC:15701033", "PAC:15714887" ]
+	
+	
+
+var svg0 = d3.select( "#normal" );
+var margin = {top: 100, right: 15, bottom: 100, left: 60};
+var diameter = +svg0.attr("width") - margin.top - margin.bottom;
+var width = diameter;
+var svg = svg0.append("g")
+var fs = width / 110.; 
+
+    var w = diameter * 0.6;
+    var h = diameter * 0.52;
+    var m = diameter * 0.1;
+
+	var corners = [[m,h+m], [w+m,h+m], [(w/2)+m,m]]
+	var tfont = fs * 2 + "px sans-serif";
+	var ltfont = "bold " + fs * 2.6 + "px sans-serif";
+
+	corners.forEach(function(corner, idx) { 
+		var c1 = idx, c2 = idx + 1; if(c2 >= corners.length) { c2 = 0;}
+		svg.append("line")
+			.attr("x1", corners[c1][0])
+			.attr("y1", corners[c1][1])
+			.attr("x2", corners[c2][0])
+			.attr("y2", corners[c2][1])
+			.attr('stroke', 'black')
+			.attr("stroke-width", fs * 0.15 +"px")
+			.attr('fill', 'none');
+		svg.append("text")
+			.attr( "x", corners[c1][0] + ( idx == 0 ? 0 : ( idx == 1 ? 0 : 0 ) ) )
+			.attr( "y", corners[c1][1] + ( idx == 0 ? 5 * fs : ( idx == 1 ? 5 * fs : -3 * fs ) ) )
+			.text( clabels[ idx ] )
+			.attr("text-anchor", idx == 0 ? "end" : "start" )
+			.style("font", ltfont );
+			
+	})
+
+	var ticks = [0,20,40,60,80,100], n = ticks.length;
+	ticks.forEach(function(v) {
+		
+		var coord1 = coord(v, 0, 100-v);
+		var coord2 = coord(v, 100-v, 0);
+		var coord3 = coord(0, 100-v, v);
+		var coord4 = coord(100-v, 0, v);
+
+		if(v !== 0 && v !== 100) {
+
+			svg.append("line")
+				.attr("x1", coord1[0])
+				.attr("y1", coord1[1])
+				.attr("x2", coord2[0])
+				.attr("y2", coord2[1])
+				.attr('stroke', 'black')
+				.attr("stroke-width", fs * 0.1 +"px")
+				.attr('fill', 'none');
+
+			svg.append("line")
+				.attr("x1", coord2[0])
+				.attr("y1", coord2[1])
+				.attr("x2", coord3[0])
+				.attr("y2", coord3[1])
+				.attr('stroke', 'black')
+				.attr("stroke-width", fs * 0.1 +"px")
+				.attr('fill', 'none');
+
+			svg.append("line")
+				.attr("x1", coord3[0])
+				.attr("y1", coord3[1])
+				.attr("x2", coord4[0])
+				.attr("y2", coord4[1])
+				.attr('stroke', 'black')
+				.attr("stroke-width", fs * 0.1 +"px")
+				.attr('fill', 'none');
+		}
+		svg.append("text")
+			.attr("x", coord1[0] - 3 * fs)
+			.attr("y", coord1[1]  )
+			.text( function (d) { return v; })
+			.style("font", tfont );
+  
+		svg.append("text")
+			.attr("x", coord2[0] - fs)
+			.attr("y", coord2[1] + 2 * fs )
+			.text( function (d) { return (100- v); })
+			.style("font", tfont );
+
+		svg.append("text")
+			.attr("x", coord3[0] + fs )
+			.attr("y", coord3[1] )
+			.text( function (d) { return v; })
+			.style("font", tfont );
+
+	});
+	
+	var color = d3.scale.category10();
+	var shapeScale = d3.scale.ordinal()
+            .domain( elabels )
+            .range([ "circle", "triangle-down", "square", "triangle-up",  "cross", "diamond" ]);
+	var cdata = [];
+	for ( var i = 0; i < elabels.length; i++ )
+	{
+		cdata.push( point( data1[i], data2[i], data3[i], elabels[i], tlabels[i] ) );
+	}
+	var clabels = d3.set( cdata.map(function(d) { return d[3];})).values();
+
+	var ssize = fs * fs;
+	svg.selectAll(".point")
+			.data( cdata )
+			.enter().append("path")
+				.attr( "class", "point" )
+				.attr("transform", function(d) { return "translate(" + d[0] + "," + d[1] + ")"; })
+				.attr("d", function(d,i){ 
+					return d3.svg.symbol().type( shapeScale( d[2] ) ).size( ssize )();
+					} )
+				.style("fill", function(d) { return color( d[3] ); } )
+				;
+	function coord( a, b, c ){
+		var sum, pos = [0,0];
+	    sum = a + b + c;
+	    if(sum !== 0) {
+		    a /= sum;
+		    b /= sum;
+		    c /= sum;
+
+			pos[0] =  corners[0][0]  * a + corners[1][0]  * b + corners[2][0]  * c;
+			pos[1] =  corners[0][1]  * a + corners[1][1]  * b + corners[2][1]  * c;
+		}
+	    return pos;
+	}
+
+	function point(a, b, c, label, clabel ){
+		var sum, pos = [0,0];
+	    sum = a + b + c;
+	    if(sum !== 0) {
+		    a /= sum;
+		    b /= sum;
+		    c /= sum;
+
+			pos[0] =  corners[0][0]  * a + corners[1][0]  * b + corners[2][0]  * c;
+			pos[1] =  corners[0][1]  * a + corners[1][1]  * b + corners[2][1]  * c;
+			pos[2] = label;
+			pos[3] = clabel;
+		}
+	    return pos;
+	}
+	function scale(/* point */ p, factor) {
+	    return [p[0] * factor, p[1] * factor];
+	}
+	
+	var lheight = fs * 2;
+	
+	var legend = svg.selectAll(".legend")
+		.data( color.domain() )
+		.enter().append("g")
+			.attr("class", "legend")
+			.attr("transform", function(d, i) { return "translate(0," + ( i + 4 ) * lheight + ")"; });
+
+	legend.append("rect")
+		.attr("x", width - 0.9 * lheight )
+		.attr("width", 0.9 * lheight )
+		.attr("height", 0.9 * lheight )
+		.style("fill", color); 
+
+	legend.append("text")
+		.attr("x", width - lheight * 1.2 )
+		.attr("y", lheight * 0.6 )
+		.style("text-anchor", "end")
+		.style("font", tfont )
+		.text(function(d) { return d;});
+	
+</script>
+</body>
+</html>
