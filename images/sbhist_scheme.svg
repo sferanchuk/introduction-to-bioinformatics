@@ -10,13 +10,14 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="744.09448819"
-   height="1052.3622047"
+   width="1200"
+   height="1200"
+   viewBox="0 -150 1200 1050"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="sbhist_scheme.svg"
-   inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
+   
    inkscape:export-xdpi="250"
    inkscape:export-ydpi="250">
   <defs
@@ -31,7 +32,7 @@
       <path
          id="path4372"
          d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         style="fill-rule:evenodd;stroke:black;stroke-width:1.0pt;"
          transform="scale(0.4) rotate(180) translate(10,0)" />
     </marker>
     <marker
@@ -57,7 +58,7 @@
       <path
          id="path4406"
          d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         style="fill-rule:evenodd;stroke:black;stroke-width:1.0pt"
          transform="scale(0.2) translate(6,0)" />
     </marker>
     <linearGradient
@@ -65,13 +66,13 @@
       <stop
          id="stop5469"
          offset="0"
-         style="stop-color:#9e9efb;stop-opacity:0;" />
+         style="stop-color:gray;stop-opacity:0;" />
       <stop
-         style="stop-color:#8b8bfa;stop-opacity:0.94219655;"
-         offset="0.52778703"
+         style="stop-color:gray;stop-opacity:0.94219655;"
+         offset="0.5"
          id="stop5471" />
       <stop
-         style="stop-color:#7979f9;stop-opacity:1;"
+         style="stop-color:gray;stop-opacity:1;"
          offset="1"
          id="stop5473" />
     </linearGradient>
@@ -80,13 +81,13 @@
       <stop
          id="stop5461"
          offset="0"
-         style="stop-color:#9e9efb;stop-opacity:0;" />
+         style="stop-color:gray;stop-opacity:0;" />
       <stop
-         style="stop-color:#8b8bfa;stop-opacity:0.94219655;"
-         offset="0.52303046"
+         style="stop-color:gray;stop-opacity:0.94219655;"
+         offset="0.5"
          id="stop5463" />
       <stop
-         style="stop-color:#7979f9;stop-opacity:1;"
+         style="stop-color:#gray;stop-opacity:1;"
          offset="1"
          id="stop5465" />
     </linearGradient>
@@ -95,13 +96,13 @@
       <stop
          id="stop5453"
          offset="0"
-         style="stop-color:#9e9efb;stop-opacity:0;" />
+         style="stop-color:gray;stop-opacity:0;" />
       <stop
-         style="stop-color:#8b8bfa;stop-opacity:0.94219655;"
-         offset="0.80612242"
+         style="stop-color:gray;stop-opacity:0.94219655;"
+         offset="0.5"
          id="stop5455" />
       <stop
-         style="stop-color:#7979f9;stop-opacity:1;"
+         style="stop-color:gray;stop-opacity:1;"
          offset="1"
          id="stop5457" />
     </linearGradient>
@@ -110,13 +111,13 @@
       <stop
          id="stop5445"
          offset="0"
-         style="stop-color:#9e9efb;stop-opacity:0;" />
+         style="stop-color:gray;stop-opacity:0;" />
       <stop
-         style="stop-color:#8b8bfa;stop-opacity:0.94219655;"
-         offset="0.36021405"
+         style="stop-color:#gray;stop-opacity:0.94219655;"
+         offset="0.5"
          id="stop5447" />
       <stop
-         style="stop-color:#7979f9;stop-opacity:1;"
+         style="stop-color:#gray;stop-opacity:1;"
          offset="1"
          id="stop5449" />
     </linearGradient>
@@ -125,13 +126,13 @@
       <stop
          id="stop5437"
          offset="0"
-         style="stop-color:#9e9efb;stop-opacity:0;" />
+         style="stop-color:gray;stop-opacity:0;" />
       <stop
-         style="stop-color:#8b8bfa;stop-opacity:0.94219655;"
-         offset="0.19273743"
+         style="stop-color:gray;stop-opacity:0.94219655;"
+         offset="0.5"
          id="stop5439" />
       <stop
-         style="stop-color:#7979f9;stop-opacity:1;"
+         style="stop-color:gray;stop-opacity:1;"
          offset="1"
          id="stop5441" />
     </linearGradient>
@@ -145,7 +146,7 @@
       <path
          id="path4458"
          d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         style="fill-rule:evenodd;stroke:black;stroke-width:1.0pt"
          transform="scale(0.4) translate(7.4, 1)" />
     </marker>
     <marker
@@ -158,19 +159,19 @@
       <path
          id="path4455"
          d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         style="fill-rule:evenodd;stroke:black;stroke-width:1.0pt"
          transform="scale(0.8) translate(7.4, 1)" />
     </marker>
     <linearGradient
        id="linearGradient4293">
       <stop
-         style="stop-color:#9e9efb;stop-opacity:0;"
+         style="stop-color:gray;stop-opacity:0;"
          offset="0"
          id="stop4295" />
       <stop
          id="stop4301"
          offset="1"
-         style="stop-color:#7979f9;stop-opacity:1;" />
+         style="stop-color:gray;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
        id="linearGradient4259">
@@ -217,11 +218,11 @@
       <path
          id="path3780"
          d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         style="fill-rule:evenodd;stroke:black;stroke-width:1.0pt"
          transform="scale(0.8) translate(12.5,0)" />
     </marker>
     <marker
-       inkscape:stockid="Arrow1Lend"
+       
        orient="auto"
        refY="0.0"
        refX="0.0"
@@ -230,7 +231,7 @@
       <path
          id="path3783"
          d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         style="fill-rule:evenodd;stroke:black;stroke-width:1.0pt;"
          transform="scale(0.8) rotate(180) translate(12.5,0)" />
     </marker>
     <linearGradient
@@ -272,13 +273,13 @@
     <linearGradient
        id="linearGradient4293-1">
       <stop
-         style="stop-color:#9e9efb;stop-opacity:0;"
+         style="stop-color:gray;stop-opacity:0;"
          offset="0"
          id="stop4295-3" />
       <stop
          id="stop4301-4"
          offset="1"
-         style="stop-color:#7979f9;stop-opacity:1;" />
+         style="stop-color:gray;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
        gradientTransform="translate(6,-115)"
@@ -302,13 +303,13 @@
     <linearGradient
        id="linearGradient4293-5">
       <stop
-         style="stop-color:#9e9efb;stop-opacity:0;"
+         style="stop-color:gray;stop-opacity:0;"
          offset="0"
          id="stop4295-7" />
       <stop
          id="stop4301-3"
          offset="1"
-         style="stop-color:#7979f9;stop-opacity:1;" />
+         style="stop-color:gray;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
        gradientTransform="translate(-5,-238)"
@@ -332,13 +333,13 @@
     <linearGradient
        id="linearGradient4293-53">
       <stop
-         style="stop-color:#9e9efb;stop-opacity:0;"
+         style="stop-color:gray;stop-opacity:0;"
          offset="0"
          id="stop4295-8" />
       <stop
          id="stop4301-6"
          offset="1"
-         style="stop-color:#7979f9;stop-opacity:1;" />
+         style="stop-color:gray;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
        gradientTransform="translate(-4,-366)"
@@ -362,17 +363,17 @@
     <linearGradient
        id="linearGradient4293-6">
       <stop
-         style="stop-color:#9e9efb;stop-opacity:0;"
+         style="stop-color:gray;stop-opacity:0;"
          offset="0"
          id="stop4295-1" />
       <stop
          id="stop5433"
-         offset="0.31632653"
-         style="stop-color:#8b8bfa;stop-opacity:0.94219655;" />
+         offset="0.5"
+         style="stop-color:gray;stop-opacity:0.94219655;" />
       <stop
          id="stop4301-8"
          offset="1"
-         style="stop-color:#7979f9;stop-opacity:1;" />
+         style="stop-color:gray;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
        gradientTransform="matrix(1.0047728,0,0,1,5.4942876,140)"
@@ -385,227 +386,227 @@
        xlink:href="#linearGradient5467"
        inkscape:collect="always" />
     <marker
-       inkscape:stockid="Arrow1Lend"
+       
        orient="auto"
        refY="0"
        refX="0"
        id="Arrow1Lend-3"
        style="overflow:visible">
       <path
-         inkscape:connector-curvature="0"
+         
          id="path3783-6"
          d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         style="fill-rule:evenodd;stroke:black;stroke-width:1pt"
          transform="matrix(-0.8,0,0,-0.8,-10,0)" />
     </marker>
     <marker
-       inkscape:stockid="Arrow1Lend"
+       
        orient="auto"
        refY="0"
        refX="0"
        id="Arrow1Lend-5"
        style="overflow:visible">
       <path
-         inkscape:connector-curvature="0"
+         
          id="path3783-3"
          d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         style="fill-rule:evenodd;stroke:black;stroke-width:1pt"
          transform="matrix(-0.8,0,0,-0.8,-10,0)" />
     </marker>
     <marker
-       inkscape:stockid="Arrow1Lend"
+       
        orient="auto"
        refY="0"
        refX="0"
        id="Arrow1Lend-6"
        style="overflow:visible">
       <path
-         inkscape:connector-curvature="0"
+         
          id="path3783-2"
          d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         style="fill-rule:evenodd;stroke:black;stroke-width:1pt"
          transform="matrix(-0.8,0,0,-0.8,-10,0)" />
     </marker>
     <marker
-       inkscape:stockid="Arrow1Lend"
+       
        orient="auto"
        refY="0"
        refX="0"
        id="Arrow1Lend-1"
        style="overflow:visible">
       <path
-         inkscape:connector-curvature="0"
+         
          id="path3783-27"
          d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         style="fill-rule:evenodd;stroke:black;stroke-width:1pt"
          transform="matrix(-0.8,0,0,-0.8,-10,0)" />
     </marker>
     <marker
-       inkscape:stockid="Arrow1Lend"
+       
        orient="auto"
        refY="0"
        refX="0"
        id="Arrow1Lend-9"
        style="overflow:visible">
       <path
-         inkscape:connector-curvature="0"
+         
          id="path3783-36"
          d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         style="fill-rule:evenodd;stroke:black;stroke-width:1pt"
          transform="matrix(-0.8,0,0,-0.8,-10,0)" />
     </marker>
     <marker
-       inkscape:stockid="Arrow1Lend"
+       
        orient="auto"
        refY="0"
        refX="0"
        id="Arrow1Lend-2"
        style="overflow:visible">
       <path
-         inkscape:connector-curvature="0"
+         
          id="path3783-61"
          d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         style="fill-rule:evenodd;stroke:black;stroke-width:1pt"
          transform="matrix(-0.8,0,0,-0.8,-10,0)" />
     </marker>
     <marker
-       inkscape:stockid="Arrow1Lend"
+       
        orient="auto"
        refY="0"
        refX="0"
        id="Arrow1Lend-7"
        style="overflow:visible">
       <path
-         inkscape:connector-curvature="0"
+         
          id="path3783-9"
          d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         style="fill-rule:evenodd;stroke:black;stroke-width:1pt"
          transform="matrix(-0.8,0,0,-0.8,-10,0)" />
     </marker>
     <marker
-       inkscape:stockid="Arrow1Lend"
+       
        orient="auto"
        refY="0"
        refX="0"
        id="Arrow1Lend-0"
        style="overflow:visible">
       <path
-         inkscape:connector-curvature="0"
+         
          id="path3783-23"
          d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         style="fill-rule:evenodd;stroke:black;stroke-width:1pt"
          transform="matrix(-0.8,0,0,-0.8,-10,0)" />
     </marker>
     <marker
-       inkscape:stockid="Arrow1Lend"
+       
        orient="auto"
        refY="0"
        refX="0"
        id="Arrow1Lend-59"
        style="overflow:visible">
       <path
-         inkscape:connector-curvature="0"
+         
          id="path3783-22"
          d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         style="fill-rule:evenodd;stroke:black;stroke-width:1pt"
          transform="matrix(-0.8,0,0,-0.8,-10,0)" />
     </marker>
     <marker
-       inkscape:stockid="Arrow1Lend"
+       
        orient="auto"
        refY="0"
        refX="0"
        id="Arrow1Lend-73"
        style="overflow:visible">
       <path
-         inkscape:connector-curvature="0"
+         
          id="path3783-612"
          d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         style="fill-rule:evenodd;stroke:black;stroke-width:1pt"
          transform="matrix(-0.8,0,0,-0.8,-10,0)" />
     </marker>
     <marker
-       inkscape:stockid="Arrow1Lend"
+       
        orient="auto"
        refY="0"
        refX="0"
        id="Arrow1Lend-19"
        style="overflow:visible">
       <path
-         inkscape:connector-curvature="0"
+         
          id="path3783-4"
          d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         style="fill-rule:evenodd;stroke:black;stroke-width:1pt"
          transform="matrix(-0.8,0,0,-0.8,-10,0)" />
     </marker>
     <marker
-       inkscape:stockid="Arrow1Lend"
+       
        orient="auto"
        refY="0"
        refX="0"
        id="Arrow1Lend-4"
        style="overflow:visible">
       <path
-         inkscape:connector-curvature="0"
+         
          id="path3783-5"
          d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         style="fill-rule:evenodd;stroke:black;stroke-width:1pt"
          transform="matrix(-0.8,0,0,-0.8,-10,0)" />
     </marker>
     <marker
-       inkscape:stockid="Arrow1Lend"
+       
        orient="auto"
        refY="0"
        refX="0"
        id="Arrow1Lend-61"
        style="overflow:visible">
       <path
-         inkscape:connector-curvature="0"
+         
          id="path3783-0"
          d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         style="fill-rule:evenodd;stroke:black;stroke-width:1pt"
          transform="matrix(-0.8,0,0,-0.8,-10,0)" />
     </marker>
     <marker
-       inkscape:stockid="Arrow1Lend"
+       
        orient="auto"
        refY="0"
        refX="0"
        id="Arrow1Lend-32"
        style="overflow:visible">
       <path
-         inkscape:connector-curvature="0"
+         
          id="path3783-06"
          d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         style="fill-rule:evenodd;stroke:black;stroke-width:1pt"
          transform="matrix(-0.8,0,0,-0.8,-10,0)" />
     </marker>
     <marker
-       inkscape:stockid="Arrow1Lend"
+       
        orient="auto"
        refY="0"
        refX="0"
        id="Arrow1Lend-55"
        style="overflow:visible">
       <path
-         inkscape:connector-curvature="0"
+         
          id="path3783-47"
          d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         style="fill-rule:evenodd;stroke:black;stroke-width:1pt"
          transform="matrix(-0.8,0,0,-0.8,-10,0)" />
     </marker>
     <marker
-       inkscape:stockid="Arrow1Lend"
+       
        orient="auto"
        refY="0"
        refX="0"
        id="Arrow1Lend-69"
        style="overflow:visible">
       <path
-         inkscape:connector-curvature="0"
+         
          id="path3783-37"
          d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         style="fill-rule:evenodd;stroke:black;stroke-width:1pt"
          transform="matrix(-0.8,0,0,-0.8,-10,0)" />
     </marker>
   </defs>
@@ -614,14 +615,12 @@
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="1"
-     inkscape:pageshadow="2"
-     inkscape:zoom="1"
+     
+  
+     
      inkscape:cx="467.82597"
      inkscape:cy="882.63806"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showgrid="false"
+
      inkscape:window-width="1280"
      inkscape:window-height="977"
      inkscape:window-x="-3"
@@ -660,100 +659,59 @@
        height="690"
        x="90"
        y="-117.63782"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
+       
        inkscape:export-xdpi="250"
        inkscape:export-ydpi="250" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Lstart);marker-end:none"
+       style="fill:none;stroke:black;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Lstart);marker-end:none"
        d="m 670,572.36218 -580,0"
        id="path3006"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
+       
+       
        inkscape:export-xdpi="250"
        inkscape:export-ydpi="250"
        sodipodi:nodetypes="cc" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot4590"
-       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L;text-anchor:start;text-align:start;writing-mode:lr"><flowRegion
-         id="flowRegion4592"><rect
-           id="rect4594"
-           width="232"
-           height="30"
-           x="364"
-           y="591.36218"
-           style="-inkscape-font-specification:Nimbus Roman No9 L;font-family:Nimbus Roman No9 L;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:28px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%" /></flowRegion><flowPara
-         id="flowPara4596">Точность и сложность</flowPara></flowRoot>    <path
+     <path
        style="fill:#646464;fill-opacity:0.390625;stroke:#656465;stroke-width:1.2006166px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 124.10031,246.36218 c 0,0 134.70466,-24.15988 173.84954,-19.89969 C 337.09473,230.72268 787,250.93839 807,253.36217 c -28,1.42379 -464.94985,15.10032 -507,19 -42.05015,3.89969 -175.89969,-25.99999 -175.89969,-25.99999 z"
        id="path3067"
-       inkscape:connector-curvature="0"
+       
        sodipodi:nodetypes="czczc"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
+       
        inkscape:export-xdpi="250"
        inkscape:export-ydpi="250" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot4598-35-7"
-       style="font-size:22px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#976465;stroke-opacity:1;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L Italic"
-       transform="translate(-105.75557,-364.54137)"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
-       inkscape:export-xdpi="250"
-       inkscape:export-ydpi="250"><flowRegion
-         id="flowRegion4600-62-0"><rect
-           id="rect4602-9-9"
-           width="478"
-           height="128"
-           x="294"
-           y="594.36218"
-           style="font-size:22px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;stroke:#976465;stroke-opacity:1;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L Italic" /></flowRegion><flowPara
-         id="flowPara3849">Классическая механика</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot4598-35-0"
-       style="font-size:22px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#976465;stroke-opacity:1;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L Italic"
-       transform="translate(-94,-163.18781)"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
-       inkscape:export-xdpi="250"
-       inkscape:export-ydpi="250"><flowRegion
-         id="flowRegion4600-62-6"><rect
-           id="rect4602-9-2"
-           width="478"
-           height="128"
-           x="294"
-           y="594.36218"
-           style="font-size:22px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;stroke:#976465;stroke-opacity:1;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L Italic" /></flowRegion><flowPara
-         id="flowPara3916">Мат. анализ</flowPara></flowRoot>    <text
-       xml:space="preserve"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
-       x="410"
-       y="592.36218"
-       id="text3021"
-       sodipodi:linespacing="125%"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
-       inkscape:export-xdpi="250"
-       inkscape:export-ydpi="250"><tspan
-         sodipodi:role="line"
-         id="tspan3031">1950</tspan></text>
+    <text
+       x="200"
+       y="255"
+        style="font-size:22px;font-style:italic;text-align:start;line-height:125%;text-anchor:start;font-family:Nimbus Roman No9 L;">Классическая механика</text>
+    <text
+        x="200"
+        y="450"
+        style="font-size:22px;font-style:italic;text-align:start;line-height:125%;text-anchor:start;stroke:none;font-family:Nimbus Roman No9 L;">Мат. анализ</text>
+     <text
+       style="font-size:16px;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:black;fill-opacity:1;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+       x="400"
+       y="592.36218">1950</text>
     <text
        xml:space="preserve"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+       style="font-size:16px;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:black;fill-opacity:1;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
        x="570"
        y="592.36218"
        id="text3021-3"
        sodipodi:linespacing="125%"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
+       
        inkscape:export-xdpi="250"
        inkscape:export-ydpi="250"><tspan
          sodipodi:role="line"
          id="tspan3029">2000</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+       style="font-size:16px;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
        x="290"
        y="592.36218"
        id="text3021-36"
        sodipodi:linespacing="125%"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
+       
        inkscape:export-xdpi="250"
        inkscape:export-ydpi="250"><tspan
          sodipodi:role="line"
@@ -762,12 +720,12 @@
          y="592.36218">1900</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+       style="font-size:16px;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:black;fill-opacity:1;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
        x="200"
        y="592.36218"
        id="text3021-5"
        sodipodi:linespacing="125%"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
+       
        inkscape:export-xdpi="250"
        inkscape:export-ydpi="250"><tspan
          sodipodi:role="line"
@@ -776,108 +734,75 @@
        style="fill:#646464;fill-opacity:0.390625;stroke:#656465;stroke-width:1.2006166px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 311,388.36219 c 0,0 48.39159,-38.0586 100,-30 56.10841,2.0586 288.70403,8.26008 309,35 -20.70403,25.73992 -249.39159,26.9414 -309,31 -59.60841,4.0586 -100,-36 -100,-36 z"
        id="path3067-5"
-       inkscape:connector-curvature="0"
+       
        sodipodi:nodetypes="ccczc"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
+       
        inkscape:export-xdpi="250"
        inkscape:export-ydpi="250" />
     <path
        style="fill:#646464;fill-opacity:0.390625;stroke:#656465;stroke-width:1.2006166px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 122,443.36218 c 0,0 99,-32 125,-33 26,-1 93.56864,15.7161 126,18 71,5 257,9 327,19 -69,7 -252.2108,13.03676 -323,17 -43.1358,2.41503 -88.142,10.34324 -125,9 -35.33188,-1.28763 -130,-30 -130,-30 z"
        id="path3067-5-2"
-       inkscape:connector-curvature="0"
+       
        sodipodi:nodetypes="czscssc"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
+       
        inkscape:export-xdpi="250"
        inkscape:export-ydpi="250" />
     <path
        style="fill:#646464;fill-opacity:0.390625;stroke:#656465;stroke-width:1.07518852px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 400.93728,519.36218 c 0,0 55.95114,-27.40663 104.03811,-30.06303 48.08697,-2.65641 181.70908,15.08099 176.06447,30.06303 -5.64462,14.98204 -127.9775,32.71944 -176.06447,30.06303 -48.08697,-2.6564 -104.03811,-30.06303 -104.03811,-30.06303 z"
        id="path3067-5-2-7"
-       inkscape:connector-curvature="0"
+       
        sodipodi:nodetypes="czzzc"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
+       
        inkscape:export-xdpi="250"
        inkscape:export-ydpi="250" />
-    <flowRoot
+    <text
        xml:space="preserve"
-       id="flowRoot4598-35-7-6-0"
-       style="font-size:22px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#976465;stroke-opacity:1;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L Italic"
-       transform="translate(146,-83.187817)"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
-       inkscape:export-xdpi="250"
-       inkscape:export-ydpi="250"><flowRegion
-         id="flowRegion4600-62-0-2-9"><rect
-           id="rect4602-9-9-9-3"
-           width="478"
-           height="128"
-           x="294"
-           y="594.36218"
-           style="font-size:22px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;stroke:#976465;stroke-opacity:1;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L Italic" /></flowRegion><flowPara
-         id="flowPara3963">Численные методы</flowPara></flowRoot>    <path
+       x="450"
+       y="525"
+        style="font-size:22px;font-style:italic;text-align:start;line-height:125%;text-anchor:start;stroke:none;font-family:Nimbus Roman No9 L;">Численные методы</text>    
+    <path
        style="fill:#646464;fill-opacity:0.390625;stroke:#656465;stroke-width:0.96182418px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 417.03479,48.362011 c 0,0 136.09831,-27.304639 174.50707,-29.966055 38.40876,-2.661425 94.848,-1.152145 95.57658,27.968318 C 687.84702,75.484738 629.95062,80.98949 591.54186,78.32807 553.1331,75.666642 417.03479,48.362011 417.03479,48.362011 z"
        id="path3067-5-2-7-0"
-       inkscape:connector-curvature="0"
+       
        sodipodi:nodetypes="czzzc"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
+       
        inkscape:export-xdpi="250"
        inkscape:export-ydpi="250" />
     <path
        style="fill:#646464;fill-opacity:0.390625;stroke:#656465;stroke-width:1.2006166px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 292,174.36219 c 0,0 59.89159,-20.55859 116.5,-20.49999 56.60841,0.0586 276,9.99999 287,25.99999 C 684,191.3622 463.60841,201.8036 406,199.8622 348.39159,197.9208 292,174.36219 292,174.36219 z"
        id="path3067-5-23"
-       inkscape:connector-curvature="0"
+       
        sodipodi:nodetypes="czczc"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
+       
        inkscape:export-xdpi="250"
        inkscape:export-ydpi="250" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot4598-35-7-6-7"
-       style="font-size:22px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#976465;stroke-opacity:1;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L Italic"
-       transform="translate(46,-433.18782)"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
-       inkscape:export-xdpi="250"
-       inkscape:export-ydpi="250"><flowRegion
-         id="flowRegion4600-62-0-2-5"><rect
-           id="rect4602-9-9-9-9"
-           width="478"
-           height="128"
-           x="294"
-           y="594.36218"
-           style="font-size:22px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;stroke:#976465;stroke-opacity:1;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L Italic" /></flowRegion><flowPara
-         id="flowPara4075">Стат. физика</flowPara></flowRoot>    <path
+    <text x="340"
+          y="180"
+           style="font-size:22px;font-style:italic;text-align:start;line-height:125%;text-anchor:start;font-family:Nimbus Roman No9 L;">Стат. физика</text>    
+    <path
        style="fill:#646464;fill-opacity:0.390625;stroke:#656465;stroke-width:1.06611526px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 265.93275,306.86221 c 0,0 51.53981,-18.89335 108.75306,-21.751 57.21326,-2.85765 333.38144,17.75033 346.38144,24.251 -12.5,4.50067 -289.16818,22.10865 -346.38144,19.251 -57.21325,-2.85765 -108.75306,-21.751 -108.75306,-21.751 z"
        id="path3067-5-23-1"
-       inkscape:connector-curvature="0"
+       
        sodipodi:nodetypes="czczc"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
+       
        inkscape:export-xdpi="250"
        inkscape:export-ydpi="250" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot4598-35-7-6-0-8-1"
-       style="font-size:22px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#976465;stroke-opacity:1;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L Italic"
-       transform="translate(220,-679.68782)"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
-       inkscape:export-xdpi="250"
-       inkscape:export-ydpi="250"><flowRegion
-         id="flowRegion4600-62-0-2-9-7-0"><rect
-           id="rect4602-9-9-9-3-9-6"
-           width="478"
-           height="128"
-           x="294"
-           y="594.36218"
-           style="font-size:22px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;stroke:#976465;stroke-opacity:1;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L Italic" /></flowRegion><flowPara
-         id="flowPara4247">Классификация</flowPara></flowRoot>    <path
+    <text
+        x="512"
+        y="-58"
+        style="font-size:22px;font-style:italic;text-align:start;line-height:125%;text-anchor:start;font-family:Nimbus Roman No9 L;">Классификация</text>    
+    <path
        style="fill:#646464;fill-opacity:0.390625;stroke:#656465;stroke-width:1.02444959px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 481.06611,-66.638144 c 0,0 62.07485,-27.276811 105.69259,-29.935513 43.61773,-2.658713 94.49965,-1.150971 95.32704,27.939812 0.82739,29.090782 -51.70931,34.589916 -95.32704,31.931213 -43.61774,-2.658712 -105.69259,-29.935512 -105.69259,-29.935512 z"
        id="path3067-5-2-7-0-2"
-       inkscape:connector-curvature="0"
+       
        sodipodi:nodetypes="czzzc"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
+       
        inkscape:export-xdpi="250"
        inkscape:export-ydpi="250" />
     <rect
@@ -887,13 +812,13 @@
        height="724.59216"
        x="671.20386"
        y="-138.4339"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
+       
        inkscape:export-xdpi="250"
        inkscape:export-ydpi="250" />
     <path
        transform="matrix(0.08614025,0.49351773,-2.1172483,0.08221831,1853.3419,107.052)"
        sodipodi:type="arc"
-       style="fill:#9e9efb;fill-opacity:0.49609375000000000;stroke:#646465;stroke-width:1.30699097999999991;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       style="fill:#646464;fill-opacity:0.39609375000000000;stroke:#646464;stroke-width:1.30699097999999991;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;"
        id="path4588-2"
        sodipodi:cx="400"
        sodipodi:cy="512.36218"
@@ -905,11 +830,11 @@
        sodipodi:open="true"
        inkscape:export-xdpi="250"
        inkscape:export-ydpi="250"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png" />
+        />
     <path
        transform="matrix(0.08637521,0.48444138,-2.1230234,0.08070622,1852.207,-131.54273)"
        sodipodi:type="arc"
-       style="fill:#9e9efb;fill-opacity:0.49609375;stroke:#646465;stroke-width:1.58418763;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       style="fill:gray;fill-opacity:0.49609375;stroke:#646464;stroke-width:1.58418763;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;"
        id="path4588-2-3"
        sodipodi:cx="400"
        sodipodi:cy="512.36218"
@@ -921,26 +846,15 @@
        sodipodi:open="true"
        inkscape:export-xdpi="250"
        inkscape:export-ydpi="250"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot4598-35-0-6"
-       style="font-size:22px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L Italic"
-       transform="translate(412,-481.18782)"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
-       inkscape:export-xdpi="250"
-       inkscape:export-ydpi="250"><flowRegion
-         id="flowRegion4600-62-6-7"><rect
-           id="rect4602-9-2-5"
-           width="478"
-           height="128"
-           x="294"
-           y="594.36218"
-           style="font-size:22px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L Italic" /></flowRegion><flowPara
-         id="flowPara3074">Сворачивание белков</flowPara></flowRoot>    <path
+        />
+    <text
+        x="708"
+        y="125"
+        style="font-size:22px;font-style:italic;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Nimbus Roman No9 L;">Сворачивание белков</text>
+    <path
        transform="matrix(0.07793431,0.48376728,-1.9155539,0.10495081,1751.7838,-17.6951)"
        sodipodi:type="arc"
-       style="fill:#9e9efb;fill-opacity:0.49609375;stroke:#646465;stroke-width:1.58418763;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       style="fill:gray;fill-opacity:0.49609375;stroke:#646464;stroke-width:1.58418763;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;"
        id="path4588-2-3-5"
        sodipodi:cx="400"
        sodipodi:cy="512.36218"
@@ -952,41 +866,19 @@
        sodipodi:open="true"
        inkscape:export-xdpi="250"
        inkscape:export-ydpi="250"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot4598-35-0-6-6"
-       style="font-size:22px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L Italic"
-       transform="translate(418,-358.18782)"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
-       inkscape:export-xdpi="250"
-       inkscape:export-ydpi="250"><flowRegion
-         id="flowRegion4600-62-6-7-2"><rect
-           id="rect4602-9-2-5-9"
-           width="478"
-           height="128"
-           x="294"
-           y="594.36218"
-           style="font-size:22px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L Italic" /></flowRegion><flowPara
-         id="flowPara4255">Докинг белок/лиганд</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot4598-35-0-6-2"
-       style="font-size:22px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L Italic"
-       transform="translate(397,-237.18782)"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
-       inkscape:export-xdpi="250"
-       inkscape:export-ydpi="250"><flowRegion
-         id="flowRegion4600-62-6-7-8"><rect
-           id="rect4602-9-2-5-97"
-           width="478"
-           height="128"
-           x="294"
-           y="594.36218"
-           style="font-size:22px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L Italic" /></flowRegion><flowPara
-         id="flowPara4104">Молекулярная динамика</flowPara></flowRoot>    <path
+        />
+    <text
+        x="708"
+        y="250"
+        style="font-size:22px;font-style:italic;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Nimbus Roman No9 L;">Докинг белок/лиганд</text>   
+    <text
+        x="691"
+        y="370"
+           style="font-size:22px;font-style:italic;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Nimbus Roman No9 L;">Молекулярная динамика</text>
+    <path
        transform="matrix(0.08612582,0.50999493,-2.1168937,0.08496335,1858.166,227.55465)"
        sodipodi:type="arc"
-       style="fill:#9e9efb;fill-opacity:0.49609375;stroke:#646465;stroke-width:1.30699098;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       style="fill:gray;fill-opacity:0.49609375;stroke:#646464;stroke-width:1.30699098;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;"
        id="path4588-2-6"
        sodipodi:cx="400"
        sodipodi:cy="512.36218"
@@ -998,26 +890,15 @@
        sodipodi:open="true"
        inkscape:export-xdpi="250"
        inkscape:export-ydpi="250"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot4598-35-0-6-2-1"
-       style="font-size:22px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L Italic"
-       transform="translate(425.5,-114.68782)"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
-       inkscape:export-xdpi="250"
-       inkscape:export-ydpi="250"><flowRegion
-         id="flowRegion4600-62-6-7-8-2"><rect
-           id="rect4602-9-2-5-97-9"
-           width="478"
-           height="128"
-           x="294"
-           y="594.36218"
-           style="font-size:22px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L Italic" /></flowRegion><flowPara
-         id="flowPara4136">Квантовая химия</flowPara></flowRoot>    <path
+        />
+    <text
+        x="719"
+        y="495"
+        style="font-size:22px;font-style:italic;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Nimbus Roman No9 L;">Квантовая химия</text>    
+    <path
        transform="matrix(0.07793431,0.48376728,-1.9155539,0.10495081,1741.7838,-267.6951)"
        sodipodi:type="arc"
-       style="fill:#9e9efb;fill-opacity:0.49609375;stroke:#646465;stroke-width:1.58418763;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       style="fill:gray;fill-opacity:0.49609375;stroke:#646464;stroke-width:1.58418763;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;"
        id="path4588-2-3-5-4"
        sodipodi:cx="400"
        sodipodi:cy="512.36218"
@@ -1029,386 +910,341 @@
        sodipodi:open="true"
        inkscape:export-xdpi="250"
        inkscape:export-ydpi="250"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot4598-35-0-6-6-5"
-       style="font-size:22px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L Italic"
-       transform="translate(414,-610.18782)"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
-       inkscape:export-xdpi="250"
-       inkscape:export-ydpi="250"><flowRegion
-         id="flowRegion4600-62-6-7-2-0"><rect
-           id="rect4602-9-2-5-9-3"
-           width="478"
-           height="128"
-           x="294"
-           y="594.36218"
-           style="font-size:22px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L Italic" /></flowRegion><flowPara
-         id="flowPara4253">Докинг белок/белок</flowPara></flowRoot>    <path
+        />
+    <text 
+        x="710"
+        y="0"
+        style="font-size:22px;font-style:italic;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Nimbus Roman No9 L;">Докинг белок/белок</text>    
+    <path
        style="fill:none;stroke:url(#linearGradient4299);stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.609375;stroke-dasharray:none"
        d="m 455,344.36218 282,-2"
        id="path4291"
-       inkscape:connector-curvature="0"
+       
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
+       
        inkscape:export-xdpi="250"
        inkscape:export-ydpi="250" />
     <path
        style="fill:none;stroke:url(#linearGradient4318);stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.60937500000000000;stroke-dasharray:none"
        d="m 537,223.36218 205,3"
        id="path4291-5"
-       inkscape:connector-curvature="0"
+       
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
+       
        inkscape:export-xdpi="250"
        inkscape:export-ydpi="250" />
     <path
        style="fill:none;stroke:url(#linearGradient4318-3);stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.609375;stroke-dasharray:none"
        d="m 533,107.36218 200,-3"
        id="path4291-8"
-       inkscape:connector-curvature="0"
+       
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
+       
        inkscape:export-xdpi="250"
        inkscape:export-ydpi="250" />
     <path
        style="fill:none;stroke:url(#linearGradient4318-0);stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.60937500000000000;stroke-dasharray:none"
        d="m 579,-23.637817 153,0"
        id="path4291-3"
-       inkscape:connector-curvature="0"
+       
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
+       
        inkscape:export-xdpi="250"
        inkscape:export-ydpi="250" />
     <path
        style="fill:none;stroke:url(#linearGradient4318-7);stroke-width:3.00715065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.609375;stroke-dasharray:none"
        d="m 324.00726,479.36218 417.98548,0"
        id="path4291-0"
-       inkscape:connector-curvature="0"
+       
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
+       
        inkscape:export-xdpi="250"
        inkscape:export-ydpi="250" />
     <path
-       inkscape:connector-curvature="0"
+       
        id="path5410"
        d="m 339.91157,320.66515 c -2.208,-0.004 -3.99682,-1.79909 -3.9929,-4.00708 0.004,-2.208 1.79909,-3.99682 4.00709,-3.9929 2.20799,0.004 3.99681,1.79909 3.9929,4.00708 -0.004,2.208 -1.79909,3.99682 -4.00709,3.9929 z"
-       style="fill:#a30000;fill-opacity:1;fill-rule:evenodd;stroke:#a30000;stroke-width:0.8pt;stroke-opacity:1"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
+       style="fill:black;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:0.8pt;stroke-opacity:1"
+       
        inkscape:export-xdpi="250"
        inkscape:export-ydpi="250" />
     <path
-       inkscape:connector-curvature="0"
+       
        id="path5412"
        d="m 340.40826,446.19467 c -2.20645,0.0827 -4.06433,-1.64088 -4.14706,-3.84733 -0.0827,-2.20645 1.64088,-4.06433 3.84733,-4.14706 2.20645,-0.0827 4.06433,1.64088 4.14705,3.84733 0.0827,2.20645 -1.64087,4.06433 -3.84732,4.14706 z"
-       style="fill:#a30000;fill-opacity:1;fill-rule:evenodd;stroke:#a30000;stroke-width:0.8pt;stroke-opacity:1"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
+       style="fill:black;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:0.8pt;stroke-opacity:1"
+       
        inkscape:export-xdpi="250"
        inkscape:export-ydpi="250" />
     <path
-       inkscape:connector-curvature="0"
+       
        id="path5414"
        d="m 339.97203,395.84579 c -2.03438,0.0243 -3.7052,-1.60704 -3.72952,-3.64142 -0.0243,-2.03437 1.60704,-3.7052 3.64142,-3.72951 2.03438,-0.0243 3.7052,1.60704 3.72952,3.64142 0.0243,2.03437 -1.60705,3.7052 -3.64142,3.72951 z"
-       style="fill:#a30000;fill-opacity:1;fill-rule:evenodd;stroke:#a30000;stroke-width:0.73714614pt;stroke-opacity:1"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
+       style="fill:black;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:0.73714614pt;stroke-opacity:1"
+       
        inkscape:export-xdpi="250"
        inkscape:export-ydpi="250" />
     <path
-       style="fill:none;stroke:#9f0000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:none;stroke:black;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        d="m 339.64645,312.36218 0,130.00001"
        id="path5431"
-       inkscape:connector-curvature="0"
+       
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
+       
        inkscape:export-xdpi="250"
        inkscape:export-ydpi="250" />
     <path
-       style="fill:none;stroke:#9f0000;stroke-width:1.96500266;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:none;stroke:black;stroke-width:1.96500266;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        d="m 385.5175,263.12286 -1.035,107.25682"
        id="path5431-5"
-       inkscape:connector-curvature="0"
+       
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
+       
        inkscape:export-xdpi="250"
        inkscape:export-ydpi="250" />
     <path
-       inkscape:connector-curvature="0"
+       
        id="path5412-1"
        d="m 384.62536,373.97621 c -2.20645,0.0827 -4.06433,-1.64088 -4.14706,-3.84733 -0.0827,-2.20645 1.64088,-4.06433 3.84733,-4.14706 2.20645,-0.0827 4.06433,1.64088 4.14705,3.84733 0.0827,2.20645 -1.64087,4.06433 -3.84732,4.14706 z"
-       style="fill:#a30000;fill-opacity:1;fill-rule:evenodd;stroke:#a30000;stroke-width:0.8pt;stroke-opacity:1"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
+       style="fill:black;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:0.8pt;stroke-opacity:1"
+       
        inkscape:export-xdpi="250"
        inkscape:export-ydpi="250" />
     <path
-       inkscape:connector-curvature="0"
+       
        id="path5412-10"
        d="m 384.7718,324.56452 c -2.20645,0.0827 -4.06433,-1.64088 -4.14706,-3.84733 -0.0827,-2.20645 1.64088,-4.06433 3.84733,-4.14706 2.20645,-0.0827 4.06433,1.64088 4.14705,3.84733 0.0827,2.20645 -1.64087,4.06433 -3.84732,4.14706 z"
-       style="fill:#a30000;fill-opacity:1;fill-rule:evenodd;stroke:#a30000;stroke-width:0.8pt;stroke-opacity:1"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
+       style="fill:black;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:0.8pt;stroke-opacity:1"
+       
        inkscape:export-xdpi="250"
        inkscape:export-ydpi="250" />
     <path
-       style="fill:none;stroke:#9f0000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:none;stroke:black;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        d="m 433,190.36218 -2,185"
        id="path5431-5-3"
-       inkscape:connector-curvature="0"
+       
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
+       
        inkscape:export-xdpi="250"
        inkscape:export-ydpi="250" />
     <path
-       inkscape:connector-curvature="0"
+       
        id="path5412-10-0"
        d="m 433.64987,192.85938 c -2.20645,0.0827 -4.06433,-1.64088 -4.14706,-3.84733 -0.0827,-2.20645 1.64088,-4.06433 3.84733,-4.14706 2.20645,-0.0827 4.06433,1.64088 4.14705,3.84733 0.0827,2.20645 -1.64087,4.06433 -3.84732,4.14706 z"
-       style="fill:#a30000;fill-opacity:1;fill-rule:evenodd;stroke:#a30000;stroke-width:0.8pt;stroke-opacity:1"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
+       style="fill:black;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:0.8pt;stroke-opacity:1"
+       
        inkscape:export-xdpi="250"
        inkscape:export-ydpi="250" />
     <path
-       inkscape:connector-curvature="0"
+       
        id="path5412-10-04"
        d="m 430.64987,376.85938 c -2.20645,0.0827 -4.06433,-1.64088 -4.14706,-3.84733 -0.0827,-2.20645 1.64088,-4.06433 3.84733,-4.14706 2.20645,-0.0827 4.06433,1.64088 4.14705,3.84733 0.0827,2.20645 -1.64087,4.06433 -3.84732,4.14706 z"
-       style="fill:#a30000;fill-opacity:1;fill-rule:evenodd;stroke:#a30000;stroke-width:0.8pt;stroke-opacity:1"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
+       style="fill:black;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:0.8pt;stroke-opacity:1"
+       
        inkscape:export-xdpi="250"
        inkscape:export-ydpi="250" />
     <path
-       inkscape:connector-curvature="0"
+       
        id="path5412-10-5"
        d="m 385.42225,263.70997 c -2.20645,0.0827 -4.06433,-1.64088 -4.14706,-3.84733 -0.0827,-2.20645 1.64088,-4.06433 3.84733,-4.14706 2.20645,-0.0827 4.06433,1.64088 4.14705,3.84733 0.0827,2.20645 -1.64087,4.06433 -3.84732,4.14706 z"
-       style="fill:#a30000;fill-opacity:1;fill-rule:evenodd;stroke:#a30000;stroke-width:0.8pt;stroke-opacity:1"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
+       style="fill:black;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:0.8pt;stroke-opacity:1"
+       
        inkscape:export-xdpi="250"
        inkscape:export-ydpi="250" />
     <path
-       style="fill:none;stroke:#9f0000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:none;stroke:black;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        d="m 495,186.86218 1,325"
        id="path5431-5-3-4"
-       inkscape:connector-curvature="0"
+       
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
+       
        inkscape:export-xdpi="250"
        inkscape:export-ydpi="250" />
     <path
-       inkscape:connector-curvature="0"
+       
        id="path5412-10-04-2"
        d="m 495.83172,191.56778 c -2.20645,0.0827 -4.06433,-1.64088 -4.14706,-3.84733 -0.0827,-2.20645 1.64088,-4.06433 3.84733,-4.14706 2.20645,-0.0827 4.06433,1.64088 4.14705,3.84733 0.0827,2.20645 -1.64087,4.06433 -3.84732,4.14706 z"
-       style="fill:#a30000;fill-opacity:1;fill-rule:evenodd;stroke:#a30000;stroke-width:0.8pt;stroke-opacity:1"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
+       style="fill:black;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:0.8pt;stroke-opacity:1"
+       
        inkscape:export-xdpi="250"
        inkscape:export-ydpi="250" />
     <path
-       inkscape:connector-curvature="0"
+       
        id="path5412-10-04-9"
        d="m 495.83172,387.43636 c -2.20645,0.0827 -4.06433,-1.64088 -4.14706,-3.84733 -0.0827,-2.20645 1.64088,-4.06433 3.84733,-4.14706 2.20645,-0.0827 4.06433,1.64088 4.14705,3.84733 0.0827,2.20645 -1.64087,4.06433 -3.84732,4.14706 z"
-       style="fill:#a30000;fill-opacity:1;fill-rule:evenodd;stroke:#a30000;stroke-width:0.8pt;stroke-opacity:1"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
+       style="fill:black;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:0.8pt;stroke-opacity:1"
+       
        inkscape:export-xdpi="250"
        inkscape:export-ydpi="250" />
     <path
-       inkscape:connector-curvature="0"
+       
        id="path5412-10-04-99"
        d="m 495.83173,514.00848 c -2.20645,0.0827 -4.06433,-1.64088 -4.14706,-3.84733 -0.0827,-2.20645 1.64088,-4.06433 3.84733,-4.14706 2.20645,-0.0827 4.06433,1.64088 4.14705,3.84733 0.0827,2.20645 -1.64087,4.06433 -3.84732,4.14706 z"
-       style="fill:#a30000;fill-opacity:1;fill-rule:evenodd;stroke:#a30000;stroke-width:0.8pt;stroke-opacity:1"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
+       style="fill:black;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:0.8pt;stroke-opacity:1"
+       
        inkscape:export-xdpi="250"
        inkscape:export-ydpi="250" />
     <path
-       inkscape:connector-curvature="0"
+       
        id="path5412-10-04-49"
        d="m 495.83172,451.78308 c -2.20645,0.0827 -4.06433,-1.64088 -4.14706,-3.84733 -0.0827,-2.20645 1.64088,-4.06433 3.84733,-4.14706 2.20645,-0.0827 4.06433,1.64088 4.14705,3.84733 0.0827,2.20645 -1.64087,4.06433 -3.84732,4.14706 z"
-       style="fill:#a30000;fill-opacity:1;fill-rule:evenodd;stroke:#a30000;stroke-width:0.8pt;stroke-opacity:1"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
+       style="fill:black;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:0.8pt;stroke-opacity:1"
+       
        inkscape:export-xdpi="250"
        inkscape:export-ydpi="250" />
     <path
-       style="fill:none;stroke:#9f0000;stroke-width:2.03133464;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:none;stroke:black;stroke-width:2.03133464;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        d="m 556.51566,-50.122153 0.96868,556.968673"
        id="path5431-5-3-4-8"
-       inkscape:connector-curvature="0"
+       
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
+       
        inkscape:export-xdpi="250"
        inkscape:export-ydpi="250" />
     <path
-       inkscape:connector-curvature="0"
+       
        id="path5412-10-04-9-1"
        d="m 556.35001,-51.078969 c -2.20645,0.0827 -4.06433,-1.64088 -4.14706,-3.84733 -0.0827,-2.20645 1.64088,-4.06433 3.84733,-4.14706 2.20645,-0.0827 4.06433,1.64088 4.14705,3.84733 0.0827,2.20645 -1.64087,4.06433 -3.84732,4.14706 z"
-       style="fill:#a30000;fill-opacity:1;fill-rule:evenodd;stroke:#a30000;stroke-width:0.8pt;stroke-opacity:1"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
+       style="fill:black;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:0.8pt;stroke-opacity:1"
+       
        inkscape:export-xdpi="250"
        inkscape:export-ydpi="250" />
     <path
-       inkscape:connector-curvature="0"
+       
        id="path5412-10-04-9-6"
        d="m 556.64291,66.409884 c -2.20645,0.0827 -4.06433,-1.64088 -4.14706,-3.84733 -0.0827,-2.20645 1.64088,-4.06433 3.84733,-4.14706 2.20645,-0.0827 4.06433,1.64088 4.14705,3.84733 0.0827,2.20645 -1.64087,4.06433 -3.84732,4.14706 z"
-       style="fill:#a30000;fill-opacity:1;fill-rule:evenodd;stroke:#a30000;stroke-width:0.8pt;stroke-opacity:1"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
+       style="fill:black;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:0.8pt;stroke-opacity:1"
+       
        inkscape:export-xdpi="250"
        inkscape:export-ydpi="250" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot4598-35-7-6-0-8"
-       style="font-size:22px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#976465;stroke-opacity:1;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L Italic"
-       transform="translate(216,-563.18782)"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
-       inkscape:export-xdpi="250"
-       inkscape:export-ydpi="250"><flowRegion
-         id="flowRegion4600-62-0-2-9-7"><rect
-           id="rect4602-9-9-9-3-9"
-           width="478"
-           height="128"
-           x="294"
-           y="594.36218"
-           style="font-size:22px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;stroke:#976465;stroke-opacity:1;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L Italic" /></flowRegion><flowPara
-         id="flowPara4245">Оптимизация</flowPara></flowRoot>    <path
-       inkscape:connector-curvature="0"
+    <text
+        x="512"
+        y="50"
+        style="font-size:22px;font-style:italic;text-align:start;line-height:125%;text-anchor:start;font-family:Nimbus Roman No9 L;">Оптимизация</text>    
+    <path
        id="path5412-10-04-9-3"
        d="m 558.05712,513.30137 c -2.20645,0.0827 -4.06433,-1.64088 -4.14706,-3.84733 -0.0827,-2.20645 1.64088,-4.06433 3.84733,-4.14706 2.20645,-0.0827 4.06433,1.64088 4.14705,3.84733 0.0827,2.20645 -1.64087,4.06433 -3.84732,4.14706 z"
-       style="fill:#a30000;fill-opacity:1;fill-rule:evenodd;stroke:#a30000;stroke-width:0.8pt;stroke-opacity:1"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
+       style="fill:black;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:0.8pt;stroke-opacity:1"
+       
        inkscape:export-xdpi="250"
        inkscape:export-ydpi="250" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot4598-35-7-6-7-9"
-       style="font-size:22px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#976465;stroke-opacity:1;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L Italic"
-       transform="translate(60,-307.68782)"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
-       inkscape:export-xdpi="250"
-       inkscape:export-ydpi="250"><flowRegion
-         id="flowRegion4600-62-0-2-5-4"><rect
-           id="rect4602-9-9-9-9-7"
-           width="478"
-           height="128"
-           x="294"
-           y="594.36218"
-           style="font-size:22px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;stroke:#976465;stroke-opacity:1;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L Italic" /></flowRegion><flowPara
-         id="flowPara5536">Электромагнетизм</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot4598-35-7-6"
-       style="font-size:22px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#976465;stroke-opacity:1;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L Italic"
-       transform="translate(74,-209.18782)"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
-       inkscape:export-xdpi="250"
-       inkscape:export-ydpi="250"><flowRegion
-         id="flowRegion4600-62-0-2"><rect
-           id="rect4602-9-9-9"
-           width="478"
-           height="128"
-           x="294"
-           y="594.36218"
-           style="font-size:22px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;stroke:#976465;stroke-opacity:1;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L Italic" /></flowRegion><flowPara
-         id="flowPara3896">Квантовая механика</flowPara></flowRoot>    <path
-       style="fill:none;stroke:#000000;stroke-width:1.8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.49218750000000000;stroke-dasharray:1.8,1.8;stroke-dashoffset:0;marker-end:none"
+    <text
+        x="354"
+        y="310"
+        style="font-size:22px;font-style:italic;text-align:start;line-height:125%;text-anchor:start;font-family:Nimbus Roman No9 L;">Электромагнетизм</text>    
+    <text
+        x="368"
+        y="398"
+        style="font-size:22px;font-style:italic;text-align:start;line-height:125%;text-anchor:start;font-family:Nimbus Roman No9 L;" >Квантовая механика</text>    
+    <path
+       style="fill:none;stroke:black;stroke-width:1.8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.49218750000000000;stroke-dasharray:1.8,1.8;stroke-dashoffset:0;marker-end:none"
        d="m 640,524.36218 106,-39"
        id="path3154"
-       inkscape:connector-curvature="0"
+       
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:1.8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.49218750000000000;stroke-dasharray:1.8,1.8;stroke-dashoffset:0;marker-end:none"
+       style="fill:none;stroke:black;stroke-width:1.8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.49218750000000000;stroke-dasharray:1.8,1.8;stroke-dashoffset:0;marker-end:none"
        d="m 640,401.36218 106,57"
        id="path3154-7"
-       inkscape:connector-curvature="0"
+       
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:1.8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.49218750000000000;stroke-dasharray:1.8,1.8;stroke-dashoffset:0;marker-end:none"
+       style="fill:none;stroke:black;stroke-width:1.8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.49218750000000000;stroke-dasharray:1.8,1.8;stroke-dashoffset:0;marker-end:none"
        d="m 648,445.36218 97,27"
        id="path3154-7-5"
-       inkscape:connector-curvature="0"
+       
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:1.79999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.4921875;stroke-dasharray:1.8, 1.8;stroke-dashoffset:0;marker-end:none"
+       style="fill:none;stroke:black;stroke-width:1.79999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.4921875;stroke-dasharray:1.8, 1.8;stroke-dashoffset:0;marker-end:none"
        d="m 643,310.84918 95,31"
        id="path3154-7-5-9"
-       inkscape:connector-curvature="0"
+       
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:1.8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.49218750000000000;stroke-dasharray:1.8,1.8;stroke-dashoffset:0;marker-end:none"
+       style="fill:none;stroke:black;stroke-width:1.8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.49218750000000000;stroke-dasharray:1.8,1.8;stroke-dashoffset:0;marker-end:none"
        d="m 641,393.84918 94,-44"
        id="path3154-7-5-0"
-       inkscape:connector-curvature="0"
+       
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:1.79999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.4921875;stroke-dasharray:1.8, 1.8;stroke-dashoffset:0;marker-end:none"
+       style="fill:none;stroke:black;stroke-width:1.79999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.4921875;stroke-dasharray:1.8, 1.8;stroke-dashoffset:0;marker-end:none"
        d="m 640,252.84918 102,77"
        id="path3154-7-5-06"
-       inkscape:connector-curvature="0"
+       
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:1.79999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.4921875;stroke-dasharray:1.8, 1.8;stroke-dashoffset:0;marker-end:none"
+       style="fill:none;stroke:black;stroke-width:1.79999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.4921875;stroke-dasharray:1.8, 1.8;stroke-dashoffset:0;marker-end:none"
        d="m 642,177.84918 105,145"
        id="path3154-7-5-8"
-       inkscape:connector-curvature="0"
+       
        sodipodi:nodetypes="cc"
        inkscape:export-xdpi="250"
        inkscape:export-ydpi="250" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:1.79999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.4921875;stroke-dasharray:1.8, 1.8;stroke-dashoffset:0;marker-end:none"
+       style="fill:none;stroke:black;stroke-width:1.79999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.4921875;stroke-dasharray:1.8, 1.8;stroke-dashoffset:0;marker-end:none"
        d="m 648,-59.150818 86,19"
        id="path3154-7-5-2"
-       inkscape:connector-curvature="0"
+       
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:1.79999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.4921875;stroke-dasharray:1.8, 1.8;stroke-dashoffset:0;marker-end:none"
+       style="fill:none;stroke:black;stroke-width:1.79999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.4921875;stroke-dasharray:1.8, 1.8;stroke-dashoffset:0;marker-end:none"
        d="M 652,53.84918 746,6.849182"
        id="path3154-7-5-7"
-       inkscape:connector-curvature="0"
+       
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:1.79999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.4921875;stroke-dasharray:1.8, 1.8;stroke-dashoffset:0;marker-end:none"
+       style="fill:none;stroke:black;stroke-width:1.79999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.4921875;stroke-dasharray:1.8, 1.8;stroke-dashoffset:0;marker-end:none"
        d="M 645,-55.15082 742,78.849182"
        id="path3154-7-5-89"
-       inkscape:connector-curvature="0"
+       
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:1.8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.49218750000000000;stroke-dasharray:1.8,1.8;stroke-dashoffset:0;marker-end:none"
+       style="fill:none;stroke:black;stroke-width:1.8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.49218750000000000;stroke-dasharray:1.8,1.8;stroke-dashoffset:0;marker-end:none"
        d="m 642,175.84918 96,-52"
        id="path3154-7-5-93"
-       inkscape:connector-curvature="0"
+       
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:1.79999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.4921875;stroke-dasharray:1.8, 1.8;stroke-dashoffset:0;marker-end:none"
+       style="fill:none;stroke:black;stroke-width:1.79999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.4921875;stroke-dasharray:1.8, 1.8;stroke-dashoffset:0;marker-end:none"
        d="m 646,306.84918 100,-64"
        id="path3154-7-5-78"
-       inkscape:connector-curvature="0"
+       
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:1.8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.49218750000000000;stroke-dasharray:1.8,1.8;stroke-dashoffset:0;marker-end:none"
+       style="fill:none;stroke:black;stroke-width:1.8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.49218750000000000;stroke-dasharray:1.8,1.8;stroke-dashoffset:0;marker-end:none"
        d="m 641,302.84918 108,-168"
        id="path3154-7-5-03"
-       inkscape:connector-curvature="0"
+       
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:1.79999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.4921875;stroke-dasharray:1.8, 1.8;stroke-dashoffset:0;marker-end:none"
+       style="fill:none;stroke:black;stroke-width:1.79999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.4921875;stroke-dasharray:1.8, 1.8;stroke-dashoffset:0;marker-end:none"
        d="m 638,511.84918 114,-140"
        id="path3154-7-5-6"
-       inkscape:connector-curvature="0"
+       
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:1.79999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.4921875;stroke-dasharray:1.8, 1.8;stroke-dashoffset:0;marker-end:none"
+       style="fill:none;stroke:black;stroke-width:1.79999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.4921875;stroke-dasharray:1.8, 1.8;stroke-dashoffset:0;marker-end:none"
        d="m 656,63.84918 89,146"
        id="path3154-7-5-1"
-       inkscape:connector-curvature="0"
+       
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:1.79999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.4921875;stroke-dasharray:1.8, 1.8;stroke-dashoffset:0;marker-end:none"
+       style="fill:none;stroke:black;stroke-width:1.79999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.4921875;stroke-dasharray:1.8, 1.8;stroke-dashoffset:0;marker-end:none"
        d="m 654,56.84918 84,33.000002"
        id="path3154-7-5-65"
-       inkscape:connector-curvature="0"
+       
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:1.79999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.4921875;stroke-dasharray:1.8, 1.8;stroke-dashoffset:0;marker-end:none"
+       style="fill:none;stroke:black;stroke-width:1.79999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.4921875;stroke-dasharray:1.8, 1.8;stroke-dashoffset:0;marker-end:none"
        d="m 643,-51.15082 109,253"
        id="path3154-7-5-4"
-       inkscape:connector-curvature="0"
+       
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:1.8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.49218750000000000;stroke-dasharray:1.8,1.8;stroke-dashoffset:0;marker-end:none"
+       style="fill:none;stroke:black;stroke-width:1.8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.49218750000000000;stroke-dasharray:1.8,1.8;stroke-dashoffset:0;marker-end:none"
        d="m 645.5,251.86218 96,-15"
        id="path3154-7-5-06-3"
-       inkscape:connector-curvature="0"
+       
        sodipodi:nodetypes="cc" />
   </g>
 </svg>

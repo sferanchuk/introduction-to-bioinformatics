@@ -10,789 +10,74 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="744.09448819"
-   height="1052.3622047"
+   width="1000"
+   height="850"
+   viewBox="100 -100 1100 750"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="methidshist_scheme.svg"
-   inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
-   inkscape:export-xdpi="250"
-   inkscape:export-ydpi="250">
-  <defs
-     id="defs4">
-    <marker
-       inkscape:stockid="Arrow1Mend"
-       orient="auto"
-       refY="0.0"
-       refX="0.0"
-       id="Arrow1Mend"
-       style="overflow:visible;">
-      <path
-         id="path4372"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
-         transform="scale(0.4) rotate(180) translate(10,0)" />
-    </marker>
-    <marker
-       inkscape:stockid="Arrow2Mend"
-       orient="auto"
-       refY="0.0"
-       refX="0.0"
-       id="Arrow2Mend"
-       style="overflow:visible;">
-      <path
-         id="path4390"
-         style="fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
-         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
-         transform="scale(0.6) rotate(180) translate(0,0)" />
-    </marker>
-    <marker
-       inkscape:stockid="Arrow1Sstart"
-       orient="auto"
-       refY="0.0"
-       refX="0.0"
-       id="Arrow1Sstart"
-       style="overflow:visible">
-      <path
-         id="path4406"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
-         transform="scale(0.2) translate(6,0)" />
-    </marker>
-    <linearGradient
-       id="linearGradient5467">
-      <stop
-         id="stop5469"
-         offset="0"
-         style="stop-color:#9e9efb;stop-opacity:0;" />
-      <stop
-         style="stop-color:#8b8bfa;stop-opacity:0.94219655;"
-         offset="0.52778703"
-         id="stop5471" />
-      <stop
-         style="stop-color:#7979f9;stop-opacity:1;"
-         offset="1"
-         id="stop5473" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient5459">
-      <stop
-         id="stop5461"
-         offset="0"
-         style="stop-color:#9e9efb;stop-opacity:0;" />
-      <stop
-         style="stop-color:#8b8bfa;stop-opacity:0.94219655;"
-         offset="0.52303046"
-         id="stop5463" />
-      <stop
-         style="stop-color:#7979f9;stop-opacity:1;"
-         offset="1"
-         id="stop5465" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient5451">
-      <stop
-         id="stop5453"
-         offset="0"
-         style="stop-color:#9e9efb;stop-opacity:0;" />
-      <stop
-         style="stop-color:#8b8bfa;stop-opacity:0.94219655;"
-         offset="0.80612242"
-         id="stop5455" />
-      <stop
-         style="stop-color:#7979f9;stop-opacity:1;"
-         offset="1"
-         id="stop5457" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient5443">
-      <stop
-         id="stop5445"
-         offset="0"
-         style="stop-color:#9e9efb;stop-opacity:0;" />
-      <stop
-         style="stop-color:#8b8bfa;stop-opacity:0.94219655;"
-         offset="0.36021405"
-         id="stop5447" />
-      <stop
-         style="stop-color:#7979f9;stop-opacity:1;"
-         offset="1"
-         id="stop5449" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient5435">
-      <stop
-         id="stop5437"
-         offset="0"
-         style="stop-color:#9e9efb;stop-opacity:0;" />
-      <stop
-         style="stop-color:#8b8bfa;stop-opacity:0.94219655;"
-         offset="0.19273743"
-         id="stop5439" />
-      <stop
-         style="stop-color:#7979f9;stop-opacity:1;"
-         offset="1"
-         id="stop5441" />
-    </linearGradient>
-    <marker
-       inkscape:stockid="DotM"
-       orient="auto"
-       refY="0.0"
-       refX="0.0"
-       id="DotM"
-       style="overflow:visible">
-      <path
-         id="path4458"
-         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
-         transform="scale(0.4) translate(7.4, 1)" />
-    </marker>
-    <marker
-       inkscape:stockid="DotL"
-       orient="auto"
-       refY="0.0"
-       refX="0.0"
-       id="DotL"
-       style="overflow:visible">
-      <path
-         id="path4455"
-         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
-         transform="scale(0.8) translate(7.4, 1)" />
-    </marker>
-    <linearGradient
-       id="linearGradient4293">
-      <stop
-         style="stop-color:#9e9efb;stop-opacity:0;"
-         offset="0"
-         id="stop4295" />
-      <stop
-         id="stop4301"
-         offset="1"
-         style="stop-color:#7979f9;stop-opacity:1;" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient4259">
-      <stop
-         style="stop-color:#656465;stop-opacity:0;"
-         offset="0"
-         id="stop4261" />
-      <stop
-         id="stop4267"
-         offset="0.2312132"
-         style="stop-color:#656465;stop-opacity:0.3815029;" />
-      <stop
-         style="stop-color:#656465;stop-opacity:0;"
-         offset="0.33000001"
-         id="stop4269" />
-      <stop
-         id="stop4281"
-         offset="0.41999999"
-         style="stop-color:#656465;stop-opacity:0.39215687;" />
-      <stop
-         style="stop-color:#656465;stop-opacity:0;"
-         offset="0.46000001"
-         id="stop4283" />
-      <stop
-         id="stop4285"
-         offset="0.5"
-         style="stop-color:#656465;stop-opacity:0.38728324;" />
-      <stop
-         style="stop-color:#656465;stop-opacity:0.00578035;"
-         offset="0.73000002"
-         id="stop4287" />
-      <stop
-         id="stop4271"
-         offset="1"
-         style="stop-color:#656465;stop-opacity:0.21965317;" />
-    </linearGradient>
-    <marker
-       inkscape:stockid="Arrow1Lstart"
-       orient="auto"
-       refY="0.0"
-       refX="0.0"
-       id="Arrow1Lstart"
-       style="overflow:visible">
-      <path
-         id="path3780"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
-         transform="scale(0.8) translate(12.5,0)" />
-    </marker>
-    <marker
-       inkscape:stockid="Arrow1Lend"
-       orient="auto"
-       refY="0.0"
-       refX="0.0"
-       id="Arrow1Lend"
-       style="overflow:visible;">
-      <path
-         id="path3783"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
-         transform="scale(0.8) rotate(180) translate(12.5,0)" />
-    </marker>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4259"
-       id="linearGradient4265"
-       x1="89"
-       y1="227.36218"
-       x2="671"
-       y2="227.36218"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(100.40916,-2283.9549)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4259"
-       id="linearGradient4279"
-       x1="89"
-       y1="227.36218"
-       x2="671"
-       y2="227.36218"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(100.40916,-2283.9549)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4293-6"
-       id="linearGradient4299"
-       x1="453.5"
-       y1="274.86218"
-       x2="731.5"
-       y2="267.86218"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4293-1"
-       id="linearGradient4299-9"
-       x1="552.5"
-       y1="267.86218"
-       x2="731.5"
-       y2="267.86218"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       id="linearGradient4293-1">
-      <stop
-         style="stop-color:#9e9efb;stop-opacity:0;"
-         offset="0"
-         id="stop4295-3" />
-      <stop
-         id="stop4301-4"
-         offset="1"
-         style="stop-color:#7979f9;stop-opacity:1;" />
-    </linearGradient>
-    <linearGradient
-       gradientTransform="translate(109.23759,381.38896)"
-       y2="267.86218"
-       x2="731.5"
-       y1="267.86218"
-       x1="552.5"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient4318"
-       xlink:href="#linearGradient5459"
-       inkscape:collect="always" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4293-5"
-       id="linearGradient4299-8"
-       x1="552.5"
-       y1="267.86218"
-       x2="731.5"
-       y2="267.86218"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       id="linearGradient4293-5">
-      <stop
-         style="stop-color:#9e9efb;stop-opacity:0;"
-         offset="0"
-         id="stop4295-7" />
-      <stop
-         id="stop4301-3"
-         offset="1"
-         style="stop-color:#7979f9;stop-opacity:1;" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4293-53"
-       id="linearGradient4299-95"
-       x1="552.5"
-       y1="267.86218"
-       x2="731.5"
-       y2="267.86218"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       id="linearGradient4293-53">
-      <stop
-         style="stop-color:#9e9efb;stop-opacity:0;"
-         offset="0"
-         id="stop4295-8" />
-      <stop
-         id="stop4301-6"
-         offset="1"
-         style="stop-color:#7979f9;stop-opacity:1;" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4293-6"
-       id="linearGradient4299-3"
-       x1="552.5"
-       y1="267.86218"
-       x2="731.5"
-       y2="267.86218"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       id="linearGradient4293-6">
-      <stop
-         style="stop-color:#9e9efb;stop-opacity:0;"
-         offset="0"
-         id="stop4295-1" />
-      <stop
-         id="stop5433"
-         offset="0.31632653"
-         style="stop-color:#8b8bfa;stop-opacity:0.94219655;" />
-      <stop
-         id="stop4301-8"
-         offset="1"
-         style="stop-color:#7979f9;stop-opacity:1;" />
-    </linearGradient>
-    <linearGradient
-       gradientTransform="matrix(1.0047728,0,0,1,5.4942876,140)"
-       y2="267.86218"
-       x2="731.5"
-       y1="259.86218"
-       x1="310.5"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient4318-7"
-       xlink:href="#linearGradient5467"
-       inkscape:collect="always" />
-    <marker
-       inkscape:stockid="Arrow1Lend"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="Arrow1Lend-3"
-       style="overflow:visible">
-      <path
-         inkscape:connector-curvature="0"
-         id="path3783-6"
-         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
-         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
-    </marker>
-    <marker
-       inkscape:stockid="Arrow1Lend"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="Arrow1Lend-5"
-       style="overflow:visible">
-      <path
-         inkscape:connector-curvature="0"
-         id="path3783-3"
-         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
-         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
-    </marker>
-    <marker
-       inkscape:stockid="Arrow1Lend"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="Arrow1Lend-6"
-       style="overflow:visible">
-      <path
-         inkscape:connector-curvature="0"
-         id="path3783-2"
-         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
-         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
-    </marker>
-    <marker
-       inkscape:stockid="Arrow1Lend"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="Arrow1Lend-1"
-       style="overflow:visible">
-      <path
-         inkscape:connector-curvature="0"
-         id="path3783-27"
-         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
-         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
-    </marker>
-    <marker
-       inkscape:stockid="Arrow1Lend"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="Arrow1Lend-9"
-       style="overflow:visible">
-      <path
-         inkscape:connector-curvature="0"
-         id="path3783-36"
-         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
-         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
-    </marker>
-    <marker
-       inkscape:stockid="Arrow1Lend"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="Arrow1Lend-2"
-       style="overflow:visible">
-      <path
-         inkscape:connector-curvature="0"
-         id="path3783-61"
-         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
-         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
-    </marker>
-    <marker
-       inkscape:stockid="Arrow1Lend"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="Arrow1Lend-7"
-       style="overflow:visible">
-      <path
-         inkscape:connector-curvature="0"
-         id="path3783-9"
-         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
-         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
-    </marker>
-    <marker
-       inkscape:stockid="Arrow1Lend"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="Arrow1Lend-0"
-       style="overflow:visible">
-      <path
-         inkscape:connector-curvature="0"
-         id="path3783-23"
-         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
-         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
-    </marker>
-    <marker
-       inkscape:stockid="Arrow1Lend"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="Arrow1Lend-59"
-       style="overflow:visible">
-      <path
-         inkscape:connector-curvature="0"
-         id="path3783-22"
-         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
-         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
-    </marker>
-    <marker
-       inkscape:stockid="Arrow1Lend"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="Arrow1Lend-73"
-       style="overflow:visible">
-      <path
-         inkscape:connector-curvature="0"
-         id="path3783-612"
-         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
-         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
-    </marker>
-    <marker
-       inkscape:stockid="Arrow1Lend"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="Arrow1Lend-19"
-       style="overflow:visible">
-      <path
-         inkscape:connector-curvature="0"
-         id="path3783-4"
-         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
-         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
-    </marker>
-    <marker
-       inkscape:stockid="Arrow1Lend"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="Arrow1Lend-4"
-       style="overflow:visible">
-      <path
-         inkscape:connector-curvature="0"
-         id="path3783-5"
-         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
-         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
-    </marker>
-    <marker
-       inkscape:stockid="Arrow1Lend"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="Arrow1Lend-61"
-       style="overflow:visible">
-      <path
-         inkscape:connector-curvature="0"
-         id="path3783-0"
-         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
-         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
-    </marker>
-    <marker
-       inkscape:stockid="Arrow1Lend"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="Arrow1Lend-32"
-       style="overflow:visible">
-      <path
-         inkscape:connector-curvature="0"
-         id="path3783-06"
-         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
-         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
-    </marker>
-    <marker
-       inkscape:stockid="Arrow1Lend"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="Arrow1Lend-55"
-       style="overflow:visible">
-      <path
-         inkscape:connector-curvature="0"
-         id="path3783-47"
-         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
-         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
-    </marker>
-    <marker
-       inkscape:stockid="Arrow1Lend"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="Arrow1Lend-69"
-       style="overflow:visible">
-      <path
-         inkscape:connector-curvature="0"
-         id="path3783-37"
-         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
-         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
-    </marker>
-  </defs>
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="1"
-     inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="637.50273"
-     inkscape:cy="737.08371"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     inkscape:window-width="1280"
-     inkscape:window-height="977"
-     inkscape:window-x="56"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     showguides="true"
-     inkscape:guide-bbox="true">
-    <inkscape:grid
-       type="xygrid"
-       id="grid3004"
-       empspacing="10"
-       visible="true"
-       enabled="true"
-       snapvisiblegridlinesonly="true" />
-  </sodipodi:namedview>
-  <metadata
-     id="metadata7">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
+   
+   
+   >
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <rect
-       style="fill:url(#linearGradient4279);fill-opacity:1;stroke:url(#linearGradient4265);stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="rect4257"
-       width="580"
-       height="690"
-       x="190.40916"
-       y="-2401.5928"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
-       inkscape:export-xdpi="250"
-       inkscape:export-ydpi="250" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Lstart);marker-end:none"
-       d="m 742.12489,951.37141 -580,0"
-       id="path3006"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
-       inkscape:export-xdpi="250"
-       inkscape:export-ydpi="250"
-       sodipodi:nodetypes="cc" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot4590"
-       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L;text-anchor:start;text-align:start;writing-mode:lr"><flowRegion
-         id="flowRegion4592"><rect
-           id="rect4594"
-           width="232"
-           height="30"
-           x="364"
-           y="591.36218"
-           style="-inkscape-font-specification:Nimbus Roman No9 L;font-family:Nimbus Roman No9 L;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:28px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%" /></flowRegion><flowPara
-         id="flowPara4596">Точность и сложность</flowPara></flowRoot>    <path
-       style="fill:#646464;fill-opacity:0.390625;stroke:#656465;stroke-width:1.2006166px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 254.96532,637.55013 c 0,0 134.70466,-24.15988 173.84954,-19.89969 39.14488,4.26019 489.05015,24.4759 509.05015,26.89968 -28,1.42379 -464.94985,15.10032 -507,19 -42.05015,3.89969 -175.89969,-25.99999 -175.89969,-25.99999 z"
-       id="path3067"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="czczc"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
-       inkscape:export-xdpi="250"
-       inkscape:export-ydpi="250" />
-    <path
-       style="fill:#646464;fill-opacity:0.390625;stroke:#656465;stroke-width:1.20099998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m -200.58074,1051.5156 c 0,0 351,-39 377,-40 26,-1 101.515,0.6831 134,2 74,3 251,-6 319,35 -65,46 -253.2108,22.0368 -324,26 -43.1358,2.4151 -87.142,1.3433 -124,0 -35.33188,-1.2876 -382,-23 -382,-23 z"
-       id="path3067-5-2"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="czscssc"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
-       inkscape:export-xdpi="250"
-       inkscape:export-ydpi="250" />
-    <text
-       xml:space="preserve"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
-       x="483.12488"
-       y="971.3714"
-       id="text3021"
-       sodipodi:linespacing="125%"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
-       inkscape:export-xdpi="250"
-       inkscape:export-ydpi="250"><tspan
-         sodipodi:role="line"
-         id="tspan3217"
-         x="483.12488"
-         y="971.3714">1980</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
-       x="619.12488"
-       y="972.3714"
-       id="text3021-3"
-       sodipodi:linespacing="125%"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
-       inkscape:export-xdpi="250"
-       inkscape:export-ydpi="250"><tspan
-         sodipodi:role="line"
-         id="tspan3029"
-         x="619.12488"
-         y="972.3714">2000</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
-       x="277.12488"
-       y="973.3714"
-       id="text3021-36"
-       sodipodi:linespacing="125%"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
-       inkscape:export-xdpi="250"
-       inkscape:export-ydpi="250"><tspan
-         sodipodi:role="line"
-         id="tspan3219"
-         x="277.12488"
-         y="973.3714">1950</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
-       x="327"
-       y="830.36218"
-       id="text3021-5"
-       sodipodi:linespacing="125%"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
-       inkscape:export-xdpi="250"
-       inkscape:export-ydpi="250"><tspan
-         sodipodi:role="line"
-         id="tspan3065"
-         x="327"
-         y="830.36218">1800</tspan></text>
     <path
        style="fill:#646464;fill-opacity:0.390625;stroke:#656465;stroke-width:1.2006166px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 244.7746,819.13593 c 0,0 48.39159,-38.0586 100,-30 56.10841,2.0586 288.70403,8.26008 309,35 -20.70403,25.73992 -249.39159,26.9414 -309,31 -59.60841,4.0586 -100,-36 -100,-36 z"
        id="path3067-5"
-       inkscape:connector-curvature="0"
+       
        sodipodi:nodetypes="ccczc"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
-       inkscape:export-xdpi="250"
-       inkscape:export-ydpi="250" />
+       
+       
+        />
     <path
        style="fill:#646464;fill-opacity:0.390625;stroke:#656465;stroke-width:1.07518852px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 606.82667,850.60186 c 0,0 55.95114,-27.40663 104.03811,-30.06303 48.08697,-2.65641 181.70908,15.08099 176.06447,30.06303 -5.64462,14.98204 -127.9775,32.71944 -176.06447,30.06303 -48.08697,-2.6564 -104.03811,-30.06303 -104.03811,-30.06303 z"
        id="path3067-5-2-7"
-       inkscape:connector-curvature="0"
+       
        sodipodi:nodetypes="czzzc"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
-       inkscape:export-xdpi="250"
-       inkscape:export-ydpi="250" />
+       
+       
+        />
     <path
        style="fill:#646464;fill-opacity:0.390625;stroke:#656465;stroke-width:0.96182418px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m -161.96521,-174.63799 c 0,0 136.09831,-27.30464 174.50707,-29.96605 38.40876,-2.66143 94.848,-1.15215 95.57658,27.96831 0.72858,29.12047 -57.16782,34.62522 -95.57658,31.9638 -38.40876,-2.66143 -174.50707,-29.96606 -174.50707,-29.96606 z"
        id="path3067-5-2-7-0"
-       inkscape:connector-curvature="0"
+       
        sodipodi:nodetypes="czzzc"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
-       inkscape:export-xdpi="250"
-       inkscape:export-ydpi="250" />
+       
+       
+        />
     <path
        style="fill:#646464;fill-opacity:0.390625;stroke:#656465;stroke-width:1.2006166px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 639.89654,952.04466 c 0,0 59.89159,-20.55859 116.5,-20.49999 56.60841,0.0586 275.99996,9.99999 286.99996,25.99999 -11.5,11.50001 -231.89155,21.94141 -289.49996,20.00001 -57.60841,-1.9414 -114,-25.50001 -114,-25.50001 z"
        id="path3067-5-23"
-       inkscape:connector-curvature="0"
+       
        sodipodi:nodetypes="czczc"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
-       inkscape:export-xdpi="250"
-       inkscape:export-ydpi="250" />
+       
+       
+        />
     <path
        style="fill:#646464;fill-opacity:0.390625;stroke:#656465;stroke-width:1.06611526px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 19.688017,700.69482 c 0,0 51.53981,-18.89335 108.753063,-21.751 57.21326,-2.85765 333.38144,17.75033 346.38144,24.251 -12.5,4.50067 -289.16818,22.10865 -346.38144,19.251 -57.213253,-2.85765 -108.753063,-21.751 -108.753063,-21.751 z"
        id="path3067-5-23-1"
-       inkscape:connector-curvature="0"
+       
        sodipodi:nodetypes="czczc"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
-       inkscape:export-xdpi="250"
-       inkscape:export-ydpi="250" />
+       
+       
+        />
     <path
        style="fill:#646464;fill-opacity:0.390625;stroke:#656465;stroke-width:1.02444959px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 767.99208,777.091 c 0,0 62.07485,-27.27681 105.69259,-29.93551 43.61773,-2.65871 94.49965,-1.15097 95.32704,27.93981 0.82739,29.09078 -51.70931,34.58992 -95.32704,31.93122 C 830.06693,804.3678 767.99208,777.091 767.99208,777.091 z"
        id="path3067-5-2-7-0-2"
-       inkscape:connector-curvature="0"
+       
        sodipodi:nodetypes="czzzc"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
-       inkscape:export-xdpi="250"
-       inkscape:export-ydpi="250" />
+       
+       
+        />
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:none"
        id="rect4289"
@@ -800,13 +85,13 @@
        height="724.59216"
        x="429.37335"
        y="-1320.7164"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
-       inkscape:export-xdpi="250"
-       inkscape:export-ydpi="250" />
+       
+       
+        />
     <path
        transform="matrix(0.08614025,0.49351773,-2.1172483,0.08221831,1861.3419,145.97338)"
        sodipodi:type="arc"
-       style="fill:#9e9efb;fill-opacity:0.49609375;stroke:#646465;stroke-width:1.30699098;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       style="fill:lightgray;fill-opacity:0.49609375;stroke:#646465;stroke-width:1.30699098;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="path4588-2"
        sodipodi:cx="400"
        sodipodi:cy="512.36218"
@@ -816,13 +101,13 @@
        sodipodi:start="0"
        sodipodi:end="6.2734152"
        sodipodi:open="true"
-       inkscape:export-xdpi="250"
-       inkscape:export-ydpi="250"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png" />
+       
+       
+        />
     <path
        transform="matrix(0.08637521,0.48444138,-2.1230234,0.08070622,1864.207,-194.87311)"
        sodipodi:type="arc"
-       style="fill:#9e9efb;fill-opacity:0.49609375;stroke:#646465;stroke-width:1.58418763;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       style="fill:lightgray;fill-opacity:0.49609375;stroke:#646465;stroke-width:1.58418763;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="path4588-2-3"
        sodipodi:cx="400"
        sodipodi:cy="512.36218"
@@ -832,28 +117,25 @@
        sodipodi:start="0"
        sodipodi:end="6.2734152"
        sodipodi:open="true"
-       inkscape:export-xdpi="250"
-       inkscape:export-ydpi="250"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png" />
-    <flowRoot
+       
+       
+        />
+    <text
        xml:space="preserve"
        id="flowRoot4598-35-0-6"
        style="font-size:22px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L Italic"
        transform="translate(424,-534.18782)"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
-       inkscape:export-xdpi="250"
-       inkscape:export-ydpi="250"><flowRegion
-         id="flowRegion4600-62-6-7"><rect
-           id="rect4602-9-2-5"
-           width="478"
-           height="128"
+       
+       
+       
+                    
+          
            x="294"
-           y="594.36218"
-           style="font-size:22px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L Italic" /></flowRegion><flowPara
-         id="flowPara3219">Экология / биоразнообразие</flowPara></flowRoot>    <path
+           y="614.36218"
+         >Экология / биоразнообразие</text>   <path
        transform="matrix(0.07793431,0.48376728,-1.9155539,0.10495081,1759.7838,23.142383)"
        sodipodi:type="arc"
-       style="fill:#9e9efb;fill-opacity:0.49609375;stroke:#646465;stroke-width:1.58418763;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       style="fill:lightgray;fill-opacity:0.49609375;stroke:#646465;stroke-width:1.58418763;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="path4588-2-3-5"
        sodipodi:cx="400"
        sodipodi:cy="512.36218"
@@ -863,43 +145,43 @@
        sodipodi:start="0"
        sodipodi:end="6.2734152"
        sodipodi:open="true"
-       inkscape:export-xdpi="250"
-       inkscape:export-ydpi="250"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png" />
-    <flowRoot
+       
+       
+        />
+    <text
        xml:space="preserve"
        id="flowRoot4598-35-0-6-6"
        style="font-size:22px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L Italic"
        transform="translate(426,-323.18782)"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
-       inkscape:export-xdpi="250"
-       inkscape:export-ydpi="250"><flowRegion
-         id="flowRegion4600-62-6-7-2"><rect
-           id="rect4602-9-2-5-9"
-           width="478"
-           height="128"
+       
+       
+       
+         
+
+           
+          
            x="294"
-           y="594.36218"
-           style="font-size:22px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L Italic" /></flowRegion><flowPara
-         id="flowPara3217">Сравнительная экспрессия / представленность </flowPara></flowRoot>    <flowRoot
+           y="614.36218"
+
+         >Сравнительная экспрессия / представленность </text>   <text
        xml:space="preserve"
        id="flowRoot4598-35-0-6-2"
        style="font-size:22px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L Italic"
        transform="translate(435,-200.18782)"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
-       inkscape:export-xdpi="250"
-       inkscape:export-ydpi="250"><flowRegion
-         id="flowRegion4600-62-6-7-8"><rect
-           id="rect4602-9-2-5-97"
-           width="478"
-           height="128"
+       
+       
+       
+         
+
+           
+          
            x="294"
-           y="594.36218"
-           style="font-size:22px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L Italic" /></flowRegion><flowPara
-         id="flowPara3213">Аннотация / скрининг</flowPara></flowRoot>    <path
+           y="614.36218"
+           
+         >Аннотация / скрининг</text>   <path
        transform="matrix(0.08612582,0.50999493,-2.1168937,0.08496335,1854.8523,253.05995)"
        sodipodi:type="arc"
-       style="fill:#9e9efb;fill-opacity:0.49609375;stroke:#646465;stroke-width:1.30699098;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       style="fill:lightgray;fill-opacity:0.49609375;stroke:#646465;stroke-width:1.30699098;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="path4588-2-6"
        sodipodi:cx="400"
        sodipodi:cy="512.36218"
@@ -909,28 +191,28 @@
        sodipodi:start="0"
        sodipodi:end="6.2734152"
        sodipodi:open="true"
-       inkscape:export-xdpi="250"
-       inkscape:export-ydpi="250"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png" />
-    <flowRoot
+       
+       
+        />
+    <text
        xml:space="preserve"
        id="flowRoot4598-35-0-6-2-1"
        style="font-size:22px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L Italic"
        transform="translate(436.32843,-91.001525)"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
-       inkscape:export-xdpi="250"
-       inkscape:export-ydpi="250"><flowRegion
-         id="flowRegion4600-62-6-7-8-2"><rect
-           id="rect4602-9-2-5-97-9"
-           width="478"
-           height="128"
+       
+       
+       
+         
+
+           
+          
            x="294"
-           y="594.36218"
-           style="font-size:22px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L Italic" /></flowRegion><flowPara
-         id="flowPara3215">Ассемблирование</flowPara></flowRoot>    <path
+           y="614.36218"
+           
+         >Ассемблирование</text>   <path
        transform="matrix(0.07793431,0.48376728,-1.9155539,0.10495081,1753.7838,-322.10932)"
        sodipodi:type="arc"
-       style="fill:#9e9efb;fill-opacity:0.49609375;stroke:#646465;stroke-width:1.58418763;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       style="fill:lightgray;fill-opacity:0.49609375;stroke:#646465;stroke-width:1.58418763;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="path4588-2-3-5-4"
        sodipodi:cx="400"
        sodipodi:cy="512.36218"
@@ -940,190 +222,164 @@
        sodipodi:start="0"
        sodipodi:end="6.2734152"
        sodipodi:open="true"
-       inkscape:export-xdpi="250"
-       inkscape:export-ydpi="250"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png" />
-    <flowRoot
+       
+       
+        />
+    <text
        xml:space="preserve"
        id="flowRoot4598-35-0-6-6-5"
        style="font-size:22px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L Italic"
        transform="translate(426,-663.18782)"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
-       inkscape:export-xdpi="250"
-       inkscape:export-ydpi="250"><flowRegion
-         id="flowRegion4600-62-6-7-2-0"><rect
-           id="rect4602-9-2-5-9-3"
-           width="478"
-           height="128"
+       
+       
+       
+         
+
+           
+          
            x="294"
-           y="594.36218"
-           style="font-size:22px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L Italic" /></flowRegion><flowPara
-         id="flowPara3221">Филогенетика / деревья</flowPara><flowPara
-         id="flowPara3223" /></flowRoot>    <path
-       style="fill:none;stroke:url(#linearGradient4299);stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.609375;stroke-dasharray:none"
-       d="m 455,344.36218 282,-2"
-       id="path4291"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
-       inkscape:export-xdpi="250"
-       inkscape:export-ydpi="250" />
-    <path
-       style="fill:none;stroke:url(#linearGradient4318);stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.609375;stroke-dasharray:none"
-       d="m 640.23759,719.75114 205,3"
-       id="path4291-5"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
-       inkscape:export-xdpi="250"
-       inkscape:export-ydpi="250" />
-    <path
-       style="fill:none;stroke:url(#linearGradient4318-7);stroke-width:3.00715065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.609375;stroke-dasharray:none"
-       d="m 324.00726,479.36218 417.98548,0"
-       id="path4291-0"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
-       inkscape:export-xdpi="250"
-       inkscape:export-ydpi="250" />
+           y="614.36218"
+           
+         >Филогенетика / деревья</text>
     <path
        style="fill:none;stroke:#9f0000;stroke-width:2.03133464;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        d="m -96.952377,-89.092716 0.96868,556.968676"
        id="path5431-5-3-4-8"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
-       inkscape:export-xdpi="250"
-       inkscape:export-ydpi="250" />
-    <flowRoot
+       
+       
+       
+       
+        />
+    <text
        xml:space="preserve"
        id="flowRoot4598-35-7-6-0-8"
-       style="font-size:22px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#976465;stroke-opacity:1;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L Italic"
+       style="font-size:22px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L Italic"
        transform="translate(-319,-762.18782)"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
-       inkscape:export-xdpi="250"
-       inkscape:export-ydpi="250"><flowRegion
-         id="flowRegion4600-62-0-2-9-7"><rect
-           id="rect4602-9-9-9-3-9"
-           width="478"
-           height="128"
+       
+       
+       
+         
+
+           
+          
            x="294"
-           y="594.36218"
-           style="font-size:22px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;stroke:#976465;stroke-opacity:1;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L Italic" /></flowRegion><flowPara
-         id="flowPara4245">Оптимизация</flowPara></flowRoot>    <path
+           y="614.36218"
+            
+         >Оптимизация</text>   
+   <path
        style="fill:none;stroke:#000000;stroke-width:1.79999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.4921875;stroke-dasharray:1.8, 1.8;stroke-dashoffset:0;marker-end:none"
        d="M 640,524.36218 743.17157,513.64645"
        id="path3154"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       
+        />
     <path
        style="fill:none;stroke:#000000;stroke-width:1.79999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.4921875;stroke-dasharray:1.8, 1.8;stroke-dashoffset:0;marker-end:none"
        d="M 640,401.36218 762.97056,181.17632"
        id="path3154-7"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       
+        />
     <path
        style="fill:none;stroke:#000000;stroke-width:1.79999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.4921875;stroke-dasharray:1.8, 1.8;stroke-dashoffset:0;marker-end:none"
        d="m 646.58579,415.6637 105.48528,82.15432"
        id="path3154-7-5"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       
+        />
     <path
        style="fill:none;stroke:#000000;stroke-width:1.79999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.4921875;stroke-dasharray:1.8, 1.8;stroke-dashoffset:0;marker-end:none"
        d="M 648.65685,322.16289 750.72792,276.79536"
        id="path3154-7-5-9"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       
+        />
     <path
        style="fill:none;stroke:#000000;stroke-width:1.79999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.4921875;stroke-dasharray:1.8, 1.8;stroke-dashoffset:0;marker-end:none"
        d="M 649.48528,398.09182 761.87006,277.72429"
        id="path3154-7-5-0"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       
+        />
     <path
        style="fill:none;stroke:#000000;stroke-width:1.79999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.4921875;stroke-dasharray:1.8, 1.8;stroke-dashoffset:0;marker-end:none"
        d="M 641.41421,227.39334 758.97056,486.82689"
        id="path3154-7-5-06"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       
+        />
     <path
        style="fill:none;stroke:#000000;stroke-width:1.79999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.4921875;stroke-dasharray:1.8, 1.8;stroke-dashoffset:0;marker-end:none"
        d="M 639.17157,227.34665 747,257.79536"
        id="path3154-7-5-8"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc"
-       inkscape:export-xdpi="250"
-       inkscape:export-ydpi="250" />
+       
+       
+       
+        />
     <path
        style="fill:none;stroke:#000000;stroke-width:1.79999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.4921875;stroke-dasharray:1.8, 1.8;stroke-dashoffset:0;marker-end:none"
        d="M 638.65685,8.422773 747.41421,53.51823"
        id="path3154-7-5-7"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       
+        />
     <path
        style="fill:none;stroke:#000000;stroke-width:1.79999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.4921875;stroke-dasharray:1.8, 1.8;stroke-dashoffset:0;marker-end:none"
        d="m 633,-70.15082 123,314"
        id="path3154-7-5-89"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       
+        />
     <path
        style="fill:none;stroke:#000000;stroke-width:1.79999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.4921875;stroke-dasharray:1.8, 1.8;stroke-dashoffset:0;marker-end:none"
        d="M 637.75735,501.11831 759.2132,183.24615"
        id="path3154-7-5-93"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       
+        />
     <path
        style="fill:none;stroke:#000000;stroke-width:1.79999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.4921875;stroke-dasharray:1.8, 1.8;stroke-dashoffset:0;marker-end:none"
        d="M 646,306.84918 767.2132,-38.579319"
        id="path3154-7-5-78"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       
+        />
     <path
        style="fill:none;stroke:#000000;stroke-width:1.79999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.4921875;stroke-dasharray:1.8, 1.8;stroke-dashoffset:0;marker-end:none"
        d="M 652.31371,311.33446 749,134.84918"
        id="path3154-7-5-03"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       
+        />
     <path
        style="fill:none;stroke:#000000;stroke-width:1.79999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.4921875;stroke-dasharray:1.8, 1.8;stroke-dashoffset:0;marker-end:none"
        d="m 638,511.84918 114,-140"
        id="path3154-7-5-6"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       
+        />
     <path
        style="fill:none;stroke:#000000;stroke-width:1.79999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.4921875;stroke-dasharray:1.8, 1.8;stroke-dashoffset:0;marker-end:none"
        d="m 650.34315,116.17508 91.82842,260.5513"
        id="path3154-7-5-1"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       
+        />
     <path
        style="fill:none;stroke:#000000;stroke-width:1.79999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.4921875;stroke-dasharray:1.8, 1.8;stroke-dashoffset:0;marker-end:none"
        d="m 655.41421,109.17508 98.14214,134.82338"
        id="path3154-7-5-65"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       
+        />
     <path
        style="fill:none;stroke:#000000;stroke-width:1.79999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.4921875;stroke-dasharray:1.8, 1.8;stroke-dashoffset:0;marker-end:none"
        d="m 649.74264,215.09263 94.58579,-53.18377"
        id="path3154-7-5-06-3"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       
+        />
     <path
-       inkscape:connector-curvature="0"
+       
        id="path5412-10-04-9-6"
        d="m -84.85013,4.3593776 c -2.20645,0.0827 -4.06433,-1.64088 -4.14706,-3.84732997 -0.0827,-2.20645003 1.64088,-4.06433003 3.84733,-4.14706003 2.20645,-0.0827 4.06433,1.64088 4.14705,3.84733003 0.0827,2.20644997 -1.64087,4.06432997 -3.84732,4.14705997 z"
        style="fill:#a30000;fill-opacity:1;fill-rule:evenodd;stroke:#a30000;stroke-width:0.8pt;stroke-opacity:1"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
-       inkscape:export-xdpi="250"
-       inkscape:export-ydpi="250" />
+       
+       
+        />
     <path
-       inkscape:connector-curvature="0"
+       
        id="path5412-10-04-9-1"
        d="m -84.85013,72.359378 c -2.20645,0.0827 -4.06433,-1.64088 -4.14706,-3.84733 -0.0827,-2.20645 1.64088,-4.06433 3.84733,-4.14706 2.20645,-0.0827 4.06433,1.64088 4.14705,3.84733 0.0827,2.20645 -1.64087,4.06433 -3.84732,4.14706 z"
        style="fill:#a30000;fill-opacity:1;fill-rule:evenodd;stroke:#a30000;stroke-width:0.8pt;stroke-opacity:1"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
-       inkscape:export-xdpi="250"
-       inkscape:export-ydpi="250" />
+       
+       
+        />
     <rect
        style="fill:#646464;fill-opacity:0.39215686;stroke:#646464;stroke-width:0.92793852;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect3257"
@@ -1173,115 +429,110 @@
        height="74.272064"
        x="165.62047"
        y="74.774132" />
-    <flowRoot
+    <text
        xml:space="preserve"
        id="flowRoot4598-35-7"
-       style="font-size:22px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#976465;stroke-opacity:1;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L Italic"
+       style="font-size:22px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L Italic"
        transform="translate(-97.054802,-195.45602)"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
-       inkscape:export-xdpi="250"
-       inkscape:export-ydpi="250"><flowRegion
-         id="flowRegion4600-62-0"><rect
-           id="rect4602-9-9"
-           width="478"
-           height="128"
+       
+       
+       
+            
+          
            x="294"
-           y="594.36218"
-           style="font-size:22px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;stroke:#976465;stroke-opacity:1;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L Italic" /></flowRegion><flowPara
-         id="flowPara3227">Комбинаторика</flowPara></flowRoot>    <flowRoot
+           y="614.36218"
+            
+         >Комбинаторика</text>   <text
        xml:space="preserve"
        id="flowRoot4598-35-0"
-       style="font-size:22px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#976465;stroke-opacity:1;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L Italic"
+       style="font-size:22px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L Italic"
        transform="translate(-96.350802,-604.89554)"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
-       inkscape:export-xdpi="250"
-       inkscape:export-ydpi="250"><flowRegion
-         id="flowRegion4600-62-6"><rect
-           id="rect4602-9-2"
-           width="478"
-           height="128"
+       
+       
+       
+  
+           
+          
            x="294"
-           y="594.36218"
-           style="font-size:22px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;stroke:#976465;stroke-opacity:1;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L Italic" /></flowRegion><flowPara
-         id="flowPara3212">Дифференциальные уравнения</flowPara></flowRoot>    <flowRoot
+           y="614.36218"
+            
+         >Дифференциальные уравнения</text>   <text
        xml:space="preserve"
        id="flowRoot4598-35-7-6-0"
-       style="font-size:22px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#976465;stroke-opacity:1;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L Italic"
+       style="font-size:22px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L Italic"
        transform="translate(-96.108802,-107.60204)"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
-       inkscape:export-xdpi="250"
-       inkscape:export-ydpi="250"><flowRegion
-         id="flowRegion4600-62-0-2-9"><rect
-           id="rect4602-9-9-9-3"
-           width="478"
-           height="128"
+       
+       
+       
+         
+
+           
+          
            x="294"
-           y="594.36218"
-           style="font-size:22px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;stroke:#976465;stroke-opacity:1;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L Italic" /></flowRegion><flowPara
-         id="flowPara3208">Алгоритмы выравнивания</flowPara></flowRoot>    <flowRoot
+           y="614.36218"
+            
+         >Алгоритмы выравнивания</text>   <text
        xml:space="preserve"
        id="flowRoot4598-35-7-6-7"
-       style="font-size:22px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#976465;stroke-opacity:1;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L Italic"
+       style="font-size:22px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L Italic"
        transform="translate(-96.174802,-693.70968)"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
-       inkscape:export-xdpi="250"
-       inkscape:export-ydpi="250"><flowRegion
-         id="flowRegion4600-62-0-2-5"><rect
-           id="rect4602-9-9-9-9"
-           width="478"
-           height="128"
+       
+       
+       
+         
+
+           
+          
            x="294"
-           y="594.36218"
-           style="font-size:22px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;stroke:#976465;stroke-opacity:1;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L Italic" /></flowRegion><flowPara
-         id="flowPara3229">Линейная алгебра</flowPara></flowRoot>    <flowRoot
+           y="614.36218"
+            
+         >Линейная алгебра</text>   <text
        xml:space="preserve"
        id="flowRoot4598-35-7-6-0-8-1"
-       style="font-size:22px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#976465;stroke-opacity:1;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L Italic"
+       style="font-size:22px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L Italic"
        transform="translate(-97.054802,-494.12432)"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
-       inkscape:export-xdpi="250"
-       inkscape:export-ydpi="250"><flowRegion
-         id="flowRegion4600-62-0-2-9-7-0"><rect
-           id="rect4602-9-9-9-3-9-6"
-           width="478"
-           height="128"
+       
+       
+       
+         
+
+           
+          
            x="294"
-           y="594.36218"
-           style="font-size:22px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;stroke:#976465;stroke-opacity:1;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L Italic" /></flowRegion><flowPara
-         id="flowPara4247">Классификация</flowPara></flowRoot>    <flowRoot
+           y="614.36218"
+            
+         >Классификация</text>   <text
        xml:space="preserve"
        id="flowRoot4598-35-7-6-7-9"
-       style="font-size:22px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#976465;stroke-opacity:1;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L Italic"
+       style="font-size:22px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L Italic"
        transform="translate(-98.682802,-392.34467)"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
-       inkscape:export-xdpi="250"
-       inkscape:export-ydpi="250"><flowRegion
-         id="flowRegion4600-62-0-2-5-4"><rect
-           id="rect4602-9-9-9-9-7"
-           width="478"
-           height="128"
+       
+       
+       
+
+           
+          
            x="294"
-           y="594.36218"
-           style="font-size:22px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;stroke:#976465;stroke-opacity:1;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L Italic" /></flowRegion><flowPara
-         id="flowPara3225">Статистика</flowPara></flowRoot>    <flowRoot
+           y="614.36218"
+            
+         >Статистика</text>   <text
        xml:space="preserve"
        id="flowRoot4598-35-7-6"
-       style="font-size:22px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#976465;stroke-opacity:1;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L Italic"
-       transform="translate(-98.528802,-298.60204)"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
-       inkscape:export-xdpi="250"
-       inkscape:export-ydpi="250"><flowRegion
-         id="flowRegion4600-62-0-2"><rect
-           id="rect4602-9-9-9"
-           width="478"
-           height="128"
+       style="font-size:22px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L Italic"
+       transform="translate(-98.528802,-288.60204)"
+       
+       
+       
+  
+           
+          
            x="294"
-           y="594.36218"
-           style="font-size:22px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;stroke:#976465;stroke-opacity:1;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L Italic" /></flowRegion><flowPara
-         id="flowPara3214">Функционал правдоподобия / EM</flowPara></flowRoot>    <path
+           y="614.36218"
+            
+         >Функционал правдоподобия / EM</text>   <path
        transform="matrix(0.08152995,0.51019739,-2.0039314,0.08499708,1803.3338,-92.290017)"
        sodipodi:type="arc"
-       style="fill:#9e9efb;fill-opacity:0.49609375;stroke:#646465;stroke-width:1.30699098;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       style="fill:lightgray;fill-opacity:0.49609375;stroke:#646465;stroke-width:1.30699098;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="path4588-2-6-2"
        sodipodi:cx="400"
        sodipodi:cy="512.36218"
@@ -1291,29 +542,28 @@
        sodipodi:start="0"
        sodipodi:end="6.2734152"
        sodipodi:open="true"
-       inkscape:export-xdpi="250"
-       inkscape:export-ydpi="250"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png" />
-    <flowRoot
+       
+       
+        />
+    <text
        xml:space="preserve"
        id="flowRoot4598-35-0-6-2-1-9"
        style="font-size:22px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L Italic"
        transform="translate(430.24264,-434.50153)"
-       inkscape:export-filename="/home/sergey/work/herbs/sbio-images/sbhist_scheme.png"
-       inkscape:export-xdpi="250"
-       inkscape:export-ydpi="250"><flowRegion
-         id="flowRegion4600-62-6-7-8-2-1"><rect
-           id="rect4602-9-2-5-97-9-2"
-           width="478"
-           height="128"
+       
+       
+       
+         
+
+           
+          
            x="294"
-           y="594.36218"
-           style="font-size:22px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr;text-anchor:start;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L Italic" /></flowRegion><flowPara
-         id="flowPara4259">Мутации / полиморфизмы</flowPara></flowRoot>    <path
+           y="614.36218"
+          >Мутации / полиморфизмы</text>   <path
        style="fill:none;stroke:#000000;stroke-width:1.79999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.4921875;stroke-dasharray:1.8, 1.8;stroke-dashoffset:0;marker-end:none"
        d="m 631.62132,-92.185546 118.75736,16.095457"
        id="path3154-7-5-7-0"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       
+        />
   </g>
 </svg>

@@ -9,8 +9,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
+   width="500"
+   height="300"
    viewBox="0 0 210 297"
    version="1.1"
    id="svg8"
@@ -194,68 +194,68 @@
          x="42.228584"
          y="49.400967">that produces the anti-depression metabolite hypericin (Hyp)</tspan></text>
     <rect
-       style="fill:#ff0000;fill-opacity:0.25098039;stroke-width:0.26458332"
+       style="fill:black;fill-opacity:0.4;stroke-width:0.26458332"
        id="rect30"
        width="49.388889"
        height="11.288887"
        x="40.922222"
        y="30.299994" />
     <rect
-       style="fill:#ff0000;fill-opacity:0.25098039;stroke-width:0.26458332"
+       style="fill:black;fill-opacity:0.4;stroke-width:0.26458332"
        id="rect32"
        width="49.388866"
        height="11.288858"
        x="94.544449"
        y="69.811104" />
     <rect
-       style="fill:#0000ff;fill-opacity:0.25098039;stroke-width:0.26458332"
+       style="fill:black;fill-opacity:0.15;stroke-width:0.26458332"
        id="rect34"
        width="67.733337"
        height="9.87778"
        x="163.68889"
-       y="95.211105" />
+       y="90" />
     <rect
-       style="fill:#0000ff;fill-opacity:0.25098039;stroke-width:0.26458332"
+       style="fill:black;fill-opacity:0.15;stroke-width:0.26458332"
        id="rect36"
        width="71.96666"
        height="9.87778"
        x="249.76668"
-       y="95.211105" />
+       y="90" />
     <rect
-       style="fill:#0000ff;fill-opacity:0.25098039;stroke-width:0.26458332"
+       style="fill:black;fill-opacity:0.15;stroke-width:0.26458332"
        id="rect38"
        width="47.977829"
        height="11.288889"
-       x="139.7"
-       y="43.802433" />
+       x="138"
+       y="40" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.86500001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect845"
        width="42.475872"
        height="10.262431"
        x="121.21302"
-       y="94.826454" />
+       y="90" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.86500001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect845-0"
        width="28.222219"
        height="9.877779"
        x="81.844444"
-       y="95.211105" />
+       y="90" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.86500001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect845-6"
        width="14.111115"
        height="9.87778"
        x="67.73333"
-       y="95.211105" />
+       y="90" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.86500001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect845-2"
        width="41.378208"
        height="10.820363"
-       x="235.65556"
-       y="42.999996" />
+       x="234"
+       y="40" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1.70000004;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Send)"
        d="M 99.391301,80.999999 81.000008,93.130441"

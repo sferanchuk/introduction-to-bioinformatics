@@ -7,7 +7,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1200"
+   width="1400"
    height="480"
    id="drawing"
    background-color="white"
@@ -211,7 +211,7 @@
   <path
      inkscape:connector-curvature="0"
      id="path81"
-     style="fill:none;stroke:#c83737;stroke-width:2px;stroke-opacity:1"
+     style="fill:none;stroke:gray;stroke-width:5px;stroke-opacity:1"
      d="m 200,246.45225 0,0 28,-16.18564 28,-19.3722 28,-18.24864 28,-12.02219 28,-11.71945 28,-10.45231 28,-22.0875 28,-22.93954 28,-20.860936 28,-15.605127 28,-15.149458 28,-16.344811 28,2.546756 L 592,33.723149 620,20" />
   <line
      y1="433.10678"
@@ -362,17 +362,17 @@
   <path
      inkscape:connector-curvature="0"
      id="path155"
-     style="fill:none;stroke:#2c5aa0;stroke-width:2px;stroke-opacity:1"
+     style="fill:none;stroke:black;stroke-width:2px;stroke-opacity:1"
      d="m 695,292.82797 0,0 28,-5.26134 28,-25.89131 28,-9.76116 28,-7.68432 28,-12.73797 28,-9.27657 28,-16.82243 28,-31.15265 28,-19.52232 28,-21.80686 28,-8.72274 28,-24.506749 28,-8.861198 L 1087,59.11388 1115,20" />
   <path
      inkscape:connector-curvature="0"
      id="path157"
-     style="fill:none;stroke:#2c5aa0;stroke-width:2px;stroke-opacity:1"
+     style="fill:none;stroke:black;stroke-width:2px;stroke-opacity:1"
      d="m 695,303.90447 0,0 28,-6.85359 28,-4.36137 28,-8.44583 28,-3.18449 28,-2.63067 28,-0.13845 28,-14.12254 28,-12.18414 28,-9.27657 28,-10.86881 28,-6.02285 28,-4.29214 28,13.22257 28,-9.06889 28,-2.83835" />
   <path
      inkscape:connector-curvature="0"
      id="path159"
-     style="fill:none;stroke:#2c5aa0;stroke-width:2px;stroke-opacity:1"
+     style="fill:none;stroke:black;stroke-width:2px;stroke-opacity:1"
      d="m 695,334.71097 0,0 28,1.38456 28,-12.3226 28,-14.0533 28,-6.43822 28,-8.51505 28,-4.01524 28,-9.13811 28,-11.49186 28,2.6999 28,-7.33818 28,-4.56906 28,-4.84597 28,6.6459 28,-10.17653 28,2.07684" />
   <text
      id="text165"

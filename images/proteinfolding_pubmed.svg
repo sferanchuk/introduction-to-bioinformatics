@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="500"
+   height="400"
+   viewBox="200 300 700 700"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
@@ -69,7 +69,8 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+      transform="scale(5,5)">
     <path
        id="path3721"
        d="M 270.27803,292.27213 H 59.5957 V 40.322519 H 480.96035 V 292.27213 H 270.27803"
@@ -431,14 +432,14 @@
        id="path3827"
        d="m 59.5957,171.83364 46.7847,-35.25859 46.8225,-3.09882 46.82249,-20.70922 46.82249,2.7965 46.8225,-21.842942 46.82249,11.790652 46.8225,-25.773156 46.82249,-12.055186 46.82249,-7.255786 V 292.23434 H 59.5957 Z"
        clip-path="url(#clipEmfPath1)"
-       style="fill:#004586;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       style="fill:#bbb;fill-opacity:1;fill-rule:evenodd;stroke:none"
        inkscape:connector-curvature="0"
        transform="matrix(0.26458333,0,0,0.26458333,25.077378,88.689914)" />
     <path
        id="path3829"
        d="m 59.5957,267.29257 46.7847,-7.25578 46.8225,-8.4273 46.82249,-4.19475 46.82249,6.72672 46.8225,-14.85169 46.82249,3.66569 46.8225,-1.39825 h 46.82249 l 46.82249,-3.09883 v 53.77596 H 59.5957 Z"
        clip-path="url(#clipEmfPath1)"
-       style="fill:#ff420e;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       style="fill:#999;fill-opacity:1;fill-rule:evenodd;stroke:none"
        inkscape:connector-curvature="0"
        transform="matrix(0.26458333,0,0,0.26458333,25.077378,88.689914)" />
     <text
@@ -705,14 +706,14 @@
            id="path3953"
            d="m 521.5474,164.16216 h -4.00579 v -7.97381 h 7.9738 v 7.97381 z"
            clip-path="url(#clipEmfPath1)"
-           style="fill:#ff420e;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           style="fill:#bbb;fill-opacity:1;fill-rule:evenodd;stroke:none"
            inkscape:connector-curvature="0"
            transform="matrix(0.26458333,0,0,0.26458333,-96.087476,45.697938)" />
         <path
            id="path3955"
            d="m 521.5474,182.15046 h -4.00579 v -7.97381 h 7.9738 v 7.97381 z"
            clip-path="url(#clipEmfPath1)"
-           style="fill:#004586;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           style="fill:#999;fill-opacity:1;fill-rule:evenodd;stroke:none"
            inkscape:connector-curvature="0"
            transform="matrix(0.26458333,0,0,0.26458333,-96.087476,50.640868)" />
         <text
