@@ -53,6 +53,7 @@
      inkscape:current-layer="normal"
      showborder="false"
      inkscape:showpageshadow="false" />
+  <g transform="scale(0.1,0.1)">
   <line
      style="fill:none;stroke:#000000;stroke-width:3.48749995px"
      y1="1180"
@@ -220,109 +221,110 @@
   <path
      inkscape:connector-curvature="0"
      id="path65"
-     style="fill:#1f77b4"
+     style="fill:black"
      d="m 670.67522,1428.7792 a 32.267539,32.267539 0 1 1 0,-64.535 32.267539,32.267539 0 0 1 0,64.535 z"
      class="point" />
   <path
      inkscape:connector-curvature="0"
      id="path67"
-     style="fill:#1f77b4"
+     style="fill:black"
      d="m 1616.9521,1780.9473 a 15.65124,15.65124 0 1 1 0,-31.3024 15.65124,15.65124 0 0 1 0,31.3024 z"
      class="point" />
   <path
      inkscape:connector-curvature="0"
      id="path69"
-     style="fill:#1f77b4"
+     style="fill:black"
      d="m 997.4659,635.76515 a 32.647657,32.647657 0 1 1 0,-65.29532 32.647657,32.647657 0 0 1 0,65.29532 z"
      class="point" />
   <path
      inkscape:connector-curvature="0"
      id="path71"
-     style="fill:#1f77b4"
+     style="fill:black"
      d="m 973.69146,1448.6716 a 19.614295,19.614295 0 1 1 0,-39.2284 19.614295,19.614295 0 0 1 0,39.2284 z"
      class="point" />
   <path
      inkscape:connector-curvature="0"
      id="path73"
-     style="fill:#1f77b4"
+     style="fill:black"
      d="m 495.96869,1531.4007 a 55.808539,55.808539 0 1 1 0,-111.617 55.808539,55.808539 0 0 1 0,111.617 z"
      class="point" />
   <path
      inkscape:connector-curvature="0"
      id="path75"
-     style="fill:#1f77b4"
+     style="fill:black"
      d="m 986.21846,1084.9264 a 19.874304,19.874304 0 1 1 0,-39.7486 19.874304,19.874304 0 0 1 0,39.7486 z"
      class="point" />
   <path
      inkscape:connector-curvature="0"
      id="path77"
-     style="fill:#1f77b4"
+     style="fill:black"
      d="m 700.66541,1392.5935 a 26.321947,26.321947 0 1 1 0,-52.6438 26.321947,26.321947 0 0 1 0,52.6438 z"
      class="point" />
   <path
      inkscape:connector-curvature="0"
      id="path79"
-     style="fill:#1f77b4"
+     style="fill:black"
      d="m 1482.8337,1359.7803 a 28.54632,28.54632 0 1 1 0,-57.0926 28.54632,28.54632 0 0 1 0,57.0926 z"
      class="point" />
   <path
      inkscape:connector-curvature="0"
      id="path81"
-     style="fill:#1f77b4"
+     style="fill:black"
      d="m 656.29185,1099.0835 a 33.58386,33.58386 0 1 1 0,-67.1676 33.58386,33.58386 0 0 1 0,67.1676 z"
      class="point" />
   <path
      inkscape:connector-curvature="0"
      id="path83"
-     style="fill:#1f77b4"
+     style="fill:black"
      d="m 1131.3413,1419.5756 a 19.74576,19.74576 0 1 1 0,-39.4916 19.74576,19.74576 0 0 1 0,39.4916 z"
      class="point" />
   <path
      inkscape:connector-curvature="0"
      id="path85"
-     style="fill:#1f77b4"
+     style="fill:black"
      d="m 1579.9772,923.25546 a 22.837565,22.837565 0 1 1 0,-45.67512 22.837565,22.837565 0 0 1 0,45.67512 z"
      class="point" />
   <path
      inkscape:connector-curvature="0"
      id="path87"
-     style="fill:#1f77b4"
+     style="fill:black"
      d="m 1885.815,1421.4762 a 25.211729,25.211729 0 1 1 0,-50.4232 25.211729,25.211729 0 0 1 0,50.4232 z"
      class="point" />
   <path
      inkscape:connector-curvature="0"
      id="path89"
-     style="fill:#1f77b4"
+     style="fill:black"
      d="m 1232.707,612.59809 a 27.785546,27.785546 0 1 1 0,-55.57107 27.785546,27.785546 0 0 1 0,55.57107 z"
      class="point" />
   <path
      inkscape:connector-curvature="0"
      id="path91"
-     style="fill:#1f77b4"
+     style="fill:black"
      d="m 1685.92,813.69174 a 16.603921,16.603921 0 1 1 0,-33.20784 16.603921,16.603921 0 0 1 0,33.20784 z"
      class="point" />
   <path
      inkscape:connector-curvature="0"
      id="path93"
-     style="fill:#1f77b4"
+     style="fill:black"
      d="m 1703.9945,1593.3981 a 18.29424,18.29424 0 1 1 0,-36.5884 18.29424,18.29424 0 0 1 0,36.5884 z"
      class="point" />
   <path
      inkscape:connector-curvature="0"
      id="path95"
-     style="fill:#1f77b4"
+     style="fill:black"
      d="m 1305.9965,810.28796 a 19.480421,19.480421 0 1 1 0,-38.96084 19.480421,19.480421 0 0 1 0,38.96084 z"
      class="point" />
   <path
      inkscape:connector-curvature="0"
      id="path97"
-     style="fill:#1f77b4"
+     style="fill:black"
      d="m 1306.7779,1024.222 a 14.483515,14.483515 0 1 1 0,-28.9668 14.483515,14.483515 0 0 1 0,28.9668 z"
      class="point" />
   <path
      inkscape:connector-curvature="0"
      id="path99"
-     style="fill:#1f77b4"
+     style="fill:black"
      d="m 1457.4921,1266.9477 a 14.802048,14.802048 0 1 1 0,-29.604 14.802048,14.802048 0 0 1 0,29.604 z"
      class="point" />
+  </g>
 </svg>
